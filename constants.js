@@ -157,1008 +157,1005 @@ export const tracks: Tracks = {
     }],
   },
   
-
   "PROCESSES": {
-    "displayName": "Web client",
+    "displayName": "Processes",
     "category": "A",
-    "description": "Develops expertise in web client technologies, such as HTML, CSS, and JavaScript",
+    "description": "Develops and refines eco-friendly operational processes within software development lifecycle.",
     "milestones": [{
-      "summary": "Works effectively within established web client architectures, following current best practices",
+      "summary": "Integrates basic green processes into the software development lifecycle, promoting initial sustainability efforts.",
       "signals": [
-        "Makes minor modifications to existing screens",
-        "Fixes simple design quality issues",
-        "Uses CSS appropriately, following style guide",
+        "Incorporates eco-friendly requirements in project planning stages",
+        "Adopts green coding standards",
+        "Utilizes tools for tracking energy consumption in development and testing environments"
       ],
       "examples": [
-        "Implemented sticky footer on the post page",
-        "Hooked up the action to dismiss a post from a stream",
-        "Built PaymentHistory screen using ResponseScreen",
+        "Implemented a linter for eco-friendly coding practices",
+        "Adopted a low-energy consumption testing protocol",
+        "Included sustainability checkpoints in the software release checklist"
+      ]
+    }, {
+      "summary": "Optimizes existing processes for enhanced sustainability, contributing to reduced carbon footprint and operational costs.",
+      "signals": [
+        "Revamps development pipelines to include automated sustainability checks",
+        "Leads green refactoring efforts for existing codebases",
+        "Institutes a policy for regular energy consumption audits"
+      ],
+      "examples": [
+        "Integrated automated carbon footprint analysis in CI/CD pipelines",
+        "Reduced server usage by optimizing continuous integration pipelines",
+        "Established a quarterly review process for assessing the environmental impact of projects"
+      ]
+    }, {
+      "summary": "Champions innovative, sustainable process frameworks, establishing new industry standards for eco-friendly development.",
+      "signals": [
+        "Develops cutting-edge methodologies for sustainable software lifecycle management",
+        "Influences broader adoption of green processes across projects and teams",
+        "Balances high-performance demands with environmental sustainability requirements"
+      ],
+      "examples": [
+        "Created a zero-waste deployment strategy adopted company-wide",
+        "Pioneered a new, energy-efficient testing framework",
+        "Hosted workshops on sustainable development practices for external developers"
       ],
     }, {
-      "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
+      "summary": "Leads the digital transformation towards green practices, optimizing every phase of the software development lifecycle for sustainability.",
       "signals": [
-        "Makes sensible abstractions based on template and code patterns",
-        "Specs and builds interactive components independently",
-        "Prototypes simple new features quickly",
+        "Integrates sustainable development goals (SDGs) into project management frameworks",
+        "Automates sustainability reporting within development cycles",
+        "Innovates process improvements that significantly lower the environmental impact"
       ],
       "examples": [
-        "Built credit card input component",
-        "Created shared buttons template",
-        "Built modal system",
-      ],
-    }, {
-      "summary": "Designs major new features and demonstrates a nuanced understanding of browser constraints",
+        "Implemented a DevOps pipeline that automatically calculates and reports on the carbon footprint of each deployment",
+        "Developed a sustainability dashboard for real-time tracking of software projects' environmental impact",
+      ]
+    },{
+      "summary": "Pioneers revolutionary process methodologies that become industry benchmarks for sustainable software development.",
       "signals": [
-        "Provides useful design feedback and suggests feasible alternatives",
-        "Performs systemic tasks to significantly minimise bundle size",
-        "Acts a caretaker for all of web client code",
+        "Establishes global collaborations to define sustainable process standards",
+        "Leads industry-wide initiatives to adopt green software development practices",
+        "Advocates for regulatory changes that promote sustainability in technology"
       ],
       "examples": [
-        "Designed font loading strategy for Medium",
-        "Researched utility of service workers for Medium",
-        "Designed and implemented ResponseScreen",
-      ],
-    }, {
-      "summary": "Builds complex, reusable architectures that pioneer best practices and enable engineers to work more effectively",
-      "signals": [
-        "Pioneers architecture migrations that reduce programmer burden",
-        "Implements complex UI transitions that bring delight",
-        "Makes architectural decisions that eliminate entire classes of bugs",
-      ],
-      "examples": [
-        "Designed Medium's post morpher and delta system",
-        "Implemented Medium's scrolling text over image blur",
-        "Designed and pioneered proto-based model storage",
-      ],
-    }, {
-      "summary": "Is an industry-leading expert in web client or sets strategic web client direction for an eng team",
-      "signals": [
-        "Invents new techniques to innovate and overcome browser constraints",
-        "Identifies and solved systemic problems with current architecture",
-        "Defines a long-term vision for web client and ensures projects are in service of it",
-      ],
-      "examples": [
-        "Invented CSS in JS",
-        "Defined and drove migration strategy to Lite",
-        "Implemented unidirectional data flow to completion",
-      ],
+        "Founded an international consortium for sustainable software practices.",
+        "Organized a global conference on green technology processes, setting the stage for widespread industry transformation",
+      ]
     }],
   },
 
   "COMMITMENTS": {
-    "displayName": "Foundations",
+    "displayName": "Commitments",
     "category": "A",
-    "description": "Develops expertise in foundational systems, such as deployments, pipelines, databases and machine learning",
+    "description": "Embeds a culture of responsibility and accountability for sustainability within organizations, ensuring commitments lead to tangible outcomes.",
     "milestones": [{
-      "summary": "Works effectively within established structures, following current best practices",
+      "summary": "Embeds initial sustainability commitments into project goals, ensuring a foundation for eco-friendly practices.",
       "signals": [
-        "Writes thorough postmortems for service outages",
-        "Makes simple configuration changes to services",
-        "Performs backfills safely and effectively, without causing pages",
+        "Identifies and sets specific sustainability targets for projects",
+        "Begins integrating sustainable considerations into project planning",
+        "Commits to regular review and reporting on sustainability progress"
       ],
       "examples": [
-        "Made safe and effective Ansible changes",
-        "Implemented new ETL pipelines based on existing ones",
-        "Resolved out of disk errors independently",
-      ],
+        "Defined energy efficiency goals for a new software development project",
+        "Incorporated environmental impact assessment in the project lifecycle",
+        "Established a baseline for carbon footprint for current IT infrastructure"
+      ]
     }, {
-      "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
+      "summary": "Elevates commitment by driving projects to not just meet, but exceed sustainability goals, embedding deeper green practices.",
       "signals": [
-        "Made minor version upgrades to technologies",
-        "Builds machine learning jobs within the ML framework",
-        "Triages service issues correctly and independently",
+        "Leads projects with sustainability as a core objective, beyond mere compliance",
+        "Implements innovative solutions to achieve greater sustainability outcomes",
+        "Engages stakeholders across the organization to align on and support sustainability efforts"
       ],
       "examples": [
-        "Upgraded NodeJS from 8.0 to 8.1.1",
-        "Built custom packages for RPMs",
-        "Improved ETL efficiency by improving Dynamo to S3 loading",
-      ],
+        "Exceeded initial carbon reduction targets through innovative cloud optimization strategies",
+        "Deployed a company-wide sustainability challenge, resulting in significant energy savings",
+        "Initiated a partnership with suppliers to reduce the environmental impact of hardware procurement"
+      ]
     }, {
-      "summary": "Designs standalone systems of moderate complexity, or major new features in existing systems",
+      "summary": "Champions transformative sustainability initiatives, setting new standards within the industry for environmental responsibility.",
       "signals": [
-        "Acts as primary maintainer for existing critical systems",
-        "Designs moderately complex systems",
-        "Makes major version upgrades to libraries",
+        "Pioneers adoption of groundbreaking green technologies and practices",
+        "Influences organizational strategy to prioritize long-term sustainability",
+        "Cultivates a network of sustainability champions within and outside the organization"
       ],
       "examples": [
-        "Designed Ansible configuration management",
-        "Built Medium's realtime stats pipeline",
-        "Designed flexible framework for writing machine learning jobs",
-      ],
+        "Led the development and implementation of a proprietary green algorithm, drastically reducing computational energy use",
+        "Formulated and executed a strategic shift to renewable energy sources for all company data centers",
+        "Founded an industry-wide consortium focused on sustainable software practices"
+      ]
     }, {
-      "summary": "Builds complex, reusable architectures that pioneer best practices for other engineers, or multi-system services",
+      "summary": "Establishes and fulfills ambitious, industry-leading sustainability commitments, driving significant impact on global environmental goals.",
       "signals": [
-        "Designs complex projects that encompass multiple systems and technologies",
-        "Demonstrates deep knowledge of foundational systems",
-        "Introduces new databases and technologies to meet underserved needs",
+        "Sets visionary sustainability targets that inspire action within and beyond the organization",
+        "Leads by example in achieving breakthrough results in sustainability",
+        "Leverages influence to advocate for policy changes and standards that promote sustainability in technology"
       ],
       "examples": [
-        "Designed and built BBFD",
-        "Designed AWS configuration management",
-        "Introduced Kinesis and pioneered streaming events pipeline",
-      ],
+        "Spearheaded a successful initiative to make the company’s operations carbon negative",
+        "Published a breakthrough study on the impact of sustainable software practices on reducing global carbon emissions",
+        "Played a key role in establishing a new international standard for environmental sustainability in software development"
+      ]
     }, {
-      "summary": "Is an industry-leading expert in foundational engineering or sets strategic foundational direction for an eng team",
+      "summary": "Becomes a global thought leader in organizational sustainability, shaping the future of corporate responsibility towards the environment.",
       "signals": [
-        "Designs transformational projects in service of long-term goals",
-        "Defines the strategic vision for foundational work and supporting technologies",
-        "Invents industry-leading techniques to solve complex problems",
+        "Drives innovative sustainability research and practices that set global benchmarks",
+        "Mobilizes a global movement towards integrating sustainability deeply into business models",
+        "Influences global policy and strategy on sustainability, setting new norms for corporate environmental stewardship"
       ],
       "examples": [
-        "Invented a novel ML technique that advanced the state of the art",
-        "Defined and developed Medium's continuous delivery strategy",
-        "Developed and implemented HA strategy",
-      ],
+        "Delivered a keynote at the UN Climate Action Summit, highlighting the role of corporate commitments in achieving sustainability targets",
+        "Led a global corporate coalition to commit to net-zero emissions, influencing policy changes in several countries",
+        "Developed and shared an open-source platform for tracking and reporting on sustainability metrics, widely adopted across industries"
+      ]
     }],
   },
-
+   
   "AWARENESS": {
-    "displayName": "Servers",
+    "displayName": "Awareness",
     "category": "A",
-    "description": "Develops expertise in server side engineering, using technologies such as Go, NodeJS, or Scala",
+    "description": "Cultivates and spreads awareness on the importance of sustainability in software engineering, fostering a culture of responsibility and innovation.",
     "milestones": [{
-      "summary": "Works effectively within established server side frameworks, following current best practices",
+      "summary": "Raises basic awareness of sustainability challenges and opportunities within the team or organization.",
       "signals": [
-        "Adds NodeJS endpoints using layers architecture",
-        "Adds golang endpoints using Gotham architecture",
-        "Makes minor server changes to support client needs",
+        "Shares information and resources on sustainable practices",
+        "Initiates discussions on the environmental impact of software projects",
+        "Encourages team members to consider sustainability in their work"
       ],
       "examples": [
-        "Added IFTTT trigger for new bookmark to medium2",
-        "Added delete audio route to Buggle",
-        "Queried a Dynamo LSI appropriately",
-      ],
+        "Organized a team meeting to discuss the company's sustainability goals",
+        "Shared articles and case studies on green computing in the team's communication channel",
+        "Introduced a 'green tip of the week' in team standups to promote sustainable habits"
+      ]
     }, {
-      "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
+      "summary": "Elevates awareness by embedding sustainability into team or organizational culture, leading by example and initiating projects with a sustainability focus.",
       "signals": [
-        "Assesses correctness and utility of existing code and avoids blind copy-pasting",
-        "Generalizes code when appropriate",
-        "Determines data needs from product requirements",
+        "Leads sustainability-focused projects or initiatives",
+        "Mentors colleagues on integrating sustainable practices into their work",
+        "Organizes workshops or talks on sustainability topics"
       ],
       "examples": [
-        "Identified need for new index on Dynamo",
-        "Acted as caretaker for routes protos",
-        "Updated Facebook API version and codebase dependencies",
-      ],
+        "Launched a green coding initiative within the development team",
+        "Mentored a junior developer on creating energy-efficient algorithms",
+        "Hosted a guest speaker session on sustainability in the tech industry"
+      ]
     }, {
-      "summary": "Designs standalone systems of moderate complexity, or major new features in existing systems",
+      "summary": "Champions broader awareness efforts, influencing the industry and community by advocating for sustainable software engineering practices.",
       "signals": [
-        "Acts as primary maintainer for existing critical systems",
-        "Integrates third party services effectively",
-        "Writes playbooks for new service maintenance",
+        "Speaks at conferences and events on the importance of sustainability in software development",
+        "Contributes to or initiates open-source projects with a focus on sustainability",
+        "Engages with external organizations to promote sustainability in the tech community"
       ],
       "examples": [
-        "Implemented Google Auth login to Medium",
-        "Implemented payments integration with Stripe",
-        "Built Textshots server",
-      ],
+        "Presented on sustainable development practices at a major tech conference",
+        "Led an open-source project focused on reducing software energy consumption",
+        "Partnered with a non-profit to run a coding bootcamp for developing green apps"
+      ]
     }, {
-      "summary": "Builds complex, reusable architectures that pioneer best practices for other engineers, or multi-system services",
+      "summary": "Establishes and leads major awareness campaigns or educational programs, setting new standards for sustainability education in the tech sector.",
       "signals": [
-        "Delivers complex systems that achieve their goals",
-        "Avoids subtle architectural mistakes when considering new systems",
-        "Makes appropriate buy vs build choices",
+        "Creates comprehensive resources or curricula on sustainable software engineering",
+        "Influences policy or curriculum changes at educational institutions",
+        "Receives recognition for contributions to sustainability awareness in the tech industry"
       ],
       "examples": [
-        "Designed Medium's ranked feed architecture",
-        "Designed custom domains architecture",
-        "Created Gotham framework for creating Go services",
-      ],
+        "Developed an online course on sustainable software practices adopted by multiple universities",
+        "Advised a government body on integrating sustainability into IT education standards",
+        "Awarded for outstanding contribution to raising sustainability awareness in the tech community"
+      ]
     }, {
-      "summary": "Is an industry-leading expert in server side engineering or sets strategic server side direction for an eng team",
+      "summary": "Becomes a global leader in sustainability awareness, driving significant shifts in how the tech industry and society at large perceive and implement sustainable practices.",
       "signals": [
-        "Designs transformational projects of significant complexity and scope",
-        "Makes decisions that have positive, long term, wide ranging consequences",
-        "Identifies and solves systemic problems with current architecture",
+        "Innovates in sustainability communication, reaching a wide and diverse audience",
+        "Leads global initiatives that significantly increase engagement with sustainable tech practices",
+        "Shapes public and industry opinion on the importance of sustainability in technology"
       ],
       "examples": [
-        "Researched, vetted, and selected Go as Medium's statically typed language",
-        "Defined microservices architecture and medium2 migration plan",
-        "Defined and implemented proprietary IP core to the company's success",
+        "Organized a global sustainability in tech summit, bringing together leaders from across industries",
+        "Published a landmark book on the role of technology in achieving a sustainable future",
+        "Led a successful campaign advocating for global standards in sustainable software development"
       ],
     }],
-  },
+  },  
 
   "SOFTWARE_OPTIMISATION": {
-    "displayName": "Project management",
+    "displayName": "Software Optimization",
     "category": "B",
-    "description": "Delivers well-scoped programs of work that meet their goals, on time, to budget, harmoniously",
+    "description": "Enhances software for maximum energy efficiency and minimal environmental impact, utilizing cutting-edge sustainable software engineering practices.",
     "milestones": [{
-      "summary": "Effectively delivers individual tasks",
+      "summary": "Identifies and applies initial optimizations in software design and development for improved energy efficiency.",
       "signals": [
-        "Estimates small tasks accurately",
-        "Delivers tightly-scoped projects efficiently",
-        "Writes effective technical specs outlining approach",
+        "Reviews and optimizes existing code for energy efficiency",
+        "Implements best practices for reducing the environmental impact of software",
+        "Leverages tools to analyze and reduce software carbon footprint"
       ],
       "examples": [
-        "Wrote the technical spec for featured post images",
-        "Delivered stream item support for email digests",
-        "Delivered payment history dashboard",
-      ],
+        "Refactored a resource-intensive module to reduce its energy consumption",
+        "Adopted a more efficient algorithm that decreased server load times",
+        "Utilized a code analysis tool to identify and remedy energy-inefficient patterns"
+      ]
     }, {
-      "summary": "Effectively delivers small personal projects",
+      "summary": "Drives significant software optimization projects, leading to substantial reductions in energy use and carbon emissions.",
       "signals": [
-        "Performs research and considers alternative approaches",
-        "Balances pragmatism and polish appropriately",
-        "Defines and hits interim milestones",
+        "Designs and architects low-energy software solutions from the ground up",
+        "Innovates with new technologies and practices for sustainability",
+        "Advocates for and implements green coding standards across projects"
       ],
       "examples": [
-        "Delivered promo editor",
-        "Delivered audio uploading for web client",
-        "Executed the recommends to claps backfill",
-      ],
+        "Architected a new feature leveraging serverless technology to minimize energy use",
+        "Introduced a novel compression technique reducing data transfer energy costs",
+        "Led a team initiative to rewrite high-traffic services for greater efficiency"
+      ]
     }, {
-      "summary": "Effectively delivers projects through a small team",
+      "summary": "Pioneers breakthrough optimizations and technologies, setting new industry standards for software sustainability.",
       "signals": [
-        "Delegates tasks to others appropriately",
-        "Integrates business needs into project planning",
-        "Chooses appropriate project management strategy based on context",
+        "Develops or contributes to open-source projects focused on energy efficiency",
+        "Collaborates with academic and research institutions on sustainable software solutions",
+        "Speaks at conferences, sharing knowledge on advanced optimization strategies"
       ],
       "examples": [
-        "Ran project retro to assess improvement opportunities",
-        "Completed launch checklist unprompted for well controlled rollout",
-        "Facilitated project kickoff meeting to get buy-in",
-      ],
+        "Created an open-source library popularly used for developing energy-efficient applications",
+        "Partnered with a university to research into AI-driven optimizations for reducing software energy consumption",
+        "Presented a paper on sustainable software practices at a leading technology conference"
+      ]
     }, {
-      "summary": "Effectively delivers projects through a large team, or with a significant amount of stakeholders or complexity",
+      "summary": "Establishes comprehensive optimization frameworks that are widely adopted, significantly advancing the field of sustainable software engineering.",
       "signals": [
-        "Finds ways to deliver requested scope faster, and prioritizes backlog",
-        "Manages dependencies on other projects and teams",
-        "Leverages recognition of repeated project patterns",
+        "Leads the development of industry-wide guidelines for energy-efficient software",
+        "Mentors and trains other engineers in sustainable software development practices",
+        "Drives cross-industry collaborations to promote software optimization"
       ],
       "examples": [
-        "Oversaw technical delivery of Hightower",
-        "Managed infrastructure migration to VPC",
-        "Involved marketing, legal, and appropriate functions at project start",
-      ],
+        "Formulated and disseminated a widely accepted set of practices for green software engineering",
+        "Organized a series of workshops for engineers on eco-friendly coding practices",
+        "Initiated a coalition of tech companies focused on reducing the software industry’s carbon footprint"
+      ]
     }, {
-      "summary": "Manages major company pushes delivered by multiple teams",
+      "summary": "Becomes a global leader in software optimization for sustainability, influencing policy, education, and industry practices.",
       "signals": [
-        "Considers external constraints and business objectives when planning",
-        "Leads teams of teams, and coordinates effective cross-functional collaboration",
-        "Owns a key company metric",
+        "Sets visionary goals for software sustainability and leads global efforts to achieve them",
+        "Innovates with sustainable technologies that transform software development",
+        "Champions global initiatives that set new benchmarks for environmental stewardship in software"
       ],
       "examples": [
-        "Managed technical migration to SOA",
-        "Lead technical delivery of 10/7",
-        "Delivered multi-month engineering project on time",
+        "Led the formulation of international standards for software energy efficiency",
+        "Developed a groundbreaking sustainable computing platform adopted by governments and corporations",
+        "Keynote speaker at global summits, advocating for urgent action on software sustainability"
       ],
     }],
   },
 
   "DESIGN_PRINCIPLES": {
-    "displayName": "Communication",
+    "displayName": "Design Principles",
     "category": "B",
-    "description": "Shares the right amount of information with the right people, at the right time, and listens effectively",
+    "description": "Emphasizes the adoption and advocacy of sustainable design principles in software development to achieve eco-efficiency and innovation.",
     "milestones": [{
-      "summary": "Communicates effectively to close stakeholders when called upon, and incorporates constructive feedback",
+      "summary": "Integrates basic sustainable design principles into projects, prioritizing eco-efficiency from the initial stages.",
       "signals": [
-        "Communicates project status clearly and effectively",
-        "Collaborates with others with empathy",
-        "Asks for help at the appropriate juncture",
+        "Adopts guidelines for energy-efficient software design",
+        "Considers environmental impact in the choice of technologies and platforms",
+        "Incorporates user feedback to enhance sustainable usability"
       ],
       "examples": [
-        "Updated The Watch before running a backfill",
-        "Updated project status changes in Asana promptly",
-        "Gave thoughtful check-in and check-out comments",
-      ],
+        "Chose a lightweight framework to reduce energy consumption for a new web app",
+        "Designed a feature with user-configurable settings to minimize data usage and prolong device battery life",
+        "Conducted usability testing to ensure eco-friendly features met user needs effectively"
+      ]
     }, {
-      "summary": "Communicates with the wider team appropriately, focusing on timeliness and good quality conversations",
+      "summary": "Advances the application of sustainable design principles, leading projects that exemplify eco-innovation.",
       "signals": [
-        "Practises active listening and suspension of attention",
-        "Ensures stakeholders are aware of current blockers",
-        "Chooses the appropriate tools for accurate and timely communication",
+        "Leads design efforts that significantly lower software's environmental footprint",
+        "Innovates in the application of green UX/UI principles",
+        "Promotes the adoption of sustainable design practices across teams"
       ],
       "examples": [
-        "Received and integrated critical feedback positively",
-        "Created cross-team Slack channel for payments work",
-        "Spoke to domain experts before writing spec",
-      ],
+        "Developed a user interface that encourages energy-saving modes of operation",
+        "Implemented a novel approach to data presentation that reduces screen time and energy use",
+        "Organized a company-wide green design challenge to foster innovation in sustainable design"
+      ]
     }, {
-      "summary": "Proactively shares information, actively solicits feedback, and facilitates communication for multiple stakeholders",
+      "summary": "Pioneers new sustainable design methodologies, setting industry benchmarks for eco-friendly software development.",
       "signals": [
-        "Resolves communication difficulties between others",
-        "Anticipates and shares schedule deviations in plenty of time",
-        "Manages project stakeholder expectations effectively",
+        "Develops cutting-edge sustainable design frameworks and tools",
+        "Influences industry standards through advocacy and thought leadership in green design",
+        "Mentors designers and developers in sustainable practices"
       ],
       "examples": [
-        "Directed team response effectively during outages",
-        "Gave a substantial Eng All Hands presentation on React",
-        "Gave notice of upcoming related work in Eng Briefing",
-      ],
+        "Created a widely used open-source tool for assessing design sustainability",
+        "Authored influential articles on the future of eco-friendly software design",
+        "Led a workshop series at major design conferences on sustainability in digital products"
+      ]
     }, {
-      "summary": "Communicates complex ideas skillfully and with nuance, and establishes alignment within the wider organization",
+      "summary": "Establishes comprehensive sustainable design paradigms that are adopted globally, significantly impacting software development for environmental good.",
       "signals": [
-        "Communicates project risk and tradeoffs skillfully and with nuance",
-        "Contextualizes and clarifies ambiguous direction and strategy for others",
-        "Negotiates resourcing compromises with other teams",
+        "Champions the development of global standards for sustainable software design",
+        "Collaborates with international organizations to promote eco-friendly design education",
+        "Drives significant advancements in software design that reduce global carbon emissions"
       ],
       "examples": [
-        "Lead off-site workshop on interviewing",
-        "Wrote Medium's growth framework and rationale",
-        "Aligned the entire organization around claps",
-      ],
+        "Played a key role in creating an international certification for sustainable software design",
+        "Partnered with educational institutions to incorporate sustainable design principles into their curricula",
+        "Launched a global initiative that resulted in the adoption of green design practices by leading software companies"
+      ]
     }, {
-      "summary": "Influences outcomes at the highest level, moves beyond mere broadcasting, and sets best practices for others",
+      "summary": "Becomes a world-renowned expert in sustainable design, shaping the direction of eco-friendly software development and influencing policy and standards.",
       "signals": [
-        "Defines processes for clear communication for the entire team",
-        "Shares the right amount of information with the right people, at the right time",
-        "Develops and delivers plans to execs, the board, and outside investors",
+        "Sets visionary sustainability goals for software design and mobilizes the global community to achieve them",
+        "Innovates with eco-friendly design technologies that set new industry standards",
+        "Leads global policy discussions on incorporating sustainability into software design practices"
       ],
       "examples": [
-        "Organized half year check-in company offsite",
-        "Created the communication plan for a large organizational change",
-        "Presented to the board about key company metrics and projects",
+        "Keynote speaker at global sustainability and design summits, presenting pioneering work in sustainable design",
+        "Developed a revolutionary design philosophy that greatly minimizes software’s environmental impact",
+        "Influenced the adoption of sustainable design standards by technology firms and governmental bodies worldwide"
       ],
     }],
-  },
-
+  }, 
+  
   "SCI": {
-    "displayName": "Craft",
+    "displayName": "Carbon-Aware Software",
     "category": "B",
-    "description": "Embodies and promotes practices to ensure excellent quality products and services",
+    "description": "Focuses on developing and promoting software that actively reduces its carbon footprint, leveraging data and technology to make informed decisions about energy use.",
     "milestones": [{
-      "summary": "Delivers consistently good quality work",
+      "summary": "Begins incorporating carbon-aware principles into software design and development, understanding the impact of computing on carbon emissions.",
       "signals": [
-        "Tests new code thoroughly, both locally, and in production once shipped",
-        "Writes tests for every new feature and bug fix",
-        "Writes clear comments and documentation",
+        "Identifies key areas where software can be optimized for lower carbon emissions",
+        "Starts to use carbon footprint calculators for software projects",
+        "Implements initial changes to reduce the carbon footprint of software applications"
       ],
       "examples": [
-        "Caught a bug on Hatch before it went live",
-        "Landed non-trivial PR with no caretaker comments",
-        "Wrote hermetic tests for the happy and sad cases",
-      ],
+        "Optimized an application's data processing to reduce server time and energy use",
+        "Incorporated a carbon calculator tool into the software development lifecycle",
+        "Adjusted application's sleep and wake cycles to minimize energy consumption"
+      ]
     }, {
-      "summary": "Increases the robustness and reliability of codebases, and devotes time to polishing products and systems",
+      "summary": "Advances in creating carbon-aware software solutions, significantly reducing the carbon footprint of projects and promoting sustainability standards.",
       "signals": [
-        "Refactors existing code to make it more testable",
-        "Adds tests for uncovered areas",
-        "Deletes unnecessary code and deprecates proactively when safe to do so",
+        "Designs software with carbon efficiency as a core requirement",
+        "Evaluates new projects for their potential environmental impact",
+        "Shares knowledge on carbon-aware practices within the organization"
       ],
       "examples": [
-        "Requested tests for a PR when acting as reviewer",
-        "Reduced the number of zelda fitzgerald exceptions",
-        "Fixed a TODO for someone else in the codebase",
-      ],
+        "Developed a feature that dynamically adjusts resource use based on renewable energy availability",
+        "Led a project review focused on identifying opportunities to reduce its carbon footprint",
+        "Conducted a seminar on carbon-aware software development for the department"
+      ]
     }, {
-      "summary": "Improves others' ability to deliver great quality work",
+      "summary": "Leads innovative projects in carbon-aware software, setting new benchmarks for sustainability in the industry.",
       "signals": [
-        "Implements systems that enable better testing",
-        "Gives thoughtful code reviews as a domain expert",
-        "Adds tooling to improve code quality",
+        "Pioneers the use of advanced technologies to minimize software’s environmental impact",
+        "Influences the adoption of carbon-aware practices across multiple teams and projects",
+        "Engages with external stakeholders to promote carbon-aware software development"
       ],
       "examples": [
-        "Improved PRB to run the same volume of tests faster",
-        "Simplified hermetic test data modification",
-        "Created fixture system for visual quality",
-      ],
+        "Implemented a cloud-based solution that optimizes energy consumption across data centers",
+        "Initiated a cross-functional task force to integrate carbon awareness into all software projects",
+        "Collaborated with industry partners to develop a standard for measuring software carbon emissions"
+      ]
     }, {
-      "summary": "Advocates for and models great quality with proactive actions, and tackles difficult and subtle system issues",
+      "summary": "Establishes frameworks and policies that advocate for carbon-aware software development on a global scale, driving industry-wide adoption.",
       "signals": [
-        "Builds systems so as to eliminate entire classes of programmer error",
-        "Focuses the team on quality with regular reminders",
-        "Coordinates Watch priorities and projects",
+        "Creates scalable, carbon-aware software frameworks adopted by the industry",
+        "Mentors others in the field, spreading awareness and knowledge of carbon-efficient software practices",
+        "Drives significant reductions in the tech industry’s carbon emissions through leadership and innovation"
       ],
       "examples": [
-        "Added code coverage reporting to iOS CI pipeline",
-        "Iterated repeatedly to develop Medium's underlines solution",
-        "Defined and oversaw plan for closing Heartbleed vulnerability",
-      ],
+        "Developed a widely used framework for carbon-aware computing, reducing emissions for numerous applications",
+        "Organized a global conference on sustainable software practices, featuring carbon-aware development",
+        "Led a campaign for the inclusion of carbon awareness in software engineering curricula"
+      ]
     }, {
-      "summary": "Enables and encourages the entire organization to make quality a central part of the development process",
+      "summary": "Becomes a world-leading authority in carbon-aware software development, influencing policy, shaping educational standards, and pioneering technological breakthroughs.",
       "signals": [
-        "Defines policies for the engineering org that encourage quality work",
-        "Identifies and eliminates single points of failure throughout the organization",
-        "Secures time and resources from execs to support great quality",
+        "Sets global standards for carbon-aware software development",
+        "Leads groundbreaking research in carbon-efficient computing",
+        "Influences international policy on technology and sustainability"
       ],
       "examples": [
-        "Negotiated resources for Fix-It week with exec team",
-        "Instituted and ensured success of a 20% time policy",
-        "Started The Watch",
+        "Keynote speaker at a UN conference on technology and sustainability",
+        "Published influential research on reducing software-induced carbon emissions",
+        "Played a pivotal role in forming an international agreement on carbon-aware technology standards",
       ],
     }],
   },
 
-  "EFFICIENT_LANGUAGE": {
-    "displayName": "Initiative",
+  "EFFICIENT_PROGRAMMING_LANGUAGES": {
+    "displayName": "Efficient Programming Languages",
     "category": "B",
-    "description": "Challenges the status quo and effects positive organizational change outside of mandated work",
+    "description": "Advocates for the selection and use of programming languages and frameworks that optimize for energy efficiency, thereby reducing the carbon footprint of software.",
     "milestones": [{
-      "summary": "Identifies opportunities for organizational change or product improvements",
+      "summary": "Begins to evaluate and select programming languages based on their energy efficiency for new projects.",
       "signals": [
-        "Writes Hatch posts about improvement opportunities",
-        "Raises meaningful tensions in tactical meetings",
-        "Asks leadership team probing questions at FAM",
+        "Researches and compares the energy efficiency of programming languages",
+        "Advocates for the use of energy-efficient languages in project planning",
+        "Implements small projects or components in energy-efficient languages to assess impact"
       ],
       "examples": [
-        "Wrote about problems with TTR on Hatch",
-        "Wrote about content policy problems on Hatch",
-        "Reported a site issue in Github",
-      ],
+        "Conducted a comparative study on the energy consumption of Python vs. Rust for data processing tasks",
+        "Advocated for the adoption of Go for a new microservices project due to its efficiency",
+        "Rewrote a high-load component in Rust to reduce server energy consumption"
+      ]
     }, {
-      "summary": "Causes change to positively impact a few individuals or minor improvement to an existing product or service",
+      "summary": "Leads the development of projects utilizing energy-efficient programming languages, demonstrating significant reductions in carbon emissions.",
       "signals": [
-        "Picks bugs off the backlog proactively when blocked elsewhere",
-        "Makes design quality improvements unprompted",
-        "Takes on trust and safety tasks proactively when blocked elsewhere",
+        "Designs and architects systems that are optimized for energy efficiency from the ground up",
+        "Shares best practices and findings on energy-efficient programming with the wider team",
+        "Contributes to or initiates open-source projects focusing on energy efficiency"
       ],
       "examples": [
-        "Advocated on own behalf for a change in role",
-        "Implemented flow typing for promises",
-        "Audited web client performance in Chrome and proposed fixes",
-      ],
+        "Led a project that utilized Elixir for its low-energy footprint, achieving a 30% reduction in energy use",
+        "Presented a case study on the benefits of energy-efficient programming at a tech conference",
+        "Contributed energy efficiency improvements to an open-source project"
+      ]
     }, {
-      "summary": "Causes change to positively impact an entire team or instigates a minor feature or service",
+      "summary": "Pioneers innovative approaches to energy-efficient programming, setting new industry standards for sustainable software development.",
       "signals": [
-        "Demonstrates concepts proactively with prototypes",
-        "Fixes complicated bugs outside of regular domain",
-        "Takes ownership of systems that nobody owns or wants",
+        "Innovates in the application of programming languages for maximum energy efficiency",
+        "Influences the selection of programming languages based on sustainability criteria in significant projects",
+        "Engages with the academic community to research and promote energy-efficient programming practices"
       ],
       "examples": [
-        "Defined style guide to resolve style arguments",
-        "Proposed and implemented at-mentions prototype",
-        "Implemented video for Android independently, unprompted",
-      ],
+        "Developed a novel framework in Swift focused on reducing energy consumption for mobile apps",
+        "Influenced a major open-source project to adopt Kotlin for Android development due to its efficiency",
+        "Collaborated with a university on a research project investigating the energy efficiency of various programming paradigms"
+      ]
     }, {
-      "summary": "Effects change that has a substantial positive impact on the engineering organization or a major product impact",
+      "summary": "Establishes comprehensive guidelines and frameworks that advocate for the global adoption of energy-efficient programming languages.",
       "signals": [
-        "Champions and pioneers new technologies to solve new classes of problem",
-        "Exemplifies grit and determination in the face of persistent obstacles",
-        "Instigates major new features, services, or architectures",
+        "Creates scalable guidelines for selecting and using energy-efficient programming languages",
+        "Mentors and educates developers and organizations on the benefits of energy-efficient programming",
+        "Leads cross-industry initiatives to promote the adoption of sustainable programming practices"
       ],
       "examples": [
-        "Created the interviewing rubric and booklet",
-        "Implemented and secured support for native login",
-        "Migrated medium2 to mono repo and bazel",
-      ],
+        "Authored a widely adopted guide on energy-efficient programming languages and frameworks",
+        "Launched an educational series on sustainable software development, highlighting programming choices",
+        "Spearheaded a tech industry coalition focused on reducing carbon emissions through efficient programming"
+      ]
     }, {
-      "summary": "Effects change that has a substantial positive impact on the whole company",
+      "summary": "Becomes a global thought leader in energy-efficient programming, influencing educational, policy, and technological advancements towards sustainable software development.",
       "signals": [
-        "Creates a new function to solve systemic issues",
-        "Galvanizes the entire company and garners buy in for a new strategy",
-        "Changes complex organizational processes",
+        "Sets visionary goals for the tech industry's adoption of energy-efficient programming languages",
+        "Leads groundbreaking research that redefines software development practices for sustainability",
+        "Influences policy and educational standards on a global scale to prioritize energy efficiency in programming"
       ],
       "examples": [
-        "Migrated the organization from Holacracy",
-        "Built Medium Android prototype and convinced execs to fund it",
-        "Convinced leadership and engineering org to move to Medium Lite architecture",
+        "Keynote speaker at global conferences on sustainability in tech, advocating for energy-efficient programming",
+        "Led a landmark study on the carbon footprint of programming languages, influencing curriculum development worldwide",
+        "Played a key role in establishing international standards for energy-efficient software development practices",
       ],
     }],
   },
 
   "INFRA_OPTIMISATION": {
-    "displayName": "Career development",
+    "displayName": "Infrastructure Optimization",
     "category": "C",
-    "description": "Provides strategic support to engineers to help them build the career they want",
+    "description": "Evaluates a company's IT infrastructure to identify opportunities for energy efficiency and carbon footprint reduction, recommending strategies for optimization.",
     "milestones": [{
-      "summary": "Gives insight into opportunities and helps identify individuals' strengths and weaknesses",
+      "summary": "Conducts initial assessment to identify quick wins and areas for improvement in IT infrastructure energy efficiency.",
       "signals": [
-        "Advocates on behalf and in defense of a group member",
-        "Shares opportunities for improvements and recognises achievements",
-        "Explains appropriate available industry paths",
+        "Reviews current infrastructure setup and identifies inefficiencies",
+        "Measures baseline energy consumption and carbon emissions",
+        "Suggests immediate actions for reducing energy usage and emissions"
       ],
       "examples": [
-        "Collected and delivered feedback",
-        "Discussed career options and areas of interest informally",
-        "Hosted a Floodgate Academy intern",
-      ],
+        "Identified underutilized servers contributing to unnecessary energy consumption",
+        "Conducted an audit of data center cooling systems to find efficiency gaps",
+        "Recommended consolidation of services to fewer, more energy-efficient servers"
+      ]
     }, {
-      "summary": "Formally supports and advocates for one person and provides tools to help them solve career problems",
+      "summary": "Develops and implements detailed plans for infrastructure optimization, leading to measurable improvements in energy efficiency and carbon reduction.",
       "signals": [
-        "Ensure a group member has an appropriate role on their team",
-        "Offers effective career advice to group members, without being prescriptive",
-        "Creates space for people to talk through challenges",
+        "Designs a comprehensive strategy for infrastructure overhaul focused on sustainability",
+        "Leads the execution of optimization projects, ensuring targets are met",
+        "Tracks and reports on energy savings and emissions reduction post-implementation"
       ],
       "examples": [
-        "Set up and attended regular, constructive 1:1s",
-        "Provided coaching on how to have difficult conversations",
-        "Taught group members the GROW model",
-      ],
+        "Implemented virtualization to maximize server utilization and reduce energy needs",
+        "Upgraded to energy-efficient cooling systems, significantly lowering data center temperatures and energy use",
+        "Retrofitted older equipment with more energy-efficient models, achieving substantial carbon savings"
+      ]
     }, {
-      "summary": "Inspires and retains a small group of people and actively pushes them to stretch themselves",
+      "summary": "Pioneers innovative solutions and technologies in infrastructure optimization, setting new benchmarks for sustainability in the industry.",
       "signals": [
-        "Discusses paths, and creates plans for personal and professional growth",
-        "Advocates to align people with appropriate roles within organization",
-        "Works with team leads to elevate emerging leaders",
+        "Investigates and adopts cutting-edge technologies for sustainable infrastructure",
+        "Publishes case studies and reports on successful optimization projects",
+        "Advocates for industry-wide adoption of best practices in infrastructure sustainability"
       ],
       "examples": [
-        "Reviewed individual group member progression every 6 weeks",
-        "Suggested appropriate group member for Tech Lead position",
-        "Arranged a requested switch of discipline for a group member",
-      ],
+        "Deployed an AI-driven system for dynamic energy management across data centers",
+        "Authored a white paper on the impact of renewable energy sources in IT infrastructure",
+        "Hosted a webinar series on sustainable infrastructure practices, drawing participants from across the industry"
+      ]
     }, {
-      "summary": "Manages interactions and processes between groups, promoting best practices and setting a positive example",
+      "summary": "Establishes and leads a strategic vision for achieving a zero-carbon IT infrastructure, influencing policy and standards both within and outside the organization.",
       "signals": [
-        "Manages team transitions smoothly, respecting team and individual needs",
-        "Develops best practices for conflict resolution",
-        "Ensures all group members' roles are meeting their career needs",
+        "Formulates long-term goals and strategies for carbon-neutral IT operations",
+        "Collaborates with external bodies to set new standards for green IT infrastructure",
+        "Mentors other organizations in adopting sustainable infrastructure practices"
       ],
       "examples": [
-        "Completed training on situational leadership",
-        "Built a resourcing plan based on company, team, and individual goals",
-        "Prevented regretted attrition with intentional, targeted intervention",
-      ],
+        "Led the transition to a fully renewable-powered data center, setting a model for the industry",
+        "Played a key role in developing industry certification for green data centers",
+        "Provided consultancy to other companies on achieving energy efficiency and carbon neutrality in their IT operations"
+      ]
     }, {
-      "summary": "Supports the development of a signficant part of the engineering org, and widely viewed as a trusted advisor",
+      "summary": "Achieves global leadership in IT infrastructure sustainability, driving transformative changes that significantly reduce the tech industry's environmental impact.",
       "signals": [
-        "Supports and develops senior leaders",
-        "Identified leadership training opportunities for senior leadership",
-        "Pushes everyone to be as good as they can be, with empathy",
+        "Champions global initiatives aimed at reducing the carbon footprint of IT infrastructure",
+        "Influences international policy and corporate standards on sustainable IT operations",
+        "Leads groundbreaking research into sustainable infrastructure technologies and practices"
       ],
       "examples": [
-        "Provided coaching to group leads",
-        "Devised Pathwise curriculum for group leads",
-        "Advocated to execs for engineer development resources and programs",
+        "Keynote speaker at a UN conference on sustainability in technology, showcasing successful infrastructure optimization",
+        "Collaborated with global tech leaders to launch a green data center alliance",
+        "Directed a multinational research project on next-generation cooling technologies, significantly advancing the field",
       ],
     }],
   },
 
   "ENERGY_EFFICIENCY": {
-    "displayName": "Org design",
+    "displayName": "Energy Efficiency",
     "category": "C",
-    "description": "Defines processes and structures that enables the strong growth and execution of a diverse eng organization",
+    "description": "Conducts comprehensive evaluations of a company's energy use across software, hardware, and processes, identifying strategies to enhance efficiency and reduce environmental impact.",
     "milestones": [{
-      "summary": "Respects and participates in processes, giving meaningful feedback to help the organization improve",
+      "summary": "Performs an initial review to identify basic energy inefficiencies and potential areas for improvement.",
       "signals": [
-        "Reflects on meetings that leave them inspired or frustrated",
-        "Teaches others about existing processes",
-        "Actively participates and makes contributions within organizational processes",
+        "Assesses current energy usage patterns and identifies high-consumption areas",
+        "Evaluates the energy efficiency of deployed software and hardware",
+        "Recommends straightforward adjustments to reduce immediate energy consumption"
       ],
       "examples": [
-        "Facilitated effective tactical meeting with empathy",
-        "Explained tactical meeting format to a new hire",
-        "Provided feedback on sprint planning meeting",
-      ],
+        "Analyzed server utilization rates to identify and decommission underused servers",
+        "Reviewed application performance metrics to pinpoint inefficient code",
+        "Suggested shifts in work patterns to optimize energy use during peak and off-peak hours"
+      ]
     }, {
-      "summary": "Identifies opportunities to improve existing processes and makes changes that positively affect the local team",
+      "summary": "Develops targeted strategies for optimizing energy use, implementing solutions that lead to significant efficiency gains.",
       "signals": [
-        "Defines meeting structure and cadence that meets team needs",
-        "Engages in organizational systems thinking",
-        "Advocates for improved diversity and inclusion, and proposes ideas to help",
+        "Crafts and executes a plan for comprehensive energy optimization across IT operations",
+        "Monitors and measures the impact of implemented changes on energy consumption",
+        "Institutes best practices in software development and infrastructure management for ongoing energy savings"
       ],
       "examples": [
-        "Defined Frankenmeeting structure for small team",
-        "Improved Watch on-call rotation scheduling",
-        "Defined standard channels for inter-team communication",
-      ],
+        "Upgraded to more energy-efficient server hardware, reducing data center energy use",
+        "Optimized major software applications for energy efficiency, resulting in lower server demand",
+        "Implemented a company-wide policy for energy-efficient procurement and use of IT equipment"
+      ]
     }, {
-      "summary": "Develops processes to solve ongoing organizational problems",
+      "summary": "Leads advanced initiatives for energy efficiency, incorporating innovative technologies and methodologies to set new standards.",
       "signals": [
-        "Creates programs that meaningfully improve organizational diversity",
-        "Solves long-standing organizational problems",
-        "Reallocates resources to meet organizational needs",
+        "Evaluates and integrates cutting-edge energy-saving technologies and practices",
+        "Publishes findings and case studies on successful energy reduction initiatives",
+        "Advocates within the industry for widespread adoption of energy efficiency measures"
       ],
       "examples": [
-        "Developed baseline team templates for consistency",
-        "Created bug-rotation program to address ongoing quality issues",
-        "Defined Guilds manifesto and charter",
-      ],
+        "Introduced an AI-based system for dynamic power management across computing resources",
+        "Led a successful pilot for solar-powered cooling in data centers, dramatically reducing energy costs",
+        "Organized a series of industry talks on the role of software in achieving energy efficiency"
+      ]
     }, {
-      "summary": "Thinks deeply about organizational issues and identifies hidden dynamics that contribute to them",
+      "summary": "Establishes a strategic framework for achieving and maintaining industry-leading energy efficiency levels, influencing broader market practices.",
       "signals": [
-        "Evaluates incentive structures and their effect on execution",
-        "Analyzes existing processes for bias and shortfall",
-        "Ties abstract concerns to concrete organizational actions or norms",
+        "Sets ambitious long-term energy efficiency goals, aligning them with broader sustainability targets",
+        "Works with external stakeholders to advocate for and develop green energy standards",
+        "Mentors organizations on implementing effective energy efficiency strategies"
       ],
       "examples": [
-        "Connected mobile recruiting difficulties to focus on excellence",
-        "Raised leadership level change discrepancies",
-        "Analyzed the hiring rubric for false negative potential",
-      ],
+        "Developed a scalable model for zero-net-energy IT operations adopted by peers in the industry",
+        "Contributed to the development of international standards for energy-efficient computing",
+        "Advised multiple companies on strategies for reducing energy use, leveraging insights from own successful initiatives"
+      ]
     }, {
-      "summary": "Leads initiatives to address issues stemming from hidden dynamics and company norms",
+      "summary": "Achieves global recognition as a leader in energy efficiency, driving transformative change and significantly advancing the pursuit of sustainability in technology.",
       "signals": [
-        "Builds programs to train leadership in desired skills",
-        "Creates new structures that provide unique growth opportunities",
-        "Leads planning and communication for reorgs",
+        "Champions global initiatives focused on reducing the technology sector's energy consumption",
+        "Influences policy, standards, and practices at a global level to promote energy efficiency",
+        "Leads groundbreaking research and development efforts in energy-efficient technologies"
       ],
       "examples": [
-        "Lead efforts to increase number of mobile engineers",
-        "Directed resources to meaningfully improve diversity at all levels",
-        "Built the growth framework rubric",
+        "Presented at global forums on sustainable technology, showcasing model energy efficiency programs",
+        "Played a pivotal role in a UN-backed initiative to promote energy efficiency in technology companies worldwide",
+        "Headed a research consortium focused on next-generation energy-saving technologies, resulting in widely adopted solutions",
       ],
     }],
   },
 
   "AUTOSCALING": {
-    "displayName": "Wellbeing",
+    "displayName": "Autoscaling",
     "category": "C",
-    "description": "Supports the emotional well-being of group members in difficult times, and celebrates their successes",
+    "description": "Evaluates the effectiveness and efficiency of autoscaling practices within a company's IT infrastructure, aiming to optimize resource use and minimize environmental impact.",
     "milestones": [{
-      "summary": "Uses tools and processes to help ensure colleagues are healthy and happy",
+      "summary": "Identifies opportunities for implementing or optimizing autoscaling to enhance energy efficiency and resource utilization.",
       "signals": [
-        "Keeps confidences unless legally or morally obliged to do otherwise",
-        "Applies the reasonable person principle to others",
-        "Avoids blame and focuses on positive change",
+        "Assesses current infrastructure and application scalability",
+        "Identifies underutilized resources that can be optimized through autoscaling",
+        "Recommends initial autoscaling strategies to match demand without overprovisioning"
       ],
       "examples": [
-        "Ensured group members were taking enough vacation",
-        "Put themself in another's shoes to understand their perspective",
-        "Checked in with colleague showing signs of burnout",
-      ],
+        "Analyzed cloud resource usage to identify patterns and opportunities for autoscaling",
+        "Proposed a basic autoscaling setup for a high-traffic web application to adjust resources dynamically",
+        "Evaluated existing autoscaling configurations for optimization to reduce idle compute time"
+      ]
     }, {
-      "summary": "Creates a positive, supportive, engaging team environment for group members",
+      "summary": "Develops and implements advanced autoscaling strategies, leveraging technology to dynamically and efficiently allocate resources.",
       "signals": [
-        "Sheds light on other experiences to build empathy and compassion",
-        "Validates ongoing work and sustains motivation",
-        "Proposes solutions when teams get bogged down or lose momentum",
+        "Designs sophisticated autoscaling policies based on detailed usage analytics",
+        "Integrates autoscaling with deployment pipelines for seamless scalability",
+        "Measures and reports on the carbon footprint reduction achieved through improved autoscaling"
       ],
       "examples": [
-        "Coordinated a small celebration for a project launch",
-        "Connected tedious A|B testing project with overall company goals",
-        "Noted a team without a recent win and suggested some easy quick wins",
-      ],
+        "Implemented a container orchestration system with custom autoscaling rules to minimize resource wastage",
+        "Optimized autoscaling triggers and thresholds based on real-time demand and energy consumption data",
+        "Conducted an impact analysis to quantify energy savings and carbon reduction from enhanced autoscaling practices"
+      ]
     }, {
-      "summary": "Manages expectations across peers, leads in the org, promotes calm, and prevents consensus building",
+      "summary": "Pioneers innovative autoscaling solutions that serve as industry benchmarks, significantly improving energy efficiency and operational sustainability.",
       "signals": [
-        "Trains group members to separate stimulus from response",
-        "Maintains a pulse on individual and team morale",
-        "Helps group members approach problems with curiosity",
+        "Innovates with new autoscaling technologies and frameworks for cloud infrastructure",
+        "Leads cross-functional initiatives to embed sustainability into autoscaling practices",
+        "Shares expertise through case studies, publications, or speaking engagements"
       ],
       "examples": [
-        "Completed training on transference and counter transference",
-        "Completed training on compromise and negotiation techniques",
-        "Reframed a problem as a challenge, instead of a barrier, when appropriate",
-      ],
+        "Developed a predictive autoscaling algorithm that anticipates demand spikes, optimizing resource allocation",
+        "Authored a white paper on the environmental benefits of intelligent autoscaling practices",
+        "Spoke at a technology conference about integrating green computing principles with autoscaling"
+      ]
     }, {
-      "summary": "Advocates for the needs of teams and group members, and proactively works to calm the organization",
+      "summary": "Establishes a comprehensive approach to sustainable autoscaling, influencing policy and standards while mentoring others to adopt best practices.",
       "signals": [
-        "Ensures team environments are safe and inclusive, proactively",
-        "Grounds group member anxieties in reality",
-        "Tracks team retention actively and proposes solutions to strengthen it",
+        "Creates guidelines and best practices for sustainable autoscaling in various environments",
+        "Works with industry groups to set standards for environmentally friendly autoscaling",
+        "Mentors other organizations in the adoption of green autoscaling methodologies"
       ],
       "examples": [
-        "Relieved org tension around product direction by providing extra context",
-        "Encouraged group members to focus on what they can control",
-        "Guided people through complex organizational change",
-      ],
+        "Led the formulation of an industry-wide standard for green autoscaling practices",
+        "Implemented a mentorship program to help startups adopt sustainable autoscaling techniques",
+        "Collaborated with cloud service providers to offer greener autoscaling options"
+      ]
     }, {
-      "summary": "Manages narratives, channels negativity into inspiration and motivation, and protects the entire team",
+      "summary": "Achieves global leadership in sustainable autoscaling, driving the adoption of practices that significantly reduce the IT sector's carbon footprint.",
       "signals": [
-        "Recognizes and points out narratives when appropriate",
-        "Works to reshape narratives from victimization to ownership",
-        "Increases the psychological safety of the entire team",
+        "Champions global initiatives aimed at promoting sustainable autoscaling",
+        "Influences international standards for energy-efficient computing",
+        "Leads breakthrough research in autoscaling technologies that optimize for environmental sustainability"
       ],
       "examples": [
-        "Converted group member from a problem haver to a problem solver",
-        "Challenged false narrative and redirected to compassion and empathy",
-        "Cultivated and championed a culture of empathy within the entire team",
+        "Headed a UN-backed project to promote sustainable autoscaling in developing countries",
+        "Organized a global summit on sustainable cloud computing, with a focus on autoscaling",
+        "Conducted a landmark study proving the effectiveness of autoscaling in reducing global data center energy use",
       ],
     }],
   },
 
   "EXTEND_LIFETIME": {
-    "displayName": "Accomplishment",
+    "displayName": "Server Lifetime Extension",
     "category": "C",
-    "description": "Inspires day to day excellence, maximises potential and effectively resolves performance issues with compassion",
+    "description": "Evaluates strategies and practices to extend the operational lifetime of servers, focusing on reducing electronic waste and promoting sustainability in IT infrastructure.",
     "milestones": [{
-      "summary": "Helps individuals identify blockers and helps them identify next steps for resolution",
+      "summary": "Identifies initial practices and upgrades that can extend the life of existing servers without compromising performance.",
       "signals": [
-        "Notices when someone is stuck and reaches out",
-        "Helps others break down problems into feasible, tangible next steps",
-        "Talks through problems non-judgmentally",
+        "Assesses current server utilization and operational efficiency",
+        "Identifies servers at risk of early retirement and evaluates potential for upgrades",
+        "Recommends basic hardware and software updates to prolong server lifespan"
       ],
       "examples": [
-        "Completed training on diagnosing problems",
-        "Unblocked a group member",
-        "Reinforces and affirms positive feedback for good work",
-      ],
+        "Performed an audit to identify underperforming servers with potential for memory upgrades",
+        "Proposed a schedule for regular maintenance and firmware updates to extend server reliability",
+        "Analyzed workload distribution and recommended consolidation to reduce strain on older hardware"
+      ]
     }, {
-      "summary": "Helps individuals resolve difficult performance issues, with insight, compassion, and skill",
+      "summary": "Implements comprehensive strategies for lifecycle management, ensuring servers operate efficiently and sustainably for longer periods.",
       "signals": [
-        "Gathers context outside the immediate problem",
-        "Recognizes issues within local environment and suggests change",
-        "Works to encourage ownership of actions and responsibilities",
+        "Designs and enforces a robust server lifecycle management policy",
+        "Leads initiatives for hardware refurbishment and efficient workload management",
+        "Tracks and quantifies the impact of extended server lifetimes on carbon footprint reduction"
       ],
       "examples": [
-        "Completed training on decision making",
-        "Convinced a group member to solve a problem directly, rather than doing it for them",
-        "Gave honest feedback about poor performance, with compassion",
-      ],
+        "Initiated a server refurbishment program, replacing components instead of entire units",
+        "Deployed virtualization technology to maximize the use of older servers",
+        "Reported on the environmental benefits realized through extended server operation and reduced e-waste"
+      ]
     }, {
-      "summary": "Intervenes in long-standing performance issues with targeted behavior change or performance plans",
+      "summary": "Pioneers innovative approaches to server maintenance and optimization, setting new industry benchmarks for extending server lifetimes.",
       "signals": [
-        "Aggregates signals of poor performance and creates process for improvement",
-        "Investigates motivation and externalities for consistent poor performance",
-        "Puts together comprehensive, achievable performance plans",
+        "Researches and applies cutting-edge technologies for server efficiency and longevity",
+        "Shares knowledge and best practices with the IT community on sustainable server management",
+        "Evaluates the lifecycle impact of servers from procurement to decommissioning"
       ],
       "examples": [
-        "Worked with group member to address persistent communication failures",
-        "Arranged a transfer to another team, resulting in improved performance",
-        "Managed group member closely to maximise chances of PIP success",
-      ],
+        "Developed a predictive maintenance tool to preemptively address server issues, extending their useful life",
+        "Authored a case study on successful server lifecycle extension, influencing industry practices",
+        "Led a cross-industry workshop on sustainable practices for server management and optimization"
+      ]
     }, {
-      "summary": "Mediates escalated situations, empowers underperforming teams, and resolves conflict",
+      "summary": "Establishes comprehensive, sustainable server management frameworks that are widely adopted, drastically reducing the industry's environmental impact.",
       "signals": [
-        "Recognizes heightened situations and toxic or aggressive interactions",
-        "Inserts themself into conflict where appropriate to calm and mediate",
-        "Encourages open dialog and builds trust between parties in conflict",
+        "Creates scalable policies and frameworks for server lifecycle extension adopted by peers",
+        "Mentors organizations in adopting sustainable server management practices",
+        "Leads cross-industry initiatives to standardize eco-friendly server lifecycle management"
       ],
       "examples": [
-        "Empowered a team to drive forward amidst uncertainty",
-        "Protected team from externalities so they could focus on goals",
-        "Mediated sit-down between team members to address tension",
-      ],
+        "Formulated a green computing standard for server management, leading to widespread industry adoption",
+        "Implemented a mentorship program for companies looking to adopt green server technologies",
+        "Collaborated with manufacturers to design servers optimized for longer lifespans and easier refurbishment"
+      ]
     }, {
-      "summary": "Resolves complex organizational dysfunction, or persistent conflict at senior levels",
+      "summary": "Achieves global recognition as a leader in sustainable server management, influencing policy, technology development, and operational practices towards significantly extended server lifetimes.",
       "signals": [
-        "Takes control of dysfunctional teams to organise chaos",
-        "Repairs broken team dynamics and builds harmony",
-        "Presides over a well-oiled team of teams",
+        "Champions global initiatives focused on reducing electronic waste through extended server use",
+        "Influences international standards and policies for sustainable server lifecycle management",
+        "Leads groundbreaking research into technologies and methodologies for server longevity"
       ],
       "examples": [
-        "Turned around the performance of a problematic team",
-        "De-escalated serious tensions between teams",
-        "Rebuilt trust between senior team leads",
+        "Keynoted at a UN conference on technology and sustainability, presenting a model for server lifecycle extension",
+        "Directed a multinational research project on next-generation server design, focusing on durability and maintenance",
+        "Played a pivotal role in forming an international agreement on standards for eco-friendly server production and decommissioning",
       ],
     }],
   },
 
-  "GOVERNANCE": {
-    "displayName": "Mentorship",
+  "ESTABLISHED_GOVERNANCE": {
+    "displayName": "Established Governance",
     "category": "D",
-    "description": "Provides support to colleagues, spreads knowledge, and develops the team outside formal reporting structures",
+    "description": "Evaluates the effectiveness of governance structures in embedding sustainability principles across all levels of an organization, ensuring accountability and driving continuous improvement.",
     "milestones": [{
-      "summary": "Informally mentors individuals in an ad-hoc way, supports new hires, and conveys institutional knowledge",
+      "summary": "Assesses current governance frameworks to identify gaps and opportunities for integrating sustainability.",
       "signals": [
-        "Makes themself available for informal support and advice",
-        "Acts as sounding board for peers and more junior members",
-        "Provides sound advice when asked",
+        "Reviews existing policies and procedures for sustainability inclusion",
+        "Identifies lack of sustainability goals within governance structures",
+        "Recommends initial steps for embedding sustainability into governance frameworks"
       ],
       "examples": [
-        "Acted as an onboarding buddy",
-        "Paired with an engineer to help them with an unfamiliar area",
-        "Helped a colleague understand their feelings",
-      ],
+        "Conducted a gap analysis on current governance practices against sustainability benchmarks",
+        "Outlined a plan for including sustainability metrics in corporate governance reporting",
+        "Suggested the formation of a sustainability committee within the board of directors"
+      ]
     }, {
-      "summary": "Mentors people proactively, and guides people to realizations rather than providing the answer",
+      "summary": "Implements changes to governance structures, incorporating clear sustainability targets and responsibilities.",
       "signals": [
-        "Takes time to explain concepts and best practices",
-        "Asks questions to illuminate concepts, rather than stating them",
-        "Allows others to lead efforts when it will help their development",
+        "Integrates sustainability objectives into corporate governance documents",
+        "Establishes roles and responsibilities for sustainability within the organization",
+        "Monitors and reports on sustainability performance to governance bodies"
       ],
       "examples": [
-        "Shared interesting article with a team member to help with their growth",
-        "Offered unprompted feedback to help growth, with empathy",
-        "Lead from behind to support someone new to a leadership role",
-      ],
+        "Revised company bylaws to include sustainability as a core component of business strategy",
+        "Implemented a sustainability reporting mechanism for the executive team",
+        "Defined KPIs for sustainability and integrated them into executive and departmental scorecards"
+      ]
     }, {
-      "summary": "Teaches small groups of engineers and contributes to Medium's shared knowledge base",
+      "summary": "Leads the development of advanced governance models that prioritize sustainability, setting industry standards for responsible business practices.",
       "signals": [
-        "Avoids siloing information when it can be usefully shared with others",
-        "Works to increase the bus factor of systems",
-        "Finds tools that work best for a team member's personality",
+        "Pioneers innovative governance structures that fully integrate sustainability",
+        "Shares insights and models with peers and industry bodies to promote wider adoption",
+        "Evaluates and iterates on governance models to continually enhance sustainability integration"
       ],
       "examples": [
-        "Gave a brown bag presentation on payments",
-        "Wrote Hatch post on avoiding RDS backfill issues",
-        "Wrote Medium-U content module",
-      ],
+        "Developed a model for dual governance structures focused on sustainability and business performance",
+        "Presented a case study at an industry conference on effective sustainability governance",
+        "Led a review and refinement cycle for the governance model, incorporating stakeholder feedback for continuous improvement"
+      ]
     }, {
-      "summary": "Encourages people to mentor each other, and creates ways for them to do so",
+      "summary": "Establishes comprehensive, effective governance frameworks that serve as a benchmark for sustainability integration in the industry, driving systemic change.",
       "signals": [
-        "Defines an entire curriculum for a discipline",
-        "Draws positive attention to well-modeled mentor and teaching behaviours",
-        "Creates brown bag series and lines up speakers",
+        "Creates governance frameworks that are recognized and adopted by other organizations",
+        "Engages in policy development and advocacy to promote sustainability governance standards",
+        "Mentors other companies in developing and implementing sustainability governance practices"
       ],
       "examples": [
-        "Created and lead Medium's Women in Eng group",
-        "Organized an Eng All Hands with an outside speaker",
-        "Designed and taught web client guild curriculum",
-      ],
+        "Authored a guide on sustainability governance that became a reference in the industry",
+        "Played a leading role in a working group developing a new standard for sustainability in corporate governance",
+        "Consulted for multiple organizations, helping them establish their own sustainability governance frameworks"
+      ]
     }, {
-      "summary": "Instills and promotes a culture of learning and development within the team",
+      "summary": "Achieves global leadership in sustainability governance, influencing policies, standards, and practices worldwide, and setting new norms for corporate responsibility.",
       "signals": [
-        "Sets incentive structures to recognise and reward mentorship",
-        "Empowers team members to develop themselves",
-        "Role models productive and healthy mentor relationships",
+        "Is recognized as a thought leader in sustainability governance, with significant influence on global standards",
+        "Leads international initiatives to embed sustainability in corporate governance across industries",
+        "Contributes to groundbreaking research and policy development for sustainability governance"
       ],
       "examples": [
-        "Instituted the professional education budget for engineers",
-        "Mentored mentors",
-        "Started the eng advisor program and lined up external mentors",
+        "Delivered a keynote address at a global summit on corporate sustainability, outlining a vision for governance integration",
+        "Contributed to the development of an international guideline for sustainability governance recognized by governments and corporations",
+        "Facilitated a series of roundtable discussions with global leaders on enhancing sustainability through governance",
       ],
     }],
   },
 
-  "REALTIME_EMISSIONS": {
-    "displayName": "Evangelism",
+  "REALTIME_EMISSIONS_DATA": {
+    "displayName": "Real-Time Emissions Data Assessment",
     "category": "D",
-    "description": "Promotes Medium to the outside world and establishes it as an attractive and thoughtful place to work",
+    "description": "Evaluates the implementation and effectiveness of systems for tracking and reporting real-time emissions data, facilitating immediate actions and long-term strategy adjustments for sustainability.",
     "milestones": [{
-      "summary": "Represents Medium well externally, and influences individuals positively",
+      "summary": "Initiates the integration of real-time emissions tracking systems to provide foundational data for sustainability efforts.",
       "signals": [
-        "Shares personal and organizational successes with their network",
-        "Attends Medium-hosted events and talks with guests",
-        "Communicates genuine and honest excitement about their work externally",
+        "Identifies suitable technologies and platforms for emissions monitoring",
+        "Sets up basic real-time emissions tracking for key operations",
+        "Begins to use emissions data to inform simple sustainability decisions"
       ],
       "examples": [
-        "Shared a Medium product launch post on Facebook",
-        "Acted as a guide for a non-friend visitor to the office",
-        "Supported PR efforts by giving a quote or having a photo taken",
-      ],
+        "Implemented a pilot program using IoT devices to monitor energy consumption and emissions in real-time",
+        "Integrated emissions tracking into the company’s data dashboard for easy access",
+        "Analyzed real-time emissions data to identify peak usage times and adjust operations accordingly"
+      ]
     }, {
-      "summary": "Participates more centrally in small events, and takes simple actions that positively influence groups of people",
+      "summary": "Enhances real-time emissions monitoring capabilities, using data to drive more significant sustainability initiatives and operational changes.",
       "signals": [
-        "Takes meaningful action to introduce people to Medium",
-        "Joined public Slack group and represented Medium appropriately, and well",
-        "Organizes positive small- or medium-sized events that bring people to Medium",
+        "Expands the scope of emissions monitoring to cover broader operational areas",
+        "Leverages advanced analytics to interpret emissions data and identify reduction opportunities",
+        "Incorporates emissions insights into strategic planning and performance reporting"
       ],
       "examples": [
-        "Volunteered as a helper for CODE2040 writing workshop",
-        "Organized a short tour of the office by college students",
-        "Talked at a Women Who Code event hosted at Medium",
-      ],
+        "Upgraded the emissions tracking system to cover all data centers, significantly improving data accuracy",
+        "Developed a dashboard feature that correlates emissions data with operational metrics, highlighting efficiency gains",
+        "Used emissions data to justify the transition to renewable energy sources for several facilities"
+      ]
     }, {
-      "summary": "Works hard to positively influence large groups of people on their views of Medium",
+      "summary": "Leads the development and implementation of state-of-the-art real-time emissions tracking, setting benchmarks for sustainability in the industry.",
       "signals": [
-        "Mentors or participates in a high visibility way in an external organization",
-        "Builds fruitful partnerships with external organizations",
-        "Writes blog posts about Medium that receive moderate traffic",
+        "Pioneers the adoption of next-generation technologies for granular emissions monitoring",
+        "Shares expertise and findings with the industry to promote wide-scale adoption of emissions tracking",
+        "Evaluates and optimizes the carbon footprint of products and services based on real-time data"
       ],
       "examples": [
-        "Represented Medium on a panel at a conference of industry experts",
-        "Established close ties with Creative Commons",
-        "Built a durable, long-standing relationship with Code2040",
-      ],
+        "Implemented a blockchain-based system for transparent and verifiable emissions tracking across the supply chain",
+        "Published a white paper on the impact of real-time emissions data on corporate sustainability strategies",
+        "Hosted a seminar on innovative emissions monitoring technologies, attended by industry leaders"
+      ]
     }, {
-      "summary": "Establishes Medium as an great, innovative company and workplace to the whole industry",
+      "summary": "Establishes comprehensive systems for real-time emissions tracking and reporting that influence global standards and drive significant environmental improvements.",
       "signals": [
-        "Establishes themself as an industry thought leader who attracts talent",
-        "Publishes material about Medium's organizational or technical innovations",
-        "Leverages significant following to evangelise Medium",
+        "Creates a scalable framework for emissions monitoring that is adopted by peers and across industries",
+        "Engages with regulatory bodies to influence policy-making based on real-time emissions data",
+        "Mentors organizations in developing and implementing effective emissions tracking systems"
       ],
       "examples": [
-        "Published a paper on Medium technology in a peer-reviewed journal",
-        "Authored joint-press release with EFF on DNT",
-        "Published “Why Content Editable Is Terrible” on the Medium engineering blog",
-      ],
+        "Developed an open-source platform for real-time emissions monitoring, widely adopted across sectors",
+        "Played a pivotal role in establishing a new global standard for emissions reporting in the tech industry",
+        "Launched a consultancy service to help other companies implement and benefit from real-time emissions tracking"
+      ]
     }, {
-      "summary": "Introduces Medium in a positive light to a wider audience outside the industry",
+      "summary": "Achieves global leadership in the field of real-time emissions monitoring, driving technological innovation and policy changes that significantly reduce the environmental impact of business operations.",
       "signals": [
-        "Delivers key messages to broad, mainstream audiences",
-        "Influences people with large audiences to talk about Medium positively",
-        "Drives recognition and adoption of Medium in significant numbers",
+        "Leads international collaborations to innovate and implement cutting-edge emissions tracking technologies",
+        "Influences significant policy shifts and sustainability standards globally based on real-time emissions insights",
+        "Directs groundbreaking research into new methods for reducing emissions through immediate data-driven action"
       ],
       "examples": [
-        "Published or interviewed in a mainstream newspaper or website outside tech",
-        "Keynoted a conference with international attention",
-        "Represented Medium in national televised media",
+        "Spearheaded a global initiative to use AI and IoT for dynamic emissions tracking and reduction",
+        "Influenced the UN's adoption of real-time emissions monitoring in their sustainability reporting guidelines",
+        "Conducted a landmark study demonstrating the effectiveness of real-time data in achieving carbon neutrality",
       ],
     }],
   },
 
   "POLICIES": {
-    "displayName": "Recruiting",
+    "displayName": "Policy Framework",
     "category": "D",
-    "description": "Strengthens Medium's team by bringing in excellent staff members",
+    "description": "Evaluates the development and implementation of policy frameworks within an organization to support sustainable practices, ensuring they align with environmental goals and compliance requirements.",
     "milestones": [{
-      "summary": "Brings new candidates into the pipeline and understands how to evaluate candidates at Medium",
+      "summary": "Assesses the current state of policy frameworks in supporting sustainability goals and identifies areas for improvement.",
       "signals": [
-        "Reviews existing network for hiring leads regularly",
-        "Shadows interviews to gain familiarity with process",
-        "Reviews current job postings regularly",
+        "Reviews existing policies for sustainability alignment",
+        "Identifies gaps in policies that could better support environmental objectives",
+        "Recommends foundational policies to start aligning operations with sustainability goals"
       ],
       "examples": [
-        "Completed interview calibration",
-        "Set up casual sessions to practice asking questions",
-        "Referred appropriate individuals for open positions",
-      ],
+        "Conducted a review of the company’s procurement policies to identify lack of environmental considerations",
+        "Outlined a plan for integrating sustainability criteria into existing operational policies",
+        "Suggested the introduction of a remote work policy to reduce commuting-related carbon emissions"
+      ]
     }, {
-      "summary": "Interviews regularly, helps the team make meaningful hiring decisions, and helps build a diverse pipeline",
+      "summary": "Develops and implements comprehensive policy frameworks that explicitly support and drive sustainability initiatives across the organization.",
       "signals": [
-        "Uses interview rubric to provide clear, objective feedback on candidates",
-        "Interviews candidates with empathy and treats them all with equal respect",
-        "Researches approaches for sourcing candidates and diversifying hiring",
+        "Drafts and integrates sustainability-focused policies into corporate governance",
+        "Establishes accountability structures for sustainability policy adherence",
+        "Monitors the impact of policy changes on sustainability outcomes"
       ],
       "examples": [
-        "Added observable evidence for every rating",
-        "Started a monthly brunch for candidates to meet Medium employees",
-        "Tested a new service for quality and diversity of candidates",
-      ],
+        "Implemented a green IT policy mandating the use of energy-efficient devices and practices",
+        "Established a sustainability committee responsible for overseeing policy compliance",
+        "Reported on the environmental and operational benefits realized from new sustainability policies"
+      ]
     }, {
-      "summary": "Maintains and strengthens the integrity of the current process, and regularly brings in great candidates",
+      "summary": "Leads the advancement of innovative policy frameworks that set new standards for sustainability in the industry.",
       "signals": [
-        "Teaches new interviewers how to interview with empathy",
-        "Models great interview technique and feedback when shadowed",
-        "Reverse shadows trainees and helps calibrate their feedback",
+        "Pioneers policy innovations that significantly reduce environmental impact",
+        "Shares successful policy frameworks with the wider industry to encourage adoption",
+        "Assesses the long-term impact of sustainability policies on business and environmental performance"
       ],
       "examples": [
-        "Wrote new interview question which meets our question quality criteria",
-        "Brought candidates into our pipeline proactively, with a high conversion rate",
-        "Proposed useful, tangible improvements to the interview process",
-      ],
+        "Developed a zero-waste policy for all company operations, significantly reducing landfill contributions",
+        "Published a case study on the company’s successful sustainable procurement policy",
+        "Organized a conference panel to discuss policy-driven sustainability transformations in businesses"
+      ]
     }, {
-      "summary": "Actively contributes to and leads hiring decisions, and goes to great lengths to source great candidates",
+      "summary": "Establishes a strategic vision for policy-driven sustainability, influencing industry-wide adoption and promoting global environmental standards.",
       "signals": [
-        "Documents subtle cues in interviews that indicate values alignment",
-        "Makes hiring decisions, resolving discrepancies between conflicting reports",
-        "Top-grades candidates and teases out character traits",
+        "Creates scalable and replicable policy frameworks that become industry benchmarks",
+        "Works with external bodies to advocate for and develop global sustainability standards",
+        "Mentors other organizations in developing and executing effective sustainability policies"
       ],
       "examples": [
-        "Planned engineering summit on interview process and training",
-        "Organized and lead Medium's presence at a recruitment fair",
-        "Started CODE2040 internship program",
-      ],
+        "Played a key role in forming an industry coalition to standardize sustainability policies",
+        "Consulted for international organizations on incorporating sustainability into policy frameworks",
+        "Led a task force that published a widely adopted guide on sustainability policies for businesses"
+      ]
     }, {
-      "summary": "Sets recruitment strategy, invests in long-term relationships for critical roles, and recruits at scale",
+      "summary": "Achieves global recognition as a leader in sustainability policy development, driving significant changes in corporate practices and regulatory standards.",
       "signals": [
-        "Sets the tone, policy and goals around building a diverse, high-quality team",
-        "Identifies and brings in promising acquisitions",
-        "Tracks industry activity, identifying opportunities for critical roles",
+        "Champions global initiatives aimed at establishing sustainable policies in businesses",
+        "Influences significant policy and regulatory changes at the governmental level",
+        "Leads cutting-edge research into policy impacts on sustainability, setting new directions for global practices"
       ],
       "examples": [
-        "Talked with a senior candidate over many months to fill a critical role",
-        "Organized efforts around convincing acquired engineers to join and stay",
-        "Set goals, then tracked and reported metrics on team demographics over time",
+        "Keynoted at a UN conference on the role of corporate policy in achieving sustainability targets",
+        "Contributed to the development of international guidelines for corporate sustainability practices",
+        "Directed a global research project on the effectiveness of policy measures in reducing corporate carbon footprints",
       ],
     }],
   },
 
-  "PROCUREMENT": {
-    "displayName": "Community",
+  "GREEN_PROCUREMENT": {
+    "displayName": "Green Procurement Assessment",
     "category": "D",
-    "description": "Builds community internally, gives of themself to the team, and champions and extols company values",
+    "description": "Evaluates the adoption and effectiveness of green procurement practices, focusing on sourcing environmentally friendly products and services to reduce the organization's carbon footprint and promote sustainability.",
     "milestones": [{
-      "summary": "Is available and present on current teams, and works to contribute positively to company culture",
+      "summary": "Initiates the integration of green procurement practices, identifying opportunities to adopt more sustainable purchasing decisions.",
       "signals": [
-        "Participates in team activities and offsites",
-        "Treats colleagues and clients with respect",
-        "Joins groups or committees outside regular duties",
+        "Assesses current procurement policies for environmental impact considerations",
+        "Identifies key suppliers and products for sustainability improvement",
+        "Recommends initial steps towards greener procurement practices"
       ],
       "examples": [
-        "Joined and actively participated in the web client guild",
-        "Brought a small gift back from vacation for the team",
-        "Wrote entertaining and informative Prod Ops writeups on Hatch",
-      ],
+        "Conducted an audit of existing suppliers to evaluate their sustainability credentials",
+        "Implemented a pilot program to prioritize eco-friendly office supplies",
+        "Developed criteria for assessing the environmental impact of purchased goods and services"
+      ]
     }, {
-      "summary": "Steps up, builds connectedness, and takes concrete actions to promote an inclusive culture",
+      "summary": "Enhances procurement strategies to prioritize sustainability, demonstrating a commitment to reducing environmental impacts through purchasing decisions.",
       "signals": [
-        "Makes space for others to participate",
-        "Collaborates with other engineers outside direct responsibilities",
-        "Finds ways to ramp up and engage new hires quickly",
+        "Adopts comprehensive green procurement policies across the organization",
+        "Engages with suppliers to encourage and facilitate more sustainable practices",
+        "Measures and reports on the environmental benefits achieved through green procurement"
       ],
       "examples": [
-        "Created onboarding bingo",
-        "Brought shy and introverted people into a dominant conversation",
-        "Volunteered as secretary for a team",
-      ],
+        "Transitioned to a fully renewable energy supplier for company facilities",
+        "Organized a supplier sustainability workshop to share best practices and expectations",
+        "Reported annual reductions in carbon emissions achieved through sustainable procurement decisions"
+      ]
     }, {
-      "summary": "Contributes to improving team relatedness, and helps build a culture of lending support",
+      "summary": "Leads innovative approaches in green procurement, setting new standards for environmental responsibility in supply chain management.",
       "signals": [
-        "Takes on additional Watch shifts at short notice",
-        "Pitches in to help other teams hit deadlines, without missing own deadlines",
-        "Uses position to raise difficult issues on someone's behalf",
+        "Pioneers the development of industry-leading sustainable procurement frameworks",
+        "Influences broader market demand for sustainable products and services",
+        "Shares knowledge and resources to promote green procurement practices widely"
       ],
       "examples": [
-        "Lead Watch cycles with little support while still contributing to projects",
-        "Started and drove the LGBTQIA ERG",
-        "Stayed positive and improved team morale during period after layoffs",
-      ],
+        "Developed a sustainability rating system for evaluating and selecting suppliers",
+        "Played a leading role in a consortium aimed at increasing demand for recycled materials",
+        "Published a white paper on the impact of green procurement on reducing supply chain emissions"
+      ]
     }, {
-      "summary": "Exemplifies selflessness for the team without compromising responsibilities, and lifts everyone up",
+      "summary": "Establishes comprehensive green procurement programs that serve as benchmarks for the industry, driving significant reductions in environmental impact.",
       "signals": [
-        "Goes above and beyond on the Watch, serving the team without complaint",
-        "Implements concrete programs to signficantly improve team inclusivity",
-        "Takes on large amounts of tedious grunt work for the team without being asked",
+        "Creates scalable and replicable green procurement strategies adopted by peers",
+        "Engages with policy makers to advocate for regulatory support of green procurement",
+        "Mentors other organizations in implementing effective green procurement practices"
       ],
       "examples": [
-        "Devoted large amount of time to helping outside direct responsibilities",
-        "Refactored hundreds of legacy Shepherd nodes",
-        "Acted as sole maintainer of Boxen for years",
-      ],
+        "Launched an open-source platform for sharing information on sustainable suppliers",
+        "Contributed to the development of a national policy on green procurement for public sector organizations",
+        "Provided consultancy to several Fortune 500 companies on establishing green procurement processes"
+      ]
     }, {
-      "summary": "Lives the company values, guards positive culture, and defines policies that support relatedness between teams",
+      "summary": "Achieves global leadership in green procurement, influencing supply chains and procurement practices worldwide towards greater sustainability.",
       "signals": [
-        "Brings separate teams together to build relatedness",
-        "Holds individuals, teams, and leadership accountable to Medium's values",
-        "Sets the tone, policy, and goals around maintaining an inclusive company",
+        "Champions global initiatives focused on transforming procurement practices to prioritize environmental sustainability",
+        "Influences international standards and agreements on sustainable procurement",
+        "Leads groundbreaking research and development in sustainable procurement methodologies"
       ],
       "examples": [
-        "Organized wine and olive tasting offsite to Napa for the whole engineering org",
-        "Devised, delivered and acted on findings from an engineer happiness survey",
-        "Challenged and corrected exclusionary behaviour or policies",
+        "Keynoted at a global summit on sustainable development, presenting a model for green procurement",
+        "Played a pivotal role in establishing an international agreement on green supply chain standards",
+        "Directed a multinational project on innovative procurement practices, significantly reducing the carbon footprint of participating companies",
       ],
     }],
   },
