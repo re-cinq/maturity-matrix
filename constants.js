@@ -5,7 +5,7 @@ export type TrackId = 'GREEN_STRATEGY' | 'PROCESSES' | 'COMMITMENTS' | 'AWARENES
   'SOFTWARE_OPTIMISATION' | 'DESIGN_PRINCIPLES' | 'SCI' | 'EFFICIENT_LANGUAGE' |
   'INFRA_OPTIMISATION' | 'ENERGY_EFFICIENCY' | 'AUTOSCALING' | 'EXTEND_LIFETIME' |
   'GOVERNANCE' | 'REALTIME_EMISSIONS' | 'POLICIES' | 'PROCUREMENT'
-export type Milestone = 0 | 1 | 2 | 3 | 4 | 5
+export type Milestone = 0 | 1 | 2 | 3 | 4 | 5 
 
 export type MilestoneMap = {
   'GREEN_STRATEGY': Milestone,
@@ -29,35 +29,29 @@ export const milestones = [0, 1, 2, 3, 4, 5]
 
 export const milestoneToPoints = (milestone: Milestone): number => {
   switch (milestone) {
-    case 0: return 0
-    case 1: return 1
-    case 2: return 3
-    case 3: return 6
-    case 4: return 12
-    case 5: return 20
-    default: return 0
+    case 0: return 0;
+    case 1: return 4; // Corresponding to level 2.0
+    case 2: return 8; // Corresponding to level 3.0
+    case 3: return 12; // Corresponding to level 4.0
+    case 4: return 16; // Corresponding to level 5.0
+    case 5: return 20; // Corresponding to level 6.0
+    default: return 0;
   }
-}
+};
 
 export const pointsToLevels = {
-  '0': '1.1',
-  '5': '1.2',
-  '11': '1.3',
-  '17': '2.1',
-  '23': '2.2',
-  '29': '2.3',
-  '36': '3.1',
-  '43': '3.2',
-  '50': '3.3',
-  '58': '4.1',
-  '66': '4.2',
-  '74': '4.3',
-  '90': '5.1',
-  '110': '5.2',
-  '135': '5.3',
-}
+  '0': '1.0',
+  '40': '2.0',
+  '80': '3.0',
+  '120': '4.0',
+  '160': '5.0',
+  '200': '6.0',
+  '240': '7.0',
+  '280': '8.0',
+  '320': '9.0'
+};
 
-export const maxLevel = 135
+export const maxLevel = 320
 
 export type Track = {
   displayName: string,
