@@ -5,7 +5,7 @@ export type TrackId = 'GREEN_STRATEGY' | 'PROCESSES' | 'COMMITMENTS' | 'AWARENES
   'SOFTWARE_OPTIMISATION' | 'DESIGN_PRINCIPLES' | 'SCI' | 'EFFICIENT_LANGUAGE' |
   'INFRA_OPTIMISATION' | 'ENERGY_EFFICIENCY' | 'AUTOSCALING' | 'EXTEND_LIFETIME' |
   'GOVERNANCE' | 'REALTIME_EMISSIONS' | 'POLICIES' | 'PROCUREMENT'
-export type Milestone = 0 | 1 | 2 | 3 | 4 | 5
+export type Milestone = 0 | 1 | 2 | 3 | 4 | 5 
 
 export type MilestoneMap = {
   'GREEN_STRATEGY': Milestone,
@@ -29,35 +29,29 @@ export const milestones = [0, 1, 2, 3, 4, 5]
 
 export const milestoneToPoints = (milestone: Milestone): number => {
   switch (milestone) {
-    case 0: return 0
-    case 1: return 1
-    case 2: return 3
-    case 3: return 6
-    case 4: return 12
-    case 5: return 20
-    default: return 0
+    case 0: return 0;
+    case 1: return 4; // Corresponding to level 2.0
+    case 2: return 8; // Corresponding to level 3.0
+    case 3: return 12; // Corresponding to level 4.0
+    case 4: return 16; // Corresponding to level 5.0
+    case 5: return 20; // Corresponding to level 6.0
+    default: return 0;
   }
-}
+};
 
 export const pointsToLevels = {
-  '0': '1.1',
-  '5': '1.2',
-  '11': '1.3',
-  '17': '2.1',
-  '23': '2.2',
-  '29': '2.3',
-  '36': '3.1',
-  '43': '3.2',
-  '50': '3.3',
-  '58': '4.1',
-  '66': '4.2',
-  '74': '4.3',
-  '90': '5.1',
-  '110': '5.2',
-  '135': '5.3',
-}
+  '0': '1.0',
+  '40': '2.0',
+  '80': '3.0',
+  '120': '4.0',
+  '160': '5.0',
+  '200': '6.0',
+  '240': '7.0',
+  '280': '8.0',
+  '320': '9.0'
+};
 
-export const maxLevel = 135
+export const maxLevel = 320
 
 export type Track = {
   displayName: string,
@@ -357,7 +351,7 @@ export const tracks: Tracks = {
   },  
 
   "SOFTWARE_OPTIMISATION": {
-    "displayName": "Software Optimization",
+    "displayName": "Software Optimisation",
     "category": "B",
     "description": "Enhances software for maximum energy efficiency and minimal environmental impact, utilizing cutting-edge sustainable software engineering practices.",
     "milestones": [{
@@ -557,7 +551,8 @@ export const tracks: Tracks = {
     }],
   },
 
-  "EFFICIENT_PROGRAMMING_LANGUAGES": {
+
+  "EFFICIENT_LANGUAGE": {
     "displayName": "Efficient Programming Languages",
     "category": "B",
     "description": "Advocates for the selection and use of programming languages and frameworks that optimize for energy efficiency, thereby reducing the carbon footprint of software.",
@@ -625,7 +620,7 @@ export const tracks: Tracks = {
   },
 
   "INFRA_OPTIMISATION": {
-    "displayName": "Infrastructure Optimization",
+    "displayName": "Infrastructure Optimisation",
     "category": "C",
     "description": "Evaluates a company's IT infrastructure to identify opportunities for energy efficiency and carbon footprint reduction, recommending strategies for optimization.",
     "milestones": [{
@@ -826,7 +821,7 @@ export const tracks: Tracks = {
   },
 
   "EXTEND_LIFETIME": {
-    "displayName": "Server Lifetime Extension",
+    "displayName": "Extend Hardware Lifetime",
     "category": "C",
     "description": "Evaluates strategies and practices to extend the operational lifetime of servers, focusing on reducing electronic waste and promoting sustainability in IT infrastructure.",
     "milestones": [{
@@ -892,8 +887,8 @@ export const tracks: Tracks = {
     }],
   },
 
-  "ESTABLISHED_GOVERNANCE": {
-    "displayName": "Established Governance",
+  "GOVERNANCE": {
+    "displayName": "Established Green Governance",
     "category": "D",
     "description": "Evaluates the effectiveness of governance structures in embedding sustainability principles across all levels of an organization, ensuring accountability and driving continuous improvement.",
     "milestones": [{
@@ -959,8 +954,8 @@ export const tracks: Tracks = {
     }],
   },
 
-  "REALTIME_EMISSIONS_DATA": {
-    "displayName": "Real-Time Emissions Data Assessment",
+  "REALTIME_EMISSIONS": {
+    "displayName": "Real-Time Emissions Data",
     "category": "D",
     "description": "Evaluates the implementation and effectiveness of systems for tracking and reporting real-time emissions data, facilitating immediate actions and long-term strategy adjustments for sustainability.",
     "milestones": [{
@@ -1093,8 +1088,9 @@ export const tracks: Tracks = {
     }],
   },
 
-  "GREEN_PROCUREMENT": {
-    "displayName": "Green Procurement Assessment",
+
+  "PROCUREMENT": {
+    "displayName": "Green Procurement ",
     "category": "D",
     "description": "Evaluates the adoption and effectiveness of green procurement practices, focusing on sourcing environmentally friendly products and services to reduce the organization's carbon footprint and promote sustainability.",
     "milestones": [{

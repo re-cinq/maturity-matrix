@@ -77,7 +77,7 @@ const emptyState = (): SnowflakeAppState => {
 
 const defaultState = (): SnowflakeAppState => {
   return {
-    name: 'Cersei Lannister',
+    name: 'Write Company Name Here',
     title: 'Staff Engineer',
     milestoneByTrack: {
       'GREEN_STRATEGY': 1,
@@ -130,7 +130,6 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
   }
 
   handleClick = () => {
-    console.log("HERE")
     window.scroll(0,0)
 
     const input = document.getElementById('matrix');
@@ -146,7 +145,7 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
           precision: 5
         });
         const imgWidth = pdf.internal.pageSize.getWidth();
-        const imgHeight = pdf.internal.pageSize.getHeight();
+        const imgHeight = pdf.internal.pageSize.getHeight()/ 2;
         const margin = 10; // Adjust margin as needed
         
         const yPos = margin;
@@ -194,15 +193,16 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
             padding: 100;
           }
         `}</style>
-        <div style={{margin: '19px auto 0', width: 142}}>
-          <a href="https://medium.com/" target="_blank">
-            <Wordmark />
-          </a>
-        </div>
       <div className="mb5">
         <button onClick={this.handleClick}>Print</button>
       </div>
       <div id="matrix" class="print">
+      <hr/>
+        <div style={{margin: '19px auto 0', width: 142}}>
+          <a href="https://re-cinq.com/" target="_blank">
+            <Wordmark />
+          </a>
+        </div>
       <hr/>
         <div  style={{display: 'flex'}}>
           <div style={{flex: 1}}>
@@ -216,10 +216,6 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
                   onChange={e => this.setState({name: e.target.value})}
                   placeholder="Name"
                   />
-              <TitleSelector
-                  milestoneByTrack={this.state.milestoneByTrack}
-                  currentTitle={this.state.title}
-                  setTitleFn={(title) => this.setTitle(title)} />
             </form>
           </div>
           <div style={{flex: 0}}>
@@ -233,6 +229,7 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
             milestoneByTrack={this.state.milestoneByTrack}
             focusedTrackId={this.state.focusedTrackId}
             setFocusedTrackIdFn={this.setFocusedTrackId.bind(this)} />
+        </div>
         <KeyboardListener
             selectNextTrackFn={this.shiftFocusedTrack.bind(this, 1)}
             selectPrevTrackFn={this.shiftFocusedTrack.bind(this, -1)}
@@ -242,16 +239,6 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
             milestoneByTrack={this.state.milestoneByTrack}
             trackId={this.state.focusedTrackId}
             handleTrackMilestoneChangeFn={(track, milestone) => this.handleTrackMilestoneChange(track, milestone)} />
-        <div style={{display: 'flex', paddingBottom: '20px'}}>
-          <div style={{flex: 1}}>
-            Made with ❤️ by <a href="https://medium.engineering" target="_blank">Medium Eng</a>.
-            Learn about the <a href="https://medium.com/s/engineering-growth-framework" target="_blank">this version of our growth framework</a>
-            {' '}and <a href="https://medium.engineering/engineering-growth-at-medium-4935b3234d25" target="_blank">what we do currently</a>.
-            Get the <a href="https://github.com/Medium/snowflake" target="_blank">source code</a>.
-            Read the <a href="https://medium.com/p/85e078bc15b7" target="_blank">terms of service</a>.
-          </div>
-        </div>
-        </div>
       </main>
     )
   }
