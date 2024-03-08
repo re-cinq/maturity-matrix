@@ -77,7 +77,7 @@ const emptyState = (): SnowflakeAppState => {
 
 const defaultState = (): SnowflakeAppState => {
   return {
-    name: 'Cersei Lannister',
+    name: 'Write Company Name Here',
     title: 'Staff Engineer',
     milestoneByTrack: {
       'GREEN_STRATEGY': 1,
