@@ -159,7 +159,7 @@ export const tracks: Tracks = {
   
 
   "PROCESSES": {
-    "displayName": "Web client",
+    "displayName": "Process",
     "category": "A",
     "description": "Develops expertise in web client technologies, such as HTML, CSS, and JavaScript",
     "milestones": [{
@@ -226,7 +226,7 @@ export const tracks: Tracks = {
   },
 
   "COMMITMENTS": {
-    "displayName": "Foundations",
+    "displayName": "Commitments",
     "category": "A",
     "description": "Develops expertise in foundational systems, such as deployments, pipelines, databases and machine learning",
     "milestones": [{
@@ -293,7 +293,7 @@ export const tracks: Tracks = {
   },
 
   "AWARENESS": {
-    "displayName": "Servers",
+    "displayName": "Awareness",
     "category": "A",
     "description": "Develops expertise in server side engineering, using technologies such as Go, NodeJS, or Scala",
     "milestones": [{
@@ -360,7 +360,7 @@ export const tracks: Tracks = {
   },
 
   "SOFTWARE_OPTIMISATION": {
-    "displayName": "Project management",
+    "displayName": "Software Optimisation",
     "category": "B",
     "description": "Delivers well-scoped programs of work that meet their goals, on time, to budget, harmoniously",
     "milestones": [{
@@ -427,7 +427,7 @@ export const tracks: Tracks = {
   },
 
   "DESIGN_PRINCIPLES": {
-    "displayName": "Communication",
+    "displayName": "Design Principles",
     "category": "B",
     "description": "Shares the right amount of information with the right people, at the right time, and listens effectively",
     "milestones": [{
@@ -494,7 +494,7 @@ export const tracks: Tracks = {
   },
 
   "SCI": {
-    "displayName": "Craft",
+    "displayName": "SCI",
     "category": "B",
     "description": "Embodies and promotes practices to ensure excellent quality products and services",
     "milestones": [{
@@ -561,7 +561,7 @@ export const tracks: Tracks = {
   },
 
   "EFFICIENT_LANGUAGE": {
-    "displayName": "Initiative",
+    "displayName": "Efficient Language",
     "category": "B",
     "description": "Challenges the status quo and effects positive organizational change outside of mandated work",
     "milestones": [{
@@ -628,7 +628,7 @@ export const tracks: Tracks = {
   },
 
   "INFRA_OPTIMISATION": {
-    "displayName": "Career development",
+    "displayName": "Infrastructure Optimisation",
     "category": "C",
     "description": "Provides strategic support to engineers to help them build the career they want",
     "milestones": [{
@@ -695,7 +695,7 @@ export const tracks: Tracks = {
   },
 
   "ENERGY_EFFICIENCY": {
-    "displayName": "Org design",
+    "displayName": "Energy Efficiency",
     "category": "C",
     "description": "Defines processes and structures that enables the strong growth and execution of a diverse eng organization",
     "milestones": [{
@@ -762,7 +762,7 @@ export const tracks: Tracks = {
   },
 
   "AUTOSCALING": {
-    "displayName": "Wellbeing",
+    "displayName": "Autoscaling",
     "category": "C",
     "description": "Supports the emotional well-being of group members in difficult times, and celebrates their successes",
     "milestones": [{
@@ -829,7 +829,7 @@ export const tracks: Tracks = {
   },
 
   "EXTEND_LIFETIME": {
-    "displayName": "Accomplishment",
+    "displayName": "Extend Hardware Lifetime",
     "category": "C",
     "description": "Inspires day to day excellence, maximises potential and effectively resolves performance issues with compassion",
     "milestones": [{
@@ -896,7 +896,7 @@ export const tracks: Tracks = {
   },
 
   "GOVERNANCE": {
-    "displayName": "Mentorship",
+    "displayName": "Governance",
     "category": "D",
     "description": "Provides support to colleagues, spreads knowledge, and develops the team outside formal reporting structures",
     "milestones": [{
@@ -963,7 +963,7 @@ export const tracks: Tracks = {
   },
 
   "REALTIME_EMISSIONS": {
-    "displayName": "Evangelism",
+    "displayName": "Realtime Emissions",
     "category": "D",
     "description": "Promotes Medium to the outside world and establishes it as an attractive and thoughtful place to work",
     "milestones": [{
@@ -1030,7 +1030,7 @@ export const tracks: Tracks = {
   },
 
   "POLICIES": {
-    "displayName": "Recruiting",
+    "displayName": "Policies",
     "category": "D",
     "description": "Strengthens Medium's team by bringing in excellent staff members",
     "milestones": [{
@@ -1097,7 +1097,7 @@ export const tracks: Tracks = {
   },
 
   "PROCUREMENT": {
-    "displayName": "Community",
+    "displayName": "Procurement",
     "category": "D",
     "description": "Builds community internally, gives of themself to the team, and champions and extols company values",
     "milestones": [{
