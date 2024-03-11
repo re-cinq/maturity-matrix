@@ -604,64 +604,54 @@ export const tracks: Tracks = {
     "category": "C",
     "description": "Conducts comprehensive evaluations of a company's energy use across software, hardware, and processes, identifying strategies to enhance efficiency and reduce environmental impact.",
     "milestones": [{
-      "summary": "Performs an initial review to identify basic energy inefficiencies and potential areas for improvement.",
+      "summary": "Initial recognition of the importance of energy efficiency.",
       "signals": [
-        "Assesses current energy usage patterns and identifies high-consumption areas",
-        "Evaluates the energy efficiency of deployed software and hardware",
-        "Recommends straightforward adjustments to reduce immediate energy consumption"
+        "Becoming aware of energy consumption patterns and their impacts.",
+        "Starting to identify high-energy consumption areas for improvement."
       ],
       "examples": [
-        "Analyzed server utilization rates to identify and decommission underused servers",
-        "Reviewed application performance metrics to pinpoint inefficient code",
-        "Suggested shifts in work patterns to optimize energy use during peak and off-peak hours"
+        "Basic energy use audits to highlight inefficient systems.",
+        "Discussions on the potential for energy saving within current operations."
       ]
     }, {
-      "summary": "Develops targeted strategies for optimizing energy use, implementing solutions that lead to significant efficiency gains.",
+      "summary": "Implementation of basic measures to improve energy efficiency.",
       "signals": [
-        "Crafts and executes a plan for comprehensive energy optimization across IT operations",
-        "Monitors and measures the impact of implemented changes on energy consumption",
-        "Institutes best practices in software development and infrastructure management for ongoing energy savings"
+        "Applying simple adjustments and optimizations to reduce energy use.",
+        "Engaging in energy efficiency training and beginning to track improvements."
       ],
       "examples": [
-        "Upgraded to more energy-efficient server hardware, reducing data center energy use",
-        "Optimized major software applications for energy efficiency, resulting in lower server demand",
-        "Implemented a company-wide policy for energy-efficient procurement and use of IT equipment"
+        "Adoption of energy-efficient lighting and low-power devices.",
+        "Introduction of power management settings for computers and servers."
       ]
     }, {
-      "summary": "Leads advanced initiatives for energy efficiency, incorporating innovative technologies and methodologies to set new standards.",
+      "summary": "Strategic improvements and adoption of energy-efficient technologies.",
       "signals": [
-        "Evaluates and integrates cutting-edge energy-saving technologies and practices",
-        "Publishes findings and case studies on successful energy reduction initiatives",
-        "Advocates within the industry for widespread adoption of energy efficiency measures"
+        "Systematic approach to reducing energy use through technology upgrades and process optimizations.",
+        "Monitoring and measuring the impact of implemented energy-saving initiatives."
       ],
       "examples": [
-        "Introduced an AI-based system for dynamic power management across computing resources",
-        "Led a successful pilot for solar-powered cooling in data centers, dramatically reducing energy costs",
-        "Organized a series of industry talks on the role of software in achieving energy efficiency"
+        "Upgrading to energy-efficient server hardware.",
+        "Optimizing software and systems for better energy use."
       ]
     }, {
-      "summary": "Establishes a strategic framework for achieving and maintaining industry-leading energy efficiency levels, influencing broader market practices.",
+      "summary": "Innovating and leading in energy efficiency measures.",
       "signals": [
-        "Sets ambitious long-term energy efficiency goals, aligning them with broader sustainability targets",
-        "Works with external stakeholders to advocate for and develop green energy standards",
-        "Mentors organizations on implementing effective energy efficiency strategies"
+        "Developing new strategies and technologies for significant energy savings.",
+        "Promoting and sharing successful practices within the industry."
       ],
       "examples": [
-        "Developed a scalable model for zero-net-energy IT operations adopted by peers in the industry",
-        "Contributed to the development of international standards for energy-efficient computing",
-        "Advised multiple companies on strategies for reducing energy use, leveraging insights from own successful initiatives"
+        "Implementing a company-wide renewable energy program.",
+        "Publishing a case study on a successful energy-saving project."
       ]
     }, {
-      "summary": "Achieves global recognition as a leader in energy efficiency, driving transformative change and significantly advancing the pursuit of sustainability in technology.",
+      "summary": "Global influence and leadership in energy-efficient practices.",
       "signals": [
-        "Champions global initiatives focused on reducing the technology sector's energy consumption",
-        "Influences policy, standards, and practices at a global level to promote energy efficiency",
-        "Leads groundbreaking research and development efforts in energy-efficient technologies"
+        "Setting international standards for energy efficiency in technology.",
+        "Leading global initiatives and partnerships to promote sustainable energy use."
       ],
       "examples": [
-        "Presented at global forums on sustainable technology, showcasing model energy efficiency programs",
-        "Played a pivotal role in a UN-backed initiative to promote energy efficiency in technology companies worldwide",
-        "Headed a research consortium focused on next-generation energy-saving technologies, resulting in widely adopted solutions",
+        "Influencing policy changes to support energy efficiency.",
+        "Organizing international conferences focused on sustainability in tech."
       ],
     }],
   },
