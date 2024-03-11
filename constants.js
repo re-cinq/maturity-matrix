@@ -261,64 +261,54 @@ export const tracks: Tracks = {
     "category": "A",
     "description": "Cultivates and spreads awareness on the importance of sustainability in software engineering, fostering a culture of responsibility and innovation.",
     "milestones": [{
-      "summary": "Raises basic awareness of sustainability challenges and opportunities within the team or organization.",
+      "summary": "Initial recognition of sustainability in tech.",
       "signals": [
-        "Shares information and resources on sustainable practices",
-        "Initiates discussions on the environmental impact of software projects",
-        "Encourages team members to consider sustainability in their work"
+        "Basic understanding of the environmental impact of technology.",
+        "Starting conversations about sustainability in technology within immediate circles."
       ],
       "examples": [
-        "Organized a team meeting to discuss the company's sustainability goals",
-        "Shared articles and case studies on green computing in the team's communication channel",
-        "Introduced a 'green tip of the week' in team standups to promote sustainable habits"
+        "Sharing articles on green computing with peers.",
+        "Engaging in discussions about the importance of eco-friendly practices in software development."
       ]
     }, {
-      "summary": "Elevates awareness by embedding sustainability into team or organizational culture, leading by example and initiating projects with a sustainability focus.",
+      "summary": "Promoting basic sustainability concepts within teams or organizations.",
       "signals": [
-        "Leads sustainability-focused projects or initiatives",
-        "Mentors colleagues on integrating sustainable practices into their work",
-        "Organizes workshops or talks on sustainability topics"
+        "Introducing sustainability topics in team meetings or discussions.",
+        "Encouraging colleagues to consider environmental impacts in their projects."
       ],
       "examples": [
-        "Launched a green coding initiative within the development team",
-        "Mentored a junior developer on creating energy-efficient algorithms",
-        "Hosted a guest speaker session on sustainability in the tech industry"
+        "Organizing a lunch-and-learn session on sustainability in IT.",
+        "Incorporating green tips in internal newsletters."
       ]
     }, {
-      "summary": "Champions broader awareness efforts, influencing the industry and community by advocating for sustainable software engineering practices.",
+      "summary": "Embedding sustainability into organizational culture.",
       "signals": [
-        "Speaks at conferences and events on the importance of sustainability in software development",
-        "Contributes to or initiates open-source projects with a focus on sustainability",
-        "Engages with external organizations to promote sustainability in the tech community"
+        "Leading projects or initiatives with a focus on sustainability.",
+        "Mentoring peers on sustainable development practices."
       ],
       "examples": [
-        "Presented on sustainable development practices at a major tech conference",
-        "Led an open-source project focused on reducing software energy consumption",
-        "Partnered with a non-profit to run a coding bootcamp for developing green apps"
+        "Launching a green coding challenge within the company.",
+        "Facilitating workshops on energy-efficient programming."
       ]
     }, {
-      "summary": "Establishes and leads major awareness campaigns or educational programs, setting new standards for sustainability education in the tech sector.",
+      "summary": "Influencing the broader industry towards sustainable practices.",
       "signals": [
-        "Creates comprehensive resources or curricula on sustainable software engineering",
-        "Influences policy or curriculum changes at educational institutions",
-        "Receives recognition for contributions to sustainability awareness in the tech industry"
+        "Speaking at industry events about sustainability in software development.",
+        "Contributing to open-source projects focused on green technologies."
       ],
       "examples": [
-        "Developed an online course on sustainable software practices adopted by multiple universities",
-        "Advised a government body on integrating sustainability into IT education standards",
-        "Awarded for outstanding contribution to raising sustainability awareness in the tech community"
+        "Publishing a case study on a successful sustainability initiative.",
+        "Organizing a regional conference on sustainable computing."
       ]
     }, {
-      "summary": "Becomes a global leader in sustainability awareness, driving significant shifts in how the tech industry and society at large perceive and implement sustainable practices.",
+      "summary": "Global leadership in promoting sustainability awareness.",
       "signals": [
-        "Innovates in sustainability communication, reaching a wide and diverse audience",
-        "Leads global initiatives that significantly increase engagement with sustainable tech practices",
-        "Shapes public and industry opinion on the importance of sustainability in technology"
+        "Leading global campaigns or educational programs on tech sustainability.",
+        "Shaping industry standards and policies on sustainability."
       ],
       "examples": [
-        "Organized a global sustainability in tech summit, bringing together leaders from across industries",
-        "Published a landmark book on the role of technology in achieving a sustainable future",
-        "Led a successful campaign advocating for global standards in sustainable software development"
+        "Developing a widely adopted curriculum on sustainable software engineering.",
+        "Keynote speaking at international forums on the role of technology in achieving sustainability goals."
       ],
     }],
   },  
