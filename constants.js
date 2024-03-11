@@ -661,64 +661,54 @@ export const tracks: Tracks = {
     "category": "C",
     "description": "Evaluates the effectiveness and efficiency of autoscaling practices within a company's IT infrastructure, aiming to optimize resource use and minimize environmental impact.",
     "milestones": [{
-      "summary": "Identifies opportunities for implementing or optimizing autoscaling to enhance energy efficiency and resource utilization.",
+      "summary": "Initial awareness of autoscaling benefits for energy efficiency.",
       "signals": [
-        "Assesses current infrastructure and application scalability",
-        "Identifies underutilized resources that can be optimized through autoscaling",
-        "Recommends initial autoscaling strategies to match demand without overprovisioning"
+        "Understanding basic concepts of autoscaling and its potential to improve energy efficiency.",
+        "Identifying opportunities where autoscaling could be applied or optimized."
       ],
       "examples": [
-        "Analyzed cloud resource usage to identify patterns and opportunities for autoscaling",
-        "Proposed a basic autoscaling setup for a high-traffic web application to adjust resources dynamically",
-        "Evaluated existing autoscaling configurations for optimization to reduce idle compute time"
+        "Basic research on autoscaling technologies.",
+        "Initial discussions about implementing autoscaling in existing projects."
       ]
     }, {
-      "summary": "Develops and implements advanced autoscaling strategies, leveraging technology to dynamically and efficiently allocate resources.",
+      "summary": "Basic implementation of autoscaling to improve resource efficiency.",
       "signals": [
-        "Designs sophisticated autoscaling policies based on detailed usage analytics",
-        "Integrates autoscaling with deployment pipelines for seamless scalability",
-        "Measures and reports on the carbon footprint reduction achieved through improved autoscaling"
+        "Setting up simple autoscaling for key applications based on demand.",
+        "Beginning to measure the impact of autoscaling on resource utilization and energy consumption."
       ],
       "examples": [
-        "Implemented a container orchestration system with custom autoscaling rules to minimize resource wastage",
-        "Optimized autoscaling triggers and thresholds based on real-time demand and energy consumption data",
-        "Conducted an impact analysis to quantify energy savings and carbon reduction from enhanced autoscaling practices"
+        "Introduction of basic autoscaling rules for cloud-based services.",
+        "Pilot testing of autoscaling to understand its effects on energy use."
       ]
     }, {
-      "summary": "Pioneers innovative autoscaling solutions that serve as industry benchmarks, significantly improving energy efficiency and operational sustainability.",
+      "summary": "Enhanced application of autoscaling strategies for better efficiency.",
       "signals": [
-        "Innovates with new autoscaling technologies and frameworks for cloud infrastructure",
-        "Leads cross-functional initiatives to embed sustainability into autoscaling practices",
-        "Shares expertise through case studies, publications, or speaking engagements"
+        "Refining autoscaling policies to dynamically match computing resources with actual demand.",
+        "Documenting and analyzing the improvements in energy efficiency and cost savings."
       ],
       "examples": [
-        "Developed a predictive autoscaling algorithm that anticipates demand spikes, optimizing resource allocation",
-        "Authored a white paper on the environmental benefits of intelligent autoscaling practices",
-        "Spoke at a technology conference about integrating green computing principles with autoscaling"
+        "Optimization of autoscaling triggers to reduce waste during low traffic periods.",
+        "Expansion of autoscaling practices across more applications and services."
       ]
     }, {
-      "summary": "Establishes a comprehensive approach to sustainable autoscaling, influencing policy and standards while mentoring others to adopt best practices.",
+      "summary": "Pioneering advanced autoscaling solutions and practices.",
       "signals": [
-        "Creates guidelines and best practices for sustainable autoscaling in various environments",
-        "Works with industry groups to set standards for environmentally friendly autoscaling",
-        "Mentors other organizations in the adoption of green autoscaling methodologies"
+        "Innovating with new technologies and strategies for more effective autoscaling.",
+        "Leading the organization or industry in adopting sophisticated autoscaling techniques."
       ],
       "examples": [
-        "Led the formulation of an industry-wide standard for green autoscaling practices",
-        "Implemented a mentorship program to help startups adopt sustainable autoscaling techniques",
-        "Collaborated with cloud service providers to offer greener autoscaling options"
+        "Development of predictive autoscaling algorithms that anticipate load changes.",
+        "Sharing successful case studies on autoscaling at tech conferences."
       ]
     }, {
-      "summary": "Achieves global leadership in sustainable autoscaling, driving the adoption of practices that significantly reduce the IT sector's carbon footprint.",
+      "summary": "Global leadership in sustainable autoscaling practices.",
       "signals": [
-        "Champions global initiatives aimed at promoting sustainable autoscaling",
-        "Influences international standards for energy-efficient computing",
-        "Leads breakthrough research in autoscaling technologies that optimize for environmental sustainability"
+        "Establishing benchmarks and best practices for autoscaling that prioritize environmental sustainability.",
+        "Driving the adoption of advanced autoscaling techniques worldwide."
       ],
       "examples": [
-        "Headed a UN-backed project to promote sustainable autoscaling in developing countries",
-        "Organized a global summit on sustainable cloud computing, with a focus on autoscaling",
-        "Conducted a landmark study proving the effectiveness of autoscaling in reducing global data center energy use",
+        "Influencing policy and standards on sustainable IT practices through advocacy of effective autoscaling.",
+        "Organizing international workshops or webinars to promote energy-efficient autoscaling."
       ],
     }],
   },
