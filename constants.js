@@ -204,64 +204,54 @@ export const tracks: Tracks = {
     "category": "A",
     "description": "Embeds a culture of responsibility and accountability for sustainability within organizations, ensuring commitments lead to tangible outcomes.",
     "milestones": [{
-      "summary": "Embeds initial sustainability commitments into project goals, ensuring a foundation for eco-friendly practices.",
+      "summary": "Awareness of the need for sustainability commitments.",
       "signals": [
-        "Identifies and sets specific sustainability targets for projects",
-        "Begins integrating sustainable considerations into project planning",
-        "Commits to regular review and reporting on sustainability progress"
+        "Beginning to understand the importance of sustainability in organizational practices.",
+        "Initial discussions on setting sustainability targets."
       ],
       "examples": [
-        "Defined energy efficiency goals for a new software development project",
-        "Incorporated environmental impact assessment in the project lifecycle",
-        "Established a baseline for carbon footprint for current IT infrastructure"
+        "Informal team discussions on the impact of IT operations on the environment.",
+        "Review of industry standards for sustainability commitments."
       ]
     }, {
-      "summary": "Elevates commitment by driving projects to not just meet, but exceed sustainability goals, embedding deeper green practices.",
+      "summary": "Setting foundational sustainability commitments.",
       "signals": [
-        "Leads projects with sustainability as a core objective, beyond mere compliance",
-        "Implements innovative solutions to achieve greater sustainability outcomes",
-        "Engages stakeholders across the organization to align on and support sustainability efforts"
+        "Identifying specific sustainability targets for projects.",
+        "Starting to integrate sustainability considerations into project planning."
       ],
       "examples": [
-        "Exceeded initial carbon reduction targets through innovative cloud optimization strategies",
-        "Deployed a company-wide sustainability challenge, resulting in significant energy savings",
-        "Initiated a partnership with suppliers to reduce the environmental impact of hardware procurement"
+        "Establishing a baseline for the carbon footprint of IT infrastructure.",
+        "Defining energy efficiency goals for new software projects."
       ]
     }, {
-      "summary": "Champions transformative sustainability initiatives, setting new standards within the industry for environmental responsibility.",
+      "summary": "Deepening commitment with actionable sustainability goals.",
       "signals": [
-        "Pioneers adoption of groundbreaking green technologies and practices",
-        "Influences organizational strategy to prioritize long-term sustainability",
-        "Cultivates a network of sustainability champions within and outside the organization"
+        "Projects led with sustainability as a core objective.",
+        "Implementation of solutions to achieve and surpass sustainability targets."
       ],
       "examples": [
-        "Led the development and implementation of a proprietary green algorithm, drastically reducing computational energy use",
-        "Formulated and executed a strategic shift to renewable energy sources for all company data centers",
-        "Founded an industry-wide consortium focused on sustainable software practices"
+        "Exceeding carbon reduction targets through cloud optimization.",
+        "Initiating a company-wide challenge to foster sustainable habits."
       ]
     }, {
-      "summary": "Establishes and fulfills ambitious, industry-leading sustainability commitments, driving significant impact on global environmental goals.",
+      "summary": "Championing transformative sustainability initiatives.",
       "signals": [
-        "Sets visionary sustainability targets that inspire action within and beyond the organization",
-        "Leads by example in achieving breakthrough results in sustainability",
-        "Leverages influence to advocate for policy changes and standards that promote sustainability in technology"
+        "Pioneering adoption of groundbreaking green technologies.",
+        "Influencing organizational strategy to prioritize sustainability."
       ],
       "examples": [
-        "Spearheaded a successful initiative to make the company’s operations carbon negative",
-        "Published a breakthrough study on the impact of sustainable software practices on reducing global carbon emissions",
-        "Played a key role in establishing a new international standard for environmental sustainability in software development"
+        "Strategic shift to renewable energy sources for company data centers.",
+        "Development and implementation of proprietary green technologies."
       ]
     }, {
-      "summary": "Becomes a global thought leader in organizational sustainability, shaping the future of corporate responsibility towards the environment.",
+      "summary": "Global leadership in sustainability commitments.",
       "signals": [
-        "Drives innovative sustainability research and practices that set global benchmarks",
-        "Mobilizes a global movement towards integrating sustainability deeply into business models",
-        "Influences global policy and strategy on sustainability, setting new norms for corporate environmental stewardship"
+        "Setting visionary sustainability targets that inspire industry-wide action.",
+        "Leveraging influence to advocate for policy changes that promote sustainability."
       ],
       "examples": [
-        "Delivered a keynote at the UN Climate Action Summit, highlighting the role of corporate commitments in achieving sustainability targets",
-        "Led a global corporate coalition to commit to net-zero emissions, influencing policy changes in several countries",
-        "Developed and shared an open-source platform for tracking and reporting on sustainability metrics, widely adopted across industries"
+        "Spearheading successful initiatives to achieve corporate carbon neutrality.",
+        "Playing a key role in establishing international standards for sustainable software practices."
       ]
     }],
   },
