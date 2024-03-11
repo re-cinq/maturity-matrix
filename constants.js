@@ -87,66 +87,57 @@ export const tracks: Tracks = {
   "GREEN_STRATEGY": {
     "displayName": "Green Strategy",
     "category": "A",
-    "description": "Develops expertise in sustainable software engineering and GreenOps, integrating eco-friendly practices across IT operations.",
+    "description": "Fostering sustainable practices and GreenOps within all technological initiatives.",
     "milestones": [{
-      "summary": "Adopts fundamental sustainable and GreenOps practices within projects, following eco-friendly guidelines.",
+      "summary": "Recognition and initial adoption of sustainable guidelines.",
       "signals": [
-        "Incorporates basic sustainability principles in software design",
-        "Applies energy-efficient coding practices for minimal environmental impact",
-        "Utilizes existing green components and frameworks effectively"
+        "Initial recognition of sustainability as a value in tech projects.",
+        "Exploration of basic resources on sustainable software engineering."
       ],
       "examples": [
-        "Optimized code for reduced energy consumption in a web app",
-        "Integrated an existing low-power library for data processing",
-        "Implemented automated carbon footprint tracking for project deployments"
+        "Attendance at a webinar on green computing.",
+        "Reading articles on the impact of IT operations on the environment."
       ]
     }, {
-      "summary": "Enhances projects with advanced sustainable design and operational efficiency, contributing to broader green initiatives.",
+      "summary": "Recognition and initial adoption of sustainable guidelines.",
       "signals": [
-        "Designs solutions with a focus on reducing electronic waste",
-        "Develops features that significantly lower server resource demands",
-        "Advises on eco-friendly alternatives for project requirements"
+        "Basic understanding of sustainability in software projects.",
+        "Initial efforts to apply eco-friendly practices in development.",
+        "Adoption of energy-efficient coding practices."
       ],
       "examples": [
-        "Redesigned a feature to extend hardware lifespan",
-        "Created a more efficient data caching strategy to reduce server load",
-        "Conducted a workshop on sustainable software practices for the team"
+        "Optimization for reduced power consumption in applications.",
+        "Integration of eco-friendly libraries."
       ]
     }, {
-      "summary": "Leads in the innovation and implementation of green architecture, setting standards for sustainability.",
+      "summary": "Leadership in sustainable architecture and practices.",
       "signals": [
-        "Pioneers new methodologies in GreenOps and sustainable engineering",
-        "Influences the adoption of green practices across multiple projects",
-        "Balances performance, cost, and environmental impact at scale"
+        "Innovation in GreenOps methodologies.",
+        "Significant contributions to the adoption of green practices across projects."
       ],
       "examples": [
-        "Developed a novel algorithm reducing energy use in high-traffic systems",
-        "Led the transition to a green cloud hosting provider",
-        "Authored company-wide guidelines for sustainable software development"
+        "Development of energy-efficient algorithms.",
+        "Transition to green cloud hosting providers."
       ]
     }, {
-      "summary": "Establishes frameworks for sustainability that influence the industry, advocating for eco-conscious tech development.",
+      "summary": "Influential frameworks for sustainability that set industry standards.",
       "signals": [
-        "Creates scalable, sustainable systems that serve as benchmarks",
-        "Mentors others in advanced GreenOps strategies",
-        "Drives significant reductions in carbon footprint and IT costs"
+        "Creation of scalable, eco-conscious systems as benchmarks.",
+        "Mentorship in advanced GreenOps strategies."
       ],
       "examples": [
-        "Designed a zero-emission data center strategy",
-        "Spearheaded a cross-industry forum on sustainable computing",
-        "Implemented a company-wide, green software framework adopted by peers"
-      ]
+        "Design of a zero-emission data center strategy.",
+        "Leadership in cross-industry forums on sustainable computing."
+      ]  
     }, {
-      "summary": "Becomes a global thought leader in sustainable software engineering, shaping the future of green technology.",
+      "summary": "Global leadership in shaping the future of green technology.",
       "signals": [
-        "Sets visionary sustainability goals and mobilizes the industry towards them",
-        "Innovates with groundbreaking eco-friendly technologies",
-        "Champions global initiatives for sustainable computing"
+        "Visionary sustainability goals that mobilize the industry.",
+        "Innovation with groundbreaking eco-friendly technologies."
       ],
       "examples": [
-        "Keynote speaker at a leading conference on sustainability in tech",
-        "Developed a widely adopted open-source tool for carbon footprint analysis",
-        "Led a successful international campaign for reducing software-induced emissions"
+        "Keynote speeches at sustainability conferences.",
+        "Development of open-source tools for carbon footprint analysis."
       ],
     }],
   },
@@ -190,7 +181,7 @@ export const tracks: Tracks = {
         "Created a zero-waste deployment strategy adopted company-wide",
         "Pioneered a new, energy-efficient testing framework",
         "Hosted workshops on sustainable development practices for external developers"
-      ],
+      ]
     }, {
       "summary": "Leads the digital transformation towards green practices, optimizing every phase of the software development lifecycle for sustainability.",
       "signals": [
