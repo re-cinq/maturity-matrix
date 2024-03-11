@@ -832,64 +832,54 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the implementation and effectiveness of systems for tracking and reporting real-time emissions data, facilitating immediate actions and long-term strategy adjustments for sustainability.",
     "milestones": [{
-      "summary": "Initiates the integration of real-time emissions tracking systems to provide foundational data for sustainability efforts.",
-      "signals": [
-        "Identifies suitable technologies and platforms for emissions monitoring",
-        "Sets up basic real-time emissions tracking for key operations",
-        "Begins to use emissions data to inform simple sustainability decisions"
+      summary: "Initial awareness of the importance of real-time emissions tracking.",
+      signals: [
+        "Recognizing the potential impact of real-time data on sustainability efforts.",
+        "Beginning to explore tools and technologies for emissions monitoring."
       ],
-      "examples": [
-        "Implemented a pilot program using IoT devices to monitor energy consumption and emissions in real-time",
-        "Integrated emissions tracking into the company’s data dashboard for easy access",
-        "Analyzed real-time emissions data to identify peak usage times and adjust operations accordingly"
+      examples: [
+        "Research on available technologies for real-time emissions tracking.",
+        "Initial discussions about the benefits of monitoring emissions in real-time for sustainability planning."
       ]
     }, {
-      "summary": "Enhances real-time emissions monitoring capabilities, using data to drive more significant sustainability initiatives and operational changes.",
-      "signals": [
-        "Expands the scope of emissions monitoring to cover broader operational areas",
-        "Leverages advanced analytics to interpret emissions data and identify reduction opportunities",
-        "Incorporates emissions insights into strategic planning and performance reporting"
+      summary: "Basic implementation of real-time emissions tracking systems.",
+      signals: [
+        "Setting up initial systems for tracking emissions data in real-time for key operations.",
+        "Starting to use emissions data to inform basic sustainability decisions."
       ],
-      "examples": [
-        "Upgraded the emissions tracking system to cover all data centers, significantly improving data accuracy",
-        "Developed a dashboard feature that correlates emissions data with operational metrics, highlighting efficiency gains",
-        "Used emissions data to justify the transition to renewable energy sources for several facilities"
+      examples: [
+        "Introduction of IoT devices to monitor energy use and emissions in real-time.",
+        "Integration of emissions tracking into the company’s sustainability dashboard."
       ]
     }, {
-      "summary": "Leads the development and implementation of state-of-the-art real-time emissions tracking, setting benchmarks for sustainability in the industry.",
-      "signals": [
-        "Pioneers the adoption of next-generation technologies for granular emissions monitoring",
-        "Shares expertise and findings with the industry to promote wide-scale adoption of emissions tracking",
-        "Evaluates and optimizes the carbon footprint of products and services based on real-time data"
+      summary: "Enhanced use of real-time emissions data for sustainability initiatives.",
+      signals: [
+        "Expanding emissions monitoring to cover more operational areas.",
+        "Using advanced analytics to derive actionable insights from emissions data."
       ],
-      "examples": [
-        "Implemented a blockchain-based system for transparent and verifiable emissions tracking across the supply chain",
-        "Published a white paper on the impact of real-time emissions data on corporate sustainability strategies",
-        "Hosted a seminar on innovative emissions monitoring technologies, attended by industry leaders"
+      examples: [
+        "Implementation of a comprehensive real-time monitoring system across all data centers.",
+        "Using real-time emissions data to optimize operational efficiency and reduce carbon footprint."
       ]
     }, {
-      "summary": "Establishes comprehensive systems for real-time emissions tracking and reporting that influence global standards and drive significant environmental improvements.",
-      "signals": [
-        "Creates a scalable framework for emissions monitoring that is adopted by peers and across industries",
-        "Engages with regulatory bodies to influence policy-making based on real-time emissions data",
-        "Mentors organizations in developing and implementing effective emissions tracking systems"
+      summary: "Leading development and innovation in real-time emissions tracking.",
+      signals: [
+        "Pioneering the use of cutting-edge technologies for detailed emissions monitoring.",
+        "Influencing broader industry adoption of real-time emissions tracking through advocacy and knowledge sharing."
       ],
-      "examples": [
-        "Developed an open-source platform for real-time emissions monitoring, widely adopted across sectors",
-        "Played a pivotal role in establishing a new global standard for emissions reporting in the tech industry",
-        "Launched a consultancy service to help other companies implement and benefit from real-time emissions tracking"
+      examples: [
+        "Development of a blockchain-based system for transparent and verifiable emissions tracking.",
+        "Hosting seminars on the benefits and techniques of real-time emissions monitoring for sustainability."
       ]
     }, {
-      "summary": "Achieves global leadership in the field of real-time emissions monitoring, driving technological innovation and policy changes that significantly reduce the environmental impact of business operations.",
-      "signals": [
-        "Leads international collaborations to innovate and implement cutting-edge emissions tracking technologies",
-        "Influences significant policy shifts and sustainability standards globally based on real-time emissions insights",
-        "Directs groundbreaking research into new methods for reducing emissions through immediate data-driven action"
+      summary: "Global leadership in promoting and implementing real-time emissions tracking.",
+      signals: [
+        "Establishing standards for emissions monitoring that drive industry-wide improvements.",
+        "Leading global initiatives that significantly enhance the use of real-time data for reducing environmental impact."
       ],
-      "examples": [
-        "Spearheaded a global initiative to use AI and IoT for dynamic emissions tracking and reduction",
-        "Influenced the UN's adoption of real-time emissions monitoring in their sustainability reporting guidelines",
-        "Conducted a landmark study demonstrating the effectiveness of real-time data in achieving carbon neutrality",
+      examples: [
+        "Playing a pivotal role in forming an international agreement on real-time emissions monitoring standards.",
+        "Organizing a global conference focused on innovative technologies for sustainability in emissions tracking."
       ],
     }],
   },
