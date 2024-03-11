@@ -490,64 +490,54 @@ export const tracks: Tracks = {
     "category": "B",
     "description": "Advocates for the selection and use of programming languages and frameworks that optimize for energy efficiency, thereby reducing the carbon footprint of software.",
     "milestones": [{
-      "summary": "Begins to evaluate and select programming languages based on their energy efficiency for new projects.",
+      "summary": "Awareness of the energy impact of programming languages.",
       "signals": [
-        "Researches and compares the energy efficiency of programming languages",
-        "Advocates for the use of energy-efficient languages in project planning",
-        "Implements small projects or components in energy-efficient languages to assess impact"
+        "Beginning to explore the energy efficiency of different programming languages.",
+        "Understanding the importance of language selection in sustainable software development."
       ],
       "examples": [
-        "Conducted a comparative study on the energy consumption of Python vs. Rust for data processing tasks",
-        "Advocated for the adoption of Go for a new microservices project due to its efficiency",
-        "Rewrote a high-load component in Rust to reduce server energy consumption"
+        "Comparative study of programming languages for energy consumption.",
+        "Initial discussions on energy-efficient programming practices."
       ]
     }, {
-      "summary": "Leads the development of projects utilizing energy-efficient programming languages, demonstrating significant reductions in carbon emissions.",
+      "summary": "Initial adoption of energy-efficient languages in projects.",
       "signals": [
-        "Designs and architects systems that are optimized for energy efficiency from the ground up",
-        "Shares best practices and findings on energy-efficient programming with the wider team",
-        "Contributes to or initiates open-source projects focusing on energy efficiency"
+        "Making conscious choices of programming languages based on their energy efficiency for new developments.",
+        "Advocating for and implementing parts of projects in more energy-efficient languages."
       ],
       "examples": [
-        "Led a project that utilized Elixir for its low-energy footprint, achieving a 30% reduction in energy use",
-        "Presented a case study on the benefits of energy-efficient programming at a tech conference",
-        "Contributed energy efficiency improvements to an open-source project"
+        "Selecting Go for its efficiency in a new backend project.",
+        "Experimenting with Rust to optimize performance and energy use in compute-intensive tasks."
       ]
     }, {
-      "summary": "Pioneers innovative approaches to energy-efficient programming, setting new industry standards for sustainable software development.",
+      "summary": "Strategic implementation of energy-efficient programming languages.",
       "signals": [
-        "Innovates in the application of programming languages for maximum energy efficiency",
-        "Influences the selection of programming languages based on sustainability criteria in significant projects",
-        "Engages with the academic community to research and promote energy-efficient programming practices"
+        "Systematic use of energy-efficient languages in projects demonstrating significant energy savings.",
+        "Sharing knowledge and promoting the use of efficient languages within the organization."
       ],
       "examples": [
-        "Developed a novel framework in Swift focused on reducing energy consumption for mobile apps",
-        "Influenced a major open-source project to adopt Kotlin for Android development due to its efficiency",
-        "Collaborated with a university on a research project investigating the energy efficiency of various programming paradigms"
+        "Major refactoring of a service to a more efficient language resulting in lower energy consumption.",
+        "Leading a workshop on the benefits of energy-efficient programming languages."
       ]
     }, {
-      "summary": "Establishes comprehensive guidelines and frameworks that advocate for the global adoption of energy-efficient programming languages.",
+      "summary": "Innovation and advocacy for energy-efficient programming practices.",
       "signals": [
-        "Creates scalable guidelines for selecting and using energy-efficient programming languages",
-        "Mentors and educates developers and organizations on the benefits of energy-efficient programming",
-        "Leads cross-industry initiatives to promote the adoption of sustainable programming practices"
+        "Pioneering the development of frameworks or tools that facilitate energy-efficient coding.",
+        "Influencing the broader tech community towards adopting sustainable programming languages."
       ],
       "examples": [
-        "Authored a widely adopted guide on energy-efficient programming languages and frameworks",
-        "Launched an educational series on sustainable software development, highlighting programming choices",
-        "Spearheaded a tech industry coalition focused on reducing carbon emissions through efficient programming"
+        "Creating a widely used library that aids in developing energy-efficient software.",
+        "Speaking at conferences about the importance of programming language choice on energy consumption."
       ]
     }, {
-      "summary": "Becomes a global thought leader in energy-efficient programming, influencing educational, policy, and technological advancements towards sustainable software development.",
+      "summary": "Global leadership in promoting energy-efficient programming.",
       "signals": [
-        "Sets visionary goals for the tech industry's adoption of energy-efficient programming languages",
-        "Leads groundbreaking research that redefines software development practices for sustainability",
-        "Influences policy and educational standards on a global scale to prioritize energy efficiency in programming"
+        "Establishing guidelines and best practices for energy-efficient programming that are adopted internationally.",
+        "Leading global initiatives that advocate for the prioritization of energy efficiency in software development."
       ],
       "examples": [
-        "Keynote speaker at global conferences on sustainability in tech, advocating for energy-efficient programming",
-        "Led a landmark study on the carbon footprint of programming languages, influencing curriculum development worldwide",
-        "Played a key role in establishing international standards for energy-efficient software development practices",
+        "Playing a key role in forming a global consortium for sustainable software practices.",
+        "Authoring influential research on the impact of programming language efficiency on software’s carbon footprint."
       ],
     }],
   },
