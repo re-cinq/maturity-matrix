@@ -889,64 +889,54 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the development and implementation of policy frameworks within an organization to support sustainable practices, ensuring they align with environmental goals and compliance requirements.",
     "milestones": [{
-      "summary": "Assesses the current state of policy frameworks in supporting sustainability goals and identifies areas for improvement.",
-      "signals": [
-        "Reviews existing policies for sustainability alignment",
-        "Identifies gaps in policies that could better support environmental objectives",
-        "Recommends foundational policies to start aligning operations with sustainability goals"
+      summary: "Initial recognition of the need for sustainability-focused policies.",
+      signals: [
+        "Beginning to understand the impact of organizational policies on sustainability.",
+        "Identifying gaps where sustainability could be integrated into existing policies."
       ],
-      "examples": [
-        "Conducted a review of the company’s procurement policies to identify lack of environmental considerations",
-        "Outlined a plan for integrating sustainability criteria into existing operational policies",
-        "Suggested the introduction of a remote work policy to reduce commuting-related carbon emissions"
+      examples: [
+        "Review of current policies to identify lack of sustainability considerations.",
+        "Initial discussions on the integration of sustainability into company policies."
       ]
     }, {
-      "summary": "Develops and implements comprehensive policy frameworks that explicitly support and drive sustainability initiatives across the organization.",
-      "signals": [
-        "Drafts and integrates sustainability-focused policies into corporate governance",
-        "Establishes accountability structures for sustainability policy adherence",
-        "Monitors the impact of policy changes on sustainability outcomes"
+      summary: "Development and implementation of basic sustainability policies.",
+      signals: [
+        "Crafting initial policies that incorporate sustainability principles.",
+        "Starting to embed sustainability considerations into business operations."
       ],
-      "examples": [
-        "Implemented a green IT policy mandating the use of energy-efficient devices and practices",
-        "Established a sustainability committee responsible for overseeing policy compliance",
-        "Reported on the environmental and operational benefits realized from new sustainability policies"
+      examples: [
+        "Introduction of a recycling policy in the workplace.",
+        "Adoption of a green procurement policy for office supplies."
       ]
     }, {
-      "summary": "Leads the advancement of innovative policy frameworks that set new standards for sustainability in the industry.",
-      "signals": [
-        "Pioneers policy innovations that significantly reduce environmental impact",
-        "Shares successful policy frameworks with the wider industry to encourage adoption",
-        "Assesses the long-term impact of sustainability policies on business and environmental performance"
+      summary: "Enhancing and expanding sustainability policies organization-wide.",
+      signals: [
+        "Refining and implementing comprehensive sustainability policies across departments.",
+        "Establishing accountability and monitoring mechanisms for policy adherence."
       ],
-      "examples": [
-        "Developed a zero-waste policy for all company operations, significantly reducing landfill contributions",
-        "Published a case study on the company’s successful sustainable procurement policy",
-        "Organized a conference panel to discuss policy-driven sustainability transformations in businesses"
+      examples: [
+        "Company-wide sustainability training programs.",
+        "Implementation of a carbon footprint reduction target and reporting."
       ]
     }, {
-      "summary": "Establishes a strategic vision for policy-driven sustainability, influencing industry-wide adoption and promoting global environmental standards.",
-      "signals": [
-        "Creates scalable and replicable policy frameworks that become industry benchmarks",
-        "Works with external bodies to advocate for and develop global sustainability standards",
-        "Mentors other organizations in developing and executing effective sustainability policies"
+      summary: "Leading in the creation of innovative and influential sustainability policies.",
+      signals: [
+        "Pioneering advanced sustainability policies that set new industry standards.",
+        "Promoting and sharing successful policy frameworks with the wider industry."
       ],
-      "examples": [
-        "Played a key role in forming an industry coalition to standardize sustainability policies",
-        "Consulted for international organizations on incorporating sustainability into policy frameworks",
-        "Led a task force that published a widely adopted guide on sustainability policies for businesses"
+      examples: [
+        "Development of a sustainability policy that becomes a benchmark for the industry.",
+        "Organizing a conference to share best practices in sustainability policy development."
       ]
     }, {
-      "summary": "Achieves global recognition as a leader in sustainability policy development, driving significant changes in corporate practices and regulatory standards.",
-      "signals": [
-        "Champions global initiatives aimed at establishing sustainable policies in businesses",
-        "Influences significant policy and regulatory changes at the governmental level",
-        "Leads cutting-edge research into policy impacts on sustainability, setting new directions for global practices"
+      summary: "Global leadership in sustainability policy development and advocacy.",
+      signals: [
+        "Influencing global sustainability standards through policy development.",
+        "Mentoring other organizations in the adoption and implementation of sustainability policies."
       ],
-      "examples": [
-        "Keynoted at a UN conference on the role of corporate policy in achieving sustainability targets",
-        "Contributed to the development of international guidelines for corporate sustainability practices",
-        "Directed a global research project on the effectiveness of policy measures in reducing corporate carbon footprints",
+      examples: [
+        "Contributing to international guidelines on corporate sustainability practices.",
+        "Leading a global initiative to promote sustainability policy adoption across industries."
       ],
     }],
   },
