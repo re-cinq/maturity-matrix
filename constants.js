@@ -87,66 +87,57 @@ export const tracks: Tracks = {
   "GREEN_STRATEGY": {
     "displayName": "Green Strategy",
     "category": "A",
-    "description": "Develops expertise in sustainable software engineering and GreenOps, integrating eco-friendly practices across IT operations.",
+    "description": "Fostering sustainable practices and GreenOps within all technological initiatives.",
     "milestones": [{
-      "summary": "Adopts fundamental sustainable and GreenOps practices within projects, following eco-friendly guidelines.",
+      "summary": "Recognition and initial adoption of sustainable guidelines.",
       "signals": [
-        "Incorporates basic sustainability principles in software design",
-        "Applies energy-efficient coding practices for minimal environmental impact",
-        "Utilizes existing green components and frameworks effectively"
+        "Initial recognition of sustainability as a value in tech projects.",
+        "Exploration of basic resources on sustainable software engineering."
       ],
       "examples": [
-        "Optimized code for reduced energy consumption in a web app",
-        "Integrated an existing low-power library for data processing",
-        "Implemented automated carbon footprint tracking for project deployments"
+        "Attendance at a webinar on green computing.",
+        "Reading articles on the impact of IT operations on the environment."
       ]
     }, {
-      "summary": "Enhances projects with advanced sustainable design and operational efficiency, contributing to broader green initiatives.",
+      "summary": "Recognition and initial adoption of sustainable guidelines.",
       "signals": [
-        "Designs solutions with a focus on reducing electronic waste",
-        "Develops features that significantly lower server resource demands",
-        "Advises on eco-friendly alternatives for project requirements"
+        "Basic understanding of sustainability in software projects.",
+        "Initial efforts to apply eco-friendly practices in development.",
+        "Adoption of energy-efficient coding practices."
       ],
       "examples": [
-        "Redesigned a feature to extend hardware lifespan",
-        "Created a more efficient data caching strategy to reduce server load",
-        "Conducted a workshop on sustainable software practices for the team"
+        "Optimization for reduced power consumption in applications.",
+        "Integration of eco-friendly libraries."
       ]
     }, {
-      "summary": "Leads in the innovation and implementation of green architecture, setting standards for sustainability.",
+      "summary": "Leadership in sustainable architecture and practices.",
       "signals": [
-        "Pioneers new methodologies in GreenOps and sustainable engineering",
-        "Influences the adoption of green practices across multiple projects",
-        "Balances performance, cost, and environmental impact at scale"
+        "Innovation in GreenOps methodologies.",
+        "Significant contributions to the adoption of green practices across projects."
       ],
       "examples": [
-        "Developed a novel algorithm reducing energy use in high-traffic systems",
-        "Led the transition to a green cloud hosting provider",
-        "Authored company-wide guidelines for sustainable software development"
+        "Development of energy-efficient algorithms.",
+        "Transition to green cloud hosting providers."
       ]
     }, {
-      "summary": "Establishes frameworks for sustainability that influence the industry, advocating for eco-conscious tech development.",
+      "summary": "Influential frameworks for sustainability that set industry standards.",
       "signals": [
-        "Creates scalable, sustainable systems that serve as benchmarks",
-        "Mentors others in advanced GreenOps strategies",
-        "Drives significant reductions in carbon footprint and IT costs"
+        "Creation of scalable, eco-conscious systems as benchmarks.",
+        "Mentorship in advanced GreenOps strategies."
       ],
       "examples": [
-        "Designed a zero-emission data center strategy",
-        "Spearheaded a cross-industry forum on sustainable computing",
-        "Implemented a company-wide, green software framework adopted by peers"
-      ]
+        "Design of a zero-emission data center strategy.",
+        "Leadership in cross-industry forums on sustainable computing."
+      ]  
     }, {
-      "summary": "Becomes a global thought leader in sustainable software engineering, shaping the future of green technology.",
+      "summary": "Global leadership in shaping the future of green technology.",
       "signals": [
-        "Sets visionary sustainability goals and mobilizes the industry towards them",
-        "Innovates with groundbreaking eco-friendly technologies",
-        "Champions global initiatives for sustainable computing"
+        "Visionary sustainability goals that mobilize the industry.",
+        "Innovation with groundbreaking eco-friendly technologies."
       ],
       "examples": [
-        "Keynote speaker at a leading conference on sustainability in tech",
-        "Developed a widely adopted open-source tool for carbon footprint analysis",
-        "Led a successful international campaign for reducing software-induced emissions"
+        "Keynote speeches at sustainability conferences.",
+        "Development of open-source tools for carbon footprint analysis."
       ],
     }],
   },
@@ -156,62 +147,54 @@ export const tracks: Tracks = {
     "category": "A",
     "description": "Develops and refines eco-friendly operational processes within software development lifecycle.",
     "milestones": [{
-      "summary": "Integrates basic green processes into the software development lifecycle, promoting initial sustainability efforts.",
+      "summary": "Initial understanding and integration of green processes.",
       "signals": [
-        "Incorporates eco-friendly requirements in project planning stages",
-        "Adopts green coding standards",
-        "Utilizes tools for tracking energy consumption in development and testing environments"
+        "Awareness of the need for sustainability in development processes.",
+        "Beginning to explore green coding standards and tools."
       ],
       "examples": [
-        "Implemented a linter for eco-friendly coding practices",
-        "Adopted a low-energy consumption testing protocol",
-        "Included sustainability checkpoints in the software release checklist"
+        "Introduction of basic eco-friendly guidelines for projects.",
+        "Initial discussions on incorporating sustainability into the development lifecycle."
       ]
     }, {
-      "summary": "Optimizes existing processes for enhanced sustainability, contributing to reduced carbon footprint and operational costs.",
+      "summary": "Integration of basic green processes into development.",
       "signals": [
-        "Revamps development pipelines to include automated sustainability checks",
-        "Leads green refactoring efforts for existing codebases",
-        "Institutes a policy for regular energy consumption audits"
+        "Adoption of tools for tracking energy consumption in development and testing.",
+        "Implementation of eco-friendly requirements in project planning."
       ],
       "examples": [
-        "Integrated automated carbon footprint analysis in CI/CD pipelines",
-        "Reduced server usage by optimizing continuous integration pipelines",
-        "Established a quarterly review process for assessing the environmental impact of projects"
+        "Use of a linter for sustainable coding practices.",
+        "Inclusion of sustainability checkpoints in release checklists."
       ]
     }, {
-      "summary": "Champions innovative, sustainable process frameworks, establishing new industry standards for eco-friendly development.",
+      "summary": "Optimization of processes for enhanced sustainability.",
       "signals": [
-        "Develops cutting-edge methodologies for sustainable software lifecycle management",
-        "Influences broader adoption of green processes across projects and teams",
-        "Balances high-performance demands with environmental sustainability requirements"
+        "Revamping development pipelines for sustainability checks.",
+        "Leading green refactoring efforts for efficiency."
       ],
       "examples": [
-        "Created a zero-waste deployment strategy adopted company-wide",
-        "Pioneered a new, energy-efficient testing framework",
-        "Hosted workshops on sustainable development practices for external developers"
-      ],
+        "Integration of carbon footprint analysis into CI/CD pipelines.",
+        "Establishment of regular energy consumption audits."
+      ]
     }, {
-      "summary": "Leads the digital transformation towards green practices, optimizing every phase of the software development lifecycle for sustainability.",
+      "summary": "Championing sustainable process innovations.",
       "signals": [
-        "Integrates sustainable development goals (SDGs) into project management frameworks",
-        "Automates sustainability reporting within development cycles",
-        "Innovates process improvements that significantly lower the environmental impact"
+        "Development of cutting-edge methodologies for green software lifecycle management.",
+        "Influencing adoption of green processes across projects."
       ],
       "examples": [
-        "Implemented a DevOps pipeline that automatically calculates and reports on the carbon footprint of each deployment",
-        "Developed a sustainability dashboard for real-time tracking of software projects' environmental impact",
+        "Creation of a zero-waste deployment strategy.",
+        "Pioneering new, energy-efficient testing frameworks."
       ]
     },{
-      "summary": "Pioneers revolutionary process methodologies that become industry benchmarks for sustainable software development.",
+      "summary": "Leadership in sustainable development practices.",
       "signals": [
-        "Establishes global collaborations to define sustainable process standards",
-        "Leads industry-wide initiatives to adopt green software development practices",
-        "Advocates for regulatory changes that promote sustainability in technology"
+        "Setting new industry standards for eco-friendly development processes.",
+        "Mentoring others in sustainable software lifecycle management."
       ],
       "examples": [
-        "Founded an international consortium for sustainable software practices.",
-        "Organized a global conference on green technology processes, setting the stage for widespread industry transformation",
+        "Formulating comprehensive guidelines for green software engineering.",
+        "Leading cross-industry collaborations to promote software optimization."
       ]
     }],
   },
@@ -221,64 +204,54 @@ export const tracks: Tracks = {
     "category": "A",
     "description": "Embeds a culture of responsibility and accountability for sustainability within organizations, ensuring commitments lead to tangible outcomes.",
     "milestones": [{
-      "summary": "Embeds initial sustainability commitments into project goals, ensuring a foundation for eco-friendly practices.",
+      "summary": "Awareness of the need for sustainability commitments.",
       "signals": [
-        "Identifies and sets specific sustainability targets for projects",
-        "Begins integrating sustainable considerations into project planning",
-        "Commits to regular review and reporting on sustainability progress"
+        "Beginning to understand the importance of sustainability in organizational practices.",
+        "Initial discussions on setting sustainability targets."
       ],
       "examples": [
-        "Defined energy efficiency goals for a new software development project",
-        "Incorporated environmental impact assessment in the project lifecycle",
-        "Established a baseline for carbon footprint for current IT infrastructure"
+        "Informal team discussions on the impact of IT operations on the environment.",
+        "Review of industry standards for sustainability commitments."
       ]
     }, {
-      "summary": "Elevates commitment by driving projects to not just meet, but exceed sustainability goals, embedding deeper green practices.",
+      "summary": "Setting foundational sustainability commitments.",
       "signals": [
-        "Leads projects with sustainability as a core objective, beyond mere compliance",
-        "Implements innovative solutions to achieve greater sustainability outcomes",
-        "Engages stakeholders across the organization to align on and support sustainability efforts"
+        "Identifying specific sustainability targets for projects.",
+        "Starting to integrate sustainability considerations into project planning."
       ],
       "examples": [
-        "Exceeded initial carbon reduction targets through innovative cloud optimization strategies",
-        "Deployed a company-wide sustainability challenge, resulting in significant energy savings",
-        "Initiated a partnership with suppliers to reduce the environmental impact of hardware procurement"
+        "Establishing a baseline for the carbon footprint of IT infrastructure.",
+        "Defining energy efficiency goals for new software projects."
       ]
     }, {
-      "summary": "Champions transformative sustainability initiatives, setting new standards within the industry for environmental responsibility.",
+      "summary": "Deepening commitment with actionable sustainability goals.",
       "signals": [
-        "Pioneers adoption of groundbreaking green technologies and practices",
-        "Influences organizational strategy to prioritize long-term sustainability",
-        "Cultivates a network of sustainability champions within and outside the organization"
+        "Projects led with sustainability as a core objective.",
+        "Implementation of solutions to achieve and surpass sustainability targets."
       ],
       "examples": [
-        "Led the development and implementation of a proprietary green algorithm, drastically reducing computational energy use",
-        "Formulated and executed a strategic shift to renewable energy sources for all company data centers",
-        "Founded an industry-wide consortium focused on sustainable software practices"
+        "Exceeding carbon reduction targets through cloud optimization.",
+        "Initiating a company-wide challenge to foster sustainable habits."
       ]
     }, {
-      "summary": "Establishes and fulfills ambitious, industry-leading sustainability commitments, driving significant impact on global environmental goals.",
+      "summary": "Championing transformative sustainability initiatives.",
       "signals": [
-        "Sets visionary sustainability targets that inspire action within and beyond the organization",
-        "Leads by example in achieving breakthrough results in sustainability",
-        "Leverages influence to advocate for policy changes and standards that promote sustainability in technology"
+        "Pioneering adoption of groundbreaking green technologies.",
+        "Influencing organizational strategy to prioritize sustainability."
       ],
       "examples": [
-        "Spearheaded a successful initiative to make the company’s operations carbon negative",
-        "Published a breakthrough study on the impact of sustainable software practices on reducing global carbon emissions",
-        "Played a key role in establishing a new international standard for environmental sustainability in software development"
+        "Strategic shift to renewable energy sources for company data centers.",
+        "Development and implementation of proprietary green technologies."
       ]
     }, {
-      "summary": "Becomes a global thought leader in organizational sustainability, shaping the future of corporate responsibility towards the environment.",
+      "summary": "Global leadership in sustainability commitments.",
       "signals": [
-        "Drives innovative sustainability research and practices that set global benchmarks",
-        "Mobilizes a global movement towards integrating sustainability deeply into business models",
-        "Influences global policy and strategy on sustainability, setting new norms for corporate environmental stewardship"
+        "Setting visionary sustainability targets that inspire industry-wide action.",
+        "Leveraging influence to advocate for policy changes that promote sustainability."
       ],
       "examples": [
-        "Delivered a keynote at the UN Climate Action Summit, highlighting the role of corporate commitments in achieving sustainability targets",
-        "Led a global corporate coalition to commit to net-zero emissions, influencing policy changes in several countries",
-        "Developed and shared an open-source platform for tracking and reporting on sustainability metrics, widely adopted across industries"
+        "Spearheading successful initiatives to achieve corporate carbon neutrality.",
+        "Playing a key role in establishing international standards for sustainable software practices."
       ]
     }],
   },
@@ -288,64 +261,54 @@ export const tracks: Tracks = {
     "category": "A",
     "description": "Cultivates and spreads awareness on the importance of sustainability in software engineering, fostering a culture of responsibility and innovation.",
     "milestones": [{
-      "summary": "Raises basic awareness of sustainability challenges and opportunities within the team or organization.",
+      "summary": "Initial recognition of sustainability in tech.",
       "signals": [
-        "Shares information and resources on sustainable practices",
-        "Initiates discussions on the environmental impact of software projects",
-        "Encourages team members to consider sustainability in their work"
+        "Basic understanding of the environmental impact of technology.",
+        "Starting conversations about sustainability in technology within immediate circles."
       ],
       "examples": [
-        "Organized a team meeting to discuss the company's sustainability goals",
-        "Shared articles and case studies on green computing in the team's communication channel",
-        "Introduced a 'green tip of the week' in team standups to promote sustainable habits"
+        "Sharing articles on green computing with peers.",
+        "Engaging in discussions about the importance of eco-friendly practices in software development."
       ]
     }, {
-      "summary": "Elevates awareness by embedding sustainability into team or organizational culture, leading by example and initiating projects with a sustainability focus.",
+      "summary": "Promoting basic sustainability concepts within teams or organizations.",
       "signals": [
-        "Leads sustainability-focused projects or initiatives",
-        "Mentors colleagues on integrating sustainable practices into their work",
-        "Organizes workshops or talks on sustainability topics"
+        "Introducing sustainability topics in team meetings or discussions.",
+        "Encouraging colleagues to consider environmental impacts in their projects."
       ],
       "examples": [
-        "Launched a green coding initiative within the development team",
-        "Mentored a junior developer on creating energy-efficient algorithms",
-        "Hosted a guest speaker session on sustainability in the tech industry"
+        "Organizing a lunch-and-learn session on sustainability in IT.",
+        "Incorporating green tips in internal newsletters."
       ]
     }, {
-      "summary": "Champions broader awareness efforts, influencing the industry and community by advocating for sustainable software engineering practices.",
+      "summary": "Embedding sustainability into organizational culture.",
       "signals": [
-        "Speaks at conferences and events on the importance of sustainability in software development",
-        "Contributes to or initiates open-source projects with a focus on sustainability",
-        "Engages with external organizations to promote sustainability in the tech community"
+        "Leading projects or initiatives with a focus on sustainability.",
+        "Mentoring peers on sustainable development practices."
       ],
       "examples": [
-        "Presented on sustainable development practices at a major tech conference",
-        "Led an open-source project focused on reducing software energy consumption",
-        "Partnered with a non-profit to run a coding bootcamp for developing green apps"
+        "Launching a green coding challenge within the company.",
+        "Facilitating workshops on energy-efficient programming."
       ]
     }, {
-      "summary": "Establishes and leads major awareness campaigns or educational programs, setting new standards for sustainability education in the tech sector.",
+      "summary": "Influencing the broader industry towards sustainable practices.",
       "signals": [
-        "Creates comprehensive resources or curricula on sustainable software engineering",
-        "Influences policy or curriculum changes at educational institutions",
-        "Receives recognition for contributions to sustainability awareness in the tech industry"
+        "Speaking at industry events about sustainability in software development.",
+        "Contributing to open-source projects focused on green technologies."
       ],
       "examples": [
-        "Developed an online course on sustainable software practices adopted by multiple universities",
-        "Advised a government body on integrating sustainability into IT education standards",
-        "Awarded for outstanding contribution to raising sustainability awareness in the tech community"
+        "Publishing a case study on a successful sustainability initiative.",
+        "Organizing a regional conference on sustainable computing."
       ]
     }, {
-      "summary": "Becomes a global leader in sustainability awareness, driving significant shifts in how the tech industry and society at large perceive and implement sustainable practices.",
+      "summary": "Global leadership in promoting sustainability awareness.",
       "signals": [
-        "Innovates in sustainability communication, reaching a wide and diverse audience",
-        "Leads global initiatives that significantly increase engagement with sustainable tech practices",
-        "Shapes public and industry opinion on the importance of sustainability in technology"
+        "Leading global campaigns or educational programs on tech sustainability.",
+        "Shaping industry standards and policies on sustainability."
       ],
       "examples": [
-        "Organized a global sustainability in tech summit, bringing together leaders from across industries",
-        "Published a landmark book on the role of technology in achieving a sustainable future",
-        "Led a successful campaign advocating for global standards in sustainable software development"
+        "Developing a widely adopted curriculum on sustainable software engineering.",
+        "Keynote speaking at international forums on the role of technology in achieving sustainability goals."
       ],
     }],
   },  
@@ -355,64 +318,54 @@ export const tracks: Tracks = {
     "category": "B",
     "description": "Enhances software for maximum energy efficiency and minimal environmental impact, utilizing cutting-edge sustainable software engineering practices.",
     "milestones": [{
-      "summary": "Identifies and applies initial optimizations in software design and development for improved energy efficiency.",
+      "summary": "Awareness and initial exploration of software optimization for sustainability.",
       "signals": [
-        "Reviews and optimizes existing code for energy efficiency",
-        "Implements best practices for reducing the environmental impact of software",
-        "Leverages tools to analyze and reduce software carbon footprint"
+        "Understanding the basics of energy-efficient software development.",
+        "Beginning to explore tools and techniques for reducing software’s environmental impact."
       ],
       "examples": [
-        "Refactored a resource-intensive module to reduce its energy consumption",
-        "Adopted a more efficient algorithm that decreased server load times",
-        "Utilized a code analysis tool to identify and remedy energy-inefficient patterns"
+        "Researching best practices for energy-efficient coding.",
+        "Analyzing current software projects for optimization opportunities."
       ]
     }, {
-      "summary": "Drives significant software optimization projects, leading to substantial reductions in energy use and carbon emissions.",
+      "summary": "Applying basic optimizations to improve software energy efficiency.",
       "signals": [
-        "Designs and architects low-energy software solutions from the ground up",
-        "Innovates with new technologies and practices for sustainability",
-        "Advocates for and implements green coding standards across projects"
+        "Adopting straightforward practices for reducing power consumption.",
+        "Starting to use tools for analyzing and improving software’s carbon footprint."
       ],
       "examples": [
-        "Architected a new feature leveraging serverless technology to minimize energy use",
-        "Introduced a novel compression technique reducing data transfer energy costs",
-        "Led a team initiative to rewrite high-traffic services for greater efficiency"
+        "Refactoring code to improve efficiency and reduce energy use.",
+        "Integrating an energy efficiency analysis tool into the development process."
       ]
     }, {
-      "summary": "Pioneers breakthrough optimizations and technologies, setting new industry standards for software sustainability.",
+      "summary": "Significant software optimization projects demonstrating reductions in energy use.",
       "signals": [
-        "Develops or contributes to open-source projects focused on energy efficiency",
-        "Collaborates with academic and research institutions on sustainable software solutions",
-        "Speaks at conferences, sharing knowledge on advanced optimization strategies"
+        "Implementing advanced techniques and technologies for energy efficiency.",
+        "Advocating for and adopting green coding standards across projects."
       ],
       "examples": [
-        "Created an open-source library popularly used for developing energy-efficient applications",
-        "Partnered with a university to research into AI-driven optimizations for reducing software energy consumption",
-        "Presented a paper on sustainable software practices at a leading technology conference"
+        "Architecting software solutions that leverage energy-efficient design patterns.",
+        "Contributing to or initiating projects focused on reducing software energy consumption."
       ]
     }, {
-      "summary": "Establishes comprehensive optimization frameworks that are widely adopted, significantly advancing the field of sustainable software engineering.",
+      "summary": "Leading innovation in sustainable software practices.",
       "signals": [
-        "Leads the development of industry-wide guidelines for energy-efficient software",
-        "Mentors and trains other engineers in sustainable software development practices",
-        "Drives cross-industry collaborations to promote software optimization"
+        "Developing new methodologies or tools for software sustainability.",
+        "Influencing the broader software development community towards energy efficiency."
       ],
       "examples": [
-        "Formulated and disseminated a widely accepted set of practices for green software engineering",
-        "Organized a series of workshops for engineers on eco-friendly coding practices",
-        "Initiated a coalition of tech companies focused on reducing the software industry’s carbon footprint"
+        "Creating a widely used open-source tool for energy-efficient software development.",
+        "Publishing research or case studies on successful software optimization efforts."
       ]
     }, {
-      "summary": "Becomes a global leader in software optimization for sustainability, influencing policy, education, and industry practices.",
+      "summary": "Global authority on software optimization for sustainability.",
       "signals": [
-        "Sets visionary goals for software sustainability and leads global efforts to achieve them",
-        "Innovates with sustainable technologies that transform software development",
-        "Champions global initiatives that set new benchmarks for environmental stewardship in software"
+        "Setting global standards for energy-efficient software development.",
+        "Leading international efforts to promote sustainable software practices."
       ],
       "examples": [
-        "Led the formulation of international standards for software energy efficiency",
-        "Developed a groundbreaking sustainable computing platform adopted by governments and corporations",
-        "Keynote speaker at global summits, advocating for urgent action on software sustainability"
+        "Spearheading the development of international guidelines for software energy efficiency.",
+        "Organizing global summits on sustainable software engineering, drawing participants from across the industry."
       ],
     }],
   },
@@ -422,64 +375,54 @@ export const tracks: Tracks = {
     "category": "B",
     "description": "Emphasizes the adoption and advocacy of sustainable design principles in software development to achieve eco-efficiency and innovation.",
     "milestones": [{
-      "summary": "Integrates basic sustainable design principles into projects, prioritizing eco-efficiency from the initial stages.",
+      "summary": "Initial awareness of sustainable design in software development.",
       "signals": [
-        "Adopts guidelines for energy-efficient software design",
-        "Considers environmental impact in the choice of technologies and platforms",
-        "Incorporates user feedback to enhance sustainable usability"
+        "Exploring the impact of design decisions on software sustainability.",
+        "Beginning to understand the importance of eco-friendly design principles."
       ],
       "examples": [
-        "Chose a lightweight framework to reduce energy consumption for a new web app",
-        "Designed a feature with user-configurable settings to minimize data usage and prolong device battery life",
-        "Conducted usability testing to ensure eco-friendly features met user needs effectively"
+        "Researching articles and resources on sustainable design.",
+        "Discussing the potential for incorporating green design in current projects."
       ]
     }, {
-      "summary": "Advances the application of sustainable design principles, leading projects that exemplify eco-innovation.",
+      "summary": "Integration of basic sustainable design principles into projects.",
       "signals": [
-        "Leads design efforts that significantly lower software's environmental footprint",
-        "Innovates in the application of green UX/UI principles",
-        "Promotes the adoption of sustainable design practices across teams"
+        "Applying eco-friendly design guidelines to new and existing projects.",
+        "Considering the environmental impact in the choice of technologies and platforms."
       ],
       "examples": [
-        "Developed a user interface that encourages energy-saving modes of operation",
-        "Implemented a novel approach to data presentation that reduces screen time and energy use",
-        "Organized a company-wide green design challenge to foster innovation in sustainable design"
+        "Choosing lightweight frameworks to reduce energy consumption.",
+        "Designing features that encourage users to select energy-saving options."
       ]
     }, {
-      "summary": "Pioneers new sustainable design methodologies, setting industry benchmarks for eco-friendly software development.",
+      "summary": "Advancing the application of sustainable design principles.",
       "signals": [
-        "Develops cutting-edge sustainable design frameworks and tools",
-        "Influences industry standards through advocacy and thought leadership in green design",
-        "Mentors designers and developers in sustainable practices"
+        "Leading projects that exemplify best practices in eco-friendly design.",
+        "Promoting sustainable design practices within the team or organization."
       ],
       "examples": [
-        "Created a widely used open-source tool for assessing design sustainability",
-        "Authored influential articles on the future of eco-friendly software design",
-        "Led a workshop series at major design conferences on sustainability in digital products"
+        "Implementing advanced features with minimal environmental impact.",
+        "Hosting workshops or writing articles on sustainable design techniques."
       ]
     }, {
-      "summary": "Establishes comprehensive sustainable design paradigms that are adopted globally, significantly impacting software development for environmental good.",
+      "summary": "Pioneering new sustainable design methodologies.",
       "signals": [
-        "Champions the development of global standards for sustainable software design",
-        "Collaborates with international organizations to promote eco-friendly design education",
-        "Drives significant advancements in software design that reduce global carbon emissions"
+        "Developing innovative tools and frameworks that promote eco-friendly design.",
+        "Influencing the broader software design community towards sustainability."
       ],
       "examples": [
-        "Played a key role in creating an international certification for sustainable software design",
-        "Partnered with educational institutions to incorporate sustainable design principles into their curricula",
-        "Launched a global initiative that resulted in the adoption of green design practices by leading software companies"
+        "Creating a widely adopted toolkit for assessing software design sustainability.",
+        "Leading discussions at industry conferences on green design principles."
       ]
     }, {
-      "summary": "Becomes a world-renowned expert in sustainable design, shaping the direction of eco-friendly software development and influencing policy and standards.",
+      "summary": "Establishing global leadership in sustainable software design.",
       "signals": [
-        "Sets visionary sustainability goals for software design and mobilizes the global community to achieve them",
-        "Innovates with eco-friendly design technologies that set new industry standards",
-        "Leads global policy discussions on incorporating sustainability into software design practices"
+        "Setting industry benchmarks for eco-friendly software development.",
+        "Championing global initiatives that promote sustainable design practices."
       ],
       "examples": [
-        "Keynote speaker at global sustainability and design summits, presenting pioneering work in sustainable design",
-        "Developed a revolutionary design philosophy that greatly minimizes software’s environmental impact",
-        "Influenced the adoption of sustainable design standards by technology firms and governmental bodies worldwide"
+        "Developing international standards for sustainable software design.",
+        "Organizing global forums that foster innovation in eco-efficient design."
       ],
     }],
   }, 
@@ -489,64 +432,54 @@ export const tracks: Tracks = {
     "category": "B",
     "description": "Focuses on developing and promoting software that actively reduces its carbon footprint, leveraging data and technology to make informed decisions about energy use.",
     "milestones": [{
-      "summary": "Begins incorporating carbon-aware principles into software design and development, understanding the impact of computing on carbon emissions.",
+      "summary": "Beginning awareness of carbon footprint in software development.",
       "signals": [
-        "Identifies key areas where software can be optimized for lower carbon emissions",
-        "Starts to use carbon footprint calculators for software projects",
-        "Implements initial changes to reduce the carbon footprint of software applications"
+        "Exploring the basics of carbon-aware computing.",
+        "Understanding the impact of software design and development on carbon emissions."
       ],
       "examples": [
-        "Optimized an application's data processing to reduce server time and energy use",
-        "Incorporated a carbon calculator tool into the software development lifecycle",
-        "Adjusted application's sleep and wake cycles to minimize energy consumption"
+        "Researching tools and practices for measuring software carbon emissions.",
+        "Initial discussions on how software choices affect energy consumption and carbon footprint."
       ]
     }, {
-      "summary": "Advances in creating carbon-aware software solutions, significantly reducing the carbon footprint of projects and promoting sustainability standards.",
+      "summary": "Integrating carbon-aware practices into development processes.",
       "signals": [
-        "Designs software with carbon efficiency as a core requirement",
-        "Evaluates new projects for their potential environmental impact",
-        "Shares knowledge on carbon-aware practices within the organization"
+        "Adopting tools for carbon footprint calculation in software projects.",
+        "Making initial changes to software design and development to reduce carbon emissions."
       ],
       "examples": [
-        "Developed a feature that dynamically adjusts resource use based on renewable energy availability",
-        "Led a project review focused on identifying opportunities to reduce its carbon footprint",
-        "Conducted a seminar on carbon-aware software development for the department"
+        "Optimizing application's data processing to lower energy use.",
+        "Incorporating carbon-aware considerations in software design documentation."
       ]
     }, {
-      "summary": "Leads innovative projects in carbon-aware software, setting new benchmarks for sustainability in the industry.",
+      "summary": "Enhancing software solutions with carbon efficiency as a core goal.",
       "signals": [
-        "Pioneers the use of advanced technologies to minimize software’s environmental impact",
-        "Influences the adoption of carbon-aware practices across multiple teams and projects",
-        "Engages with external stakeholders to promote carbon-aware software development"
+        "Implementing significant software features or changes aimed at reducing carbon emissions.",
+        "Promoting and sharing knowledge on carbon-efficient software development within the organization."
       ],
       "examples": [
-        "Implemented a cloud-based solution that optimizes energy consumption across data centers",
-        "Initiated a cross-functional task force to integrate carbon awareness into all software projects",
-        "Collaborated with industry partners to develop a standard for measuring software carbon emissions"
+        "Developing a feature that minimizes resource use based on real-time carbon intensity data.",
+        "Leading a team or project with carbon-aware goals and measuring the impact."
       ]
     }, {
-      "summary": "Establishes frameworks and policies that advocate for carbon-aware software development on a global scale, driving industry-wide adoption.",
+      "summary": "Pioneering advanced carbon-aware software projects and methodologies.",
       "signals": [
-        "Creates scalable, carbon-aware software frameworks adopted by the industry",
-        "Mentors others in the field, spreading awareness and knowledge of carbon-efficient software practices",
-        "Drives significant reductions in the tech industry’s carbon emissions through leadership and innovation"
+        "Creating innovative solutions that significantly lower software’s carbon footprint.",
+        "Influencing broader adoption of carbon-aware practices through leadership and advocacy."
       ],
       "examples": [
-        "Developed a widely used framework for carbon-aware computing, reducing emissions for numerous applications",
-        "Organized a global conference on sustainable software practices, featuring carbon-aware development",
-        "Led a campaign for the inclusion of carbon awareness in software engineering curricula"
+        "Developing a widely used open-source tool for carbon-aware software development.",
+        "Publishing a case study on a project that achieved substantial carbon emission reductions."
       ]
     }, {
-      "summary": "Becomes a world-leading authority in carbon-aware software development, influencing policy, shaping educational standards, and pioneering technological breakthroughs.",
+      "summary": "Global leadership in carbon-aware software development.",
       "signals": [
-        "Sets global standards for carbon-aware software development",
-        "Leads groundbreaking research in carbon-efficient computing",
-        "Influences international policy on technology and sustainability"
+        "Setting global standards and leading major initiatives for carbon-aware computing.",
+        "Driving the technology industry towards more sustainable practices through innovation and advocacy."
       ],
       "examples": [
-        "Keynote speaker at a UN conference on technology and sustainability",
-        "Published influential research on reducing software-induced carbon emissions",
-        "Played a pivotal role in forming an international agreement on carbon-aware technology standards",
+        "Spearheading the development of international guidelines for carbon-aware software.",
+        "Leading a global consortium focused on reducing the carbon footprint of digital infrastructure."
       ],
     }],
   },
@@ -557,64 +490,54 @@ export const tracks: Tracks = {
     "category": "B",
     "description": "Advocates for the selection and use of programming languages and frameworks that optimize for energy efficiency, thereby reducing the carbon footprint of software.",
     "milestones": [{
-      "summary": "Begins to evaluate and select programming languages based on their energy efficiency for new projects.",
+      "summary": "Awareness of the energy impact of programming languages.",
       "signals": [
-        "Researches and compares the energy efficiency of programming languages",
-        "Advocates for the use of energy-efficient languages in project planning",
-        "Implements small projects or components in energy-efficient languages to assess impact"
+        "Beginning to explore the energy efficiency of different programming languages.",
+        "Understanding the importance of language selection in sustainable software development."
       ],
       "examples": [
-        "Conducted a comparative study on the energy consumption of Python vs. Rust for data processing tasks",
-        "Advocated for the adoption of Go for a new microservices project due to its efficiency",
-        "Rewrote a high-load component in Rust to reduce server energy consumption"
+        "Comparative study of programming languages for energy consumption.",
+        "Initial discussions on energy-efficient programming practices."
       ]
     }, {
-      "summary": "Leads the development of projects utilizing energy-efficient programming languages, demonstrating significant reductions in carbon emissions.",
+      "summary": "Initial adoption of energy-efficient languages in projects.",
       "signals": [
-        "Designs and architects systems that are optimized for energy efficiency from the ground up",
-        "Shares best practices and findings on energy-efficient programming with the wider team",
-        "Contributes to or initiates open-source projects focusing on energy efficiency"
+        "Making conscious choices of programming languages based on their energy efficiency for new developments.",
+        "Advocating for and implementing parts of projects in more energy-efficient languages."
       ],
       "examples": [
-        "Led a project that utilized Elixir for its low-energy footprint, achieving a 30% reduction in energy use",
-        "Presented a case study on the benefits of energy-efficient programming at a tech conference",
-        "Contributed energy efficiency improvements to an open-source project"
+        "Selecting Go for its efficiency in a new backend project.",
+        "Experimenting with Rust to optimize performance and energy use in compute-intensive tasks."
       ]
     }, {
-      "summary": "Pioneers innovative approaches to energy-efficient programming, setting new industry standards for sustainable software development.",
+      "summary": "Strategic implementation of energy-efficient programming languages.",
       "signals": [
-        "Innovates in the application of programming languages for maximum energy efficiency",
-        "Influences the selection of programming languages based on sustainability criteria in significant projects",
-        "Engages with the academic community to research and promote energy-efficient programming practices"
+        "Systematic use of energy-efficient languages in projects demonstrating significant energy savings.",
+        "Sharing knowledge and promoting the use of efficient languages within the organization."
       ],
       "examples": [
-        "Developed a novel framework in Swift focused on reducing energy consumption for mobile apps",
-        "Influenced a major open-source project to adopt Kotlin for Android development due to its efficiency",
-        "Collaborated with a university on a research project investigating the energy efficiency of various programming paradigms"
+        "Major refactoring of a service to a more efficient language resulting in lower energy consumption.",
+        "Leading a workshop on the benefits of energy-efficient programming languages."
       ]
     }, {
-      "summary": "Establishes comprehensive guidelines and frameworks that advocate for the global adoption of energy-efficient programming languages.",
+      "summary": "Innovation and advocacy for energy-efficient programming practices.",
       "signals": [
-        "Creates scalable guidelines for selecting and using energy-efficient programming languages",
-        "Mentors and educates developers and organizations on the benefits of energy-efficient programming",
-        "Leads cross-industry initiatives to promote the adoption of sustainable programming practices"
+        "Pioneering the development of frameworks or tools that facilitate energy-efficient coding.",
+        "Influencing the broader tech community towards adopting sustainable programming languages."
       ],
       "examples": [
-        "Authored a widely adopted guide on energy-efficient programming languages and frameworks",
-        "Launched an educational series on sustainable software development, highlighting programming choices",
-        "Spearheaded a tech industry coalition focused on reducing carbon emissions through efficient programming"
+        "Creating a widely used library that aids in developing energy-efficient software.",
+        "Speaking at conferences about the importance of programming language choice on energy consumption."
       ]
     }, {
-      "summary": "Becomes a global thought leader in energy-efficient programming, influencing educational, policy, and technological advancements towards sustainable software development.",
+      "summary": "Global leadership in promoting energy-efficient programming.",
       "signals": [
-        "Sets visionary goals for the tech industry's adoption of energy-efficient programming languages",
-        "Leads groundbreaking research that redefines software development practices for sustainability",
-        "Influences policy and educational standards on a global scale to prioritize energy efficiency in programming"
+        "Establishing guidelines and best practices for energy-efficient programming that are adopted internationally.",
+        "Leading global initiatives that advocate for the prioritization of energy efficiency in software development."
       ],
       "examples": [
-        "Keynote speaker at global conferences on sustainability in tech, advocating for energy-efficient programming",
-        "Led a landmark study on the carbon footprint of programming languages, influencing curriculum development worldwide",
-        "Played a key role in establishing international standards for energy-efficient software development practices",
+        "Playing a key role in forming a global consortium for sustainable software practices.",
+        "Authoring influential research on the impact of programming language efficiency on software’s carbon footprint."
       ],
     }],
   },
@@ -624,64 +547,54 @@ export const tracks: Tracks = {
     "category": "C",
     "description": "Evaluates a company's IT infrastructure to identify opportunities for energy efficiency and carbon footprint reduction, recommending strategies for optimization.",
     "milestones": [{
-      "summary": "Conducts initial assessment to identify quick wins and areas for improvement in IT infrastructure energy efficiency.",
+      "summary": "Initial awareness and assessment of IT infrastructure's energy use.",
       "signals": [
-        "Reviews current infrastructure setup and identifies inefficiencies",
-        "Measures baseline energy consumption and carbon emissions",
-        "Suggests immediate actions for reducing energy usage and emissions"
+        "Recognizing the importance of energy efficiency in IT infrastructure.",
+        "Starting to assess current infrastructure for inefficiencies."
       ],
       "examples": [
-        "Identified underutilized servers contributing to unnecessary energy consumption",
-        "Conducted an audit of data center cooling systems to find efficiency gaps",
-        "Recommended consolidation of services to fewer, more energy-efficient servers"
+        "Basic audit of server utilization and energy consumption.",
+        "Identification of underutilized resources that contribute to unnecessary energy use."
       ]
     }, {
-      "summary": "Develops and implements detailed plans for infrastructure optimization, leading to measurable improvements in energy efficiency and carbon reduction.",
+      "summary": "Implementing basic optimization strategies for energy efficiency.",
       "signals": [
-        "Designs a comprehensive strategy for infrastructure overhaul focused on sustainability",
-        "Leads the execution of optimization projects, ensuring targets are met",
-        "Tracks and reports on energy savings and emissions reduction post-implementation"
+        "Applying straightforward measures to reduce energy consumption.",
+        "Making initial improvements based on the assessments."
       ],
       "examples": [
-        "Implemented virtualization to maximize server utilization and reduce energy needs",
-        "Upgraded to energy-efficient cooling systems, significantly lowering data center temperatures and energy use",
-        "Retrofitted older equipment with more energy-efficient models, achieving substantial carbon savings"
+        "Consolidation of servers to reduce idle power usage.",
+        "Upgrading to more energy-efficient cooling solutions."
       ]
     }, {
-      "summary": "Pioneers innovative solutions and technologies in infrastructure optimization, setting new benchmarks for sustainability in the industry.",
+      "summary": "Systematic optimization of infrastructure for improved sustainability.",
       "signals": [
-        "Investigates and adopts cutting-edge technologies for sustainable infrastructure",
-        "Publishes case studies and reports on successful optimization projects",
-        "Advocates for industry-wide adoption of best practices in infrastructure sustainability"
+        "Developing and executing detailed plans for infrastructure overhaul.",
+        "Achieving measurable improvements in energy efficiency and carbon reduction."
       ],
       "examples": [
-        "Deployed an AI-driven system for dynamic energy management across data centers",
-        "Authored a white paper on the impact of renewable energy sources in IT infrastructure",
-        "Hosted a webinar series on sustainable infrastructure practices, drawing participants from across the industry"
+        "Implementation of virtualization to improve server utilization.",
+        "Introduction of renewable energy sources for powering data centers."
       ]
     }, {
-      "summary": "Establishes and leads a strategic vision for achieving a zero-carbon IT infrastructure, influencing policy and standards both within and outside the organization.",
+      "summary": "Leading innovation in sustainable IT infrastructure solutions.",
       "signals": [
-        "Formulates long-term goals and strategies for carbon-neutral IT operations",
-        "Collaborates with external bodies to set new standards for green IT infrastructure",
-        "Mentors other organizations in adopting sustainable infrastructure practices"
+        "Pioneering the adoption of cutting-edge technologies for sustainability.",
+        "Sharing successful strategies and advocating for sustainable infrastructure practices."
       ],
       "examples": [
-        "Led the transition to a fully renewable-powered data center, setting a model for the industry",
-        "Played a key role in developing industry certification for green data centers",
-        "Provided consultancy to other companies on achieving energy efficiency and carbon neutrality in their IT operations"
+        "Deployment of an AI-driven system for dynamic energy management.",
+        "Publishing case studies on successful optimization projects."
       ]
     }, {
-      "summary": "Achieves global leadership in IT infrastructure sustainability, driving transformative changes that significantly reduce the tech industry's environmental impact.",
+      "summary": "Global leadership in sustainable IT operations and infrastructure.",
       "signals": [
-        "Champions global initiatives aimed at reducing the carbon footprint of IT infrastructure",
-        "Influences international policy and corporate standards on sustainable IT operations",
-        "Leads groundbreaking research into sustainable infrastructure technologies and practices"
+        "Setting industry benchmarks and influencing policy for green IT operations.",
+        "Leading transformative changes that significantly reduce the tech industry's environmental impact."
       ],
       "examples": [
-        "Keynote speaker at a UN conference on sustainability in technology, showcasing successful infrastructure optimization",
-        "Collaborated with global tech leaders to launch a green data center alliance",
-        "Directed a multinational research project on next-generation cooling technologies, significantly advancing the field",
+        "Contributing to the development of global standards for energy-efficient data centers.",
+        "Spearheading initiatives for the adoption of sustainable practices in IT infrastructure worldwide."
       ],
     }],
   },
@@ -691,64 +604,54 @@ export const tracks: Tracks = {
     "category": "C",
     "description": "Conducts comprehensive evaluations of a company's energy use across software, hardware, and processes, identifying strategies to enhance efficiency and reduce environmental impact.",
     "milestones": [{
-      "summary": "Performs an initial review to identify basic energy inefficiencies and potential areas for improvement.",
+      "summary": "Initial recognition of the importance of energy efficiency.",
       "signals": [
-        "Assesses current energy usage patterns and identifies high-consumption areas",
-        "Evaluates the energy efficiency of deployed software and hardware",
-        "Recommends straightforward adjustments to reduce immediate energy consumption"
+        "Becoming aware of energy consumption patterns and their impacts.",
+        "Starting to identify high-energy consumption areas for improvement."
       ],
       "examples": [
-        "Analyzed server utilization rates to identify and decommission underused servers",
-        "Reviewed application performance metrics to pinpoint inefficient code",
-        "Suggested shifts in work patterns to optimize energy use during peak and off-peak hours"
+        "Basic energy use audits to highlight inefficient systems.",
+        "Discussions on the potential for energy saving within current operations."
       ]
     }, {
-      "summary": "Develops targeted strategies for optimizing energy use, implementing solutions that lead to significant efficiency gains.",
+      "summary": "Implementation of basic measures to improve energy efficiency.",
       "signals": [
-        "Crafts and executes a plan for comprehensive energy optimization across IT operations",
-        "Monitors and measures the impact of implemented changes on energy consumption",
-        "Institutes best practices in software development and infrastructure management for ongoing energy savings"
+        "Applying simple adjustments and optimizations to reduce energy use.",
+        "Engaging in energy efficiency training and beginning to track improvements."
       ],
       "examples": [
-        "Upgraded to more energy-efficient server hardware, reducing data center energy use",
-        "Optimized major software applications for energy efficiency, resulting in lower server demand",
-        "Implemented a company-wide policy for energy-efficient procurement and use of IT equipment"
+        "Adoption of energy-efficient lighting and low-power devices.",
+        "Introduction of power management settings for computers and servers."
       ]
     }, {
-      "summary": "Leads advanced initiatives for energy efficiency, incorporating innovative technologies and methodologies to set new standards.",
+      "summary": "Strategic improvements and adoption of energy-efficient technologies.",
       "signals": [
-        "Evaluates and integrates cutting-edge energy-saving technologies and practices",
-        "Publishes findings and case studies on successful energy reduction initiatives",
-        "Advocates within the industry for widespread adoption of energy efficiency measures"
+        "Systematic approach to reducing energy use through technology upgrades and process optimizations.",
+        "Monitoring and measuring the impact of implemented energy-saving initiatives."
       ],
       "examples": [
-        "Introduced an AI-based system for dynamic power management across computing resources",
-        "Led a successful pilot for solar-powered cooling in data centers, dramatically reducing energy costs",
-        "Organized a series of industry talks on the role of software in achieving energy efficiency"
+        "Upgrading to energy-efficient server hardware.",
+        "Optimizing software and systems for better energy use."
       ]
     }, {
-      "summary": "Establishes a strategic framework for achieving and maintaining industry-leading energy efficiency levels, influencing broader market practices.",
+      "summary": "Innovating and leading in energy efficiency measures.",
       "signals": [
-        "Sets ambitious long-term energy efficiency goals, aligning them with broader sustainability targets",
-        "Works with external stakeholders to advocate for and develop green energy standards",
-        "Mentors organizations on implementing effective energy efficiency strategies"
+        "Developing new strategies and technologies for significant energy savings.",
+        "Promoting and sharing successful practices within the industry."
       ],
       "examples": [
-        "Developed a scalable model for zero-net-energy IT operations adopted by peers in the industry",
-        "Contributed to the development of international standards for energy-efficient computing",
-        "Advised multiple companies on strategies for reducing energy use, leveraging insights from own successful initiatives"
+        "Implementing a company-wide renewable energy program.",
+        "Publishing a case study on a successful energy-saving project."
       ]
     }, {
-      "summary": "Achieves global recognition as a leader in energy efficiency, driving transformative change and significantly advancing the pursuit of sustainability in technology.",
+      "summary": "Global influence and leadership in energy-efficient practices.",
       "signals": [
-        "Champions global initiatives focused on reducing the technology sector's energy consumption",
-        "Influences policy, standards, and practices at a global level to promote energy efficiency",
-        "Leads groundbreaking research and development efforts in energy-efficient technologies"
+        "Setting international standards for energy efficiency in technology.",
+        "Leading global initiatives and partnerships to promote sustainable energy use."
       ],
       "examples": [
-        "Presented at global forums on sustainable technology, showcasing model energy efficiency programs",
-        "Played a pivotal role in a UN-backed initiative to promote energy efficiency in technology companies worldwide",
-        "Headed a research consortium focused on next-generation energy-saving technologies, resulting in widely adopted solutions",
+        "Influencing policy changes to support energy efficiency.",
+        "Organizing international conferences focused on sustainability in tech."
       ],
     }],
   },
@@ -758,64 +661,54 @@ export const tracks: Tracks = {
     "category": "C",
     "description": "Evaluates the effectiveness and efficiency of autoscaling practices within a company's IT infrastructure, aiming to optimize resource use and minimize environmental impact.",
     "milestones": [{
-      "summary": "Identifies opportunities for implementing or optimizing autoscaling to enhance energy efficiency and resource utilization.",
+      "summary": "Initial awareness of autoscaling benefits for energy efficiency.",
       "signals": [
-        "Assesses current infrastructure and application scalability",
-        "Identifies underutilized resources that can be optimized through autoscaling",
-        "Recommends initial autoscaling strategies to match demand without overprovisioning"
+        "Understanding basic concepts of autoscaling and its potential to improve energy efficiency.",
+        "Identifying opportunities where autoscaling could be applied or optimized."
       ],
       "examples": [
-        "Analyzed cloud resource usage to identify patterns and opportunities for autoscaling",
-        "Proposed a basic autoscaling setup for a high-traffic web application to adjust resources dynamically",
-        "Evaluated existing autoscaling configurations for optimization to reduce idle compute time"
+        "Basic research on autoscaling technologies.",
+        "Initial discussions about implementing autoscaling in existing projects."
       ]
     }, {
-      "summary": "Develops and implements advanced autoscaling strategies, leveraging technology to dynamically and efficiently allocate resources.",
+      "summary": "Basic implementation of autoscaling to improve resource efficiency.",
       "signals": [
-        "Designs sophisticated autoscaling policies based on detailed usage analytics",
-        "Integrates autoscaling with deployment pipelines for seamless scalability",
-        "Measures and reports on the carbon footprint reduction achieved through improved autoscaling"
+        "Setting up simple autoscaling for key applications based on demand.",
+        "Beginning to measure the impact of autoscaling on resource utilization and energy consumption."
       ],
       "examples": [
-        "Implemented a container orchestration system with custom autoscaling rules to minimize resource wastage",
-        "Optimized autoscaling triggers and thresholds based on real-time demand and energy consumption data",
-        "Conducted an impact analysis to quantify energy savings and carbon reduction from enhanced autoscaling practices"
+        "Introduction of basic autoscaling rules for cloud-based services.",
+        "Pilot testing of autoscaling to understand its effects on energy use."
       ]
     }, {
-      "summary": "Pioneers innovative autoscaling solutions that serve as industry benchmarks, significantly improving energy efficiency and operational sustainability.",
+      "summary": "Enhanced application of autoscaling strategies for better efficiency.",
       "signals": [
-        "Innovates with new autoscaling technologies and frameworks for cloud infrastructure",
-        "Leads cross-functional initiatives to embed sustainability into autoscaling practices",
-        "Shares expertise through case studies, publications, or speaking engagements"
+        "Refining autoscaling policies to dynamically match computing resources with actual demand.",
+        "Documenting and analyzing the improvements in energy efficiency and cost savings."
       ],
       "examples": [
-        "Developed a predictive autoscaling algorithm that anticipates demand spikes, optimizing resource allocation",
-        "Authored a white paper on the environmental benefits of intelligent autoscaling practices",
-        "Spoke at a technology conference about integrating green computing principles with autoscaling"
+        "Optimization of autoscaling triggers to reduce waste during low traffic periods.",
+        "Expansion of autoscaling practices across more applications and services."
       ]
     }, {
-      "summary": "Establishes a comprehensive approach to sustainable autoscaling, influencing policy and standards while mentoring others to adopt best practices.",
+      "summary": "Pioneering advanced autoscaling solutions and practices.",
       "signals": [
-        "Creates guidelines and best practices for sustainable autoscaling in various environments",
-        "Works with industry groups to set standards for environmentally friendly autoscaling",
-        "Mentors other organizations in the adoption of green autoscaling methodologies"
+        "Innovating with new technologies and strategies for more effective autoscaling.",
+        "Leading the organization or industry in adopting sophisticated autoscaling techniques."
       ],
       "examples": [
-        "Led the formulation of an industry-wide standard for green autoscaling practices",
-        "Implemented a mentorship program to help startups adopt sustainable autoscaling techniques",
-        "Collaborated with cloud service providers to offer greener autoscaling options"
+        "Development of predictive autoscaling algorithms that anticipate load changes.",
+        "Sharing successful case studies on autoscaling at tech conferences."
       ]
     }, {
-      "summary": "Achieves global leadership in sustainable autoscaling, driving the adoption of practices that significantly reduce the IT sector's carbon footprint.",
+      "summary": "Global leadership in sustainable autoscaling practices.",
       "signals": [
-        "Champions global initiatives aimed at promoting sustainable autoscaling",
-        "Influences international standards for energy-efficient computing",
-        "Leads breakthrough research in autoscaling technologies that optimize for environmental sustainability"
+        "Establishing benchmarks and best practices for autoscaling that prioritize environmental sustainability.",
+        "Driving the adoption of advanced autoscaling techniques worldwide."
       ],
       "examples": [
-        "Headed a UN-backed project to promote sustainable autoscaling in developing countries",
-        "Organized a global summit on sustainable cloud computing, with a focus on autoscaling",
-        "Conducted a landmark study proving the effectiveness of autoscaling in reducing global data center energy use",
+        "Influencing policy and standards on sustainable IT practices through advocacy of effective autoscaling.",
+        "Organizing international workshops or webinars to promote energy-efficient autoscaling."
       ],
     }],
   },
@@ -825,64 +718,54 @@ export const tracks: Tracks = {
     "category": "C",
     "description": "Evaluates strategies and practices to extend the operational lifetime of servers, focusing on reducing electronic waste and promoting sustainability in IT infrastructure.",
     "milestones": [{
-      "summary": "Identifies initial practices and upgrades that can extend the life of existing servers without compromising performance.",
+      "summary": "Initial recognition of the benefits of extending hardware life.",
       "signals": [
-        "Assesses current server utilization and operational efficiency",
-        "Identifies servers at risk of early retirement and evaluates potential for upgrades",
-        "Recommends basic hardware and software updates to prolong server lifespan"
+        "Understanding the environmental impact of electronic waste.",
+        "Beginning to consider the potential for extending the life of IT equipment."
       ],
       "examples": [
-        "Performed an audit to identify underperforming servers with potential for memory upgrades",
-        "Proposed a schedule for regular maintenance and firmware updates to extend server reliability",
-        "Analyzed workload distribution and recommended consolidation to reduce strain on older hardware"
+        "Research on the average lifespan of server hardware and factors affecting it.",
+        "Discussions about the feasibility of hardware upgrades versus replacements."
       ]
     }, {
-      "summary": "Implements comprehensive strategies for lifecycle management, ensuring servers operate efficiently and sustainably for longer periods.",
+      "summary": "Implementing basic measures to improve hardware longevity.",
       "signals": [
-        "Designs and enforces a robust server lifecycle management policy",
-        "Leads initiatives for hardware refurbishment and efficient workload management",
-        "Tracks and quantifies the impact of extended server lifetimes on carbon footprint reduction"
+        "Adopting simple practices for maintenance and updates to extend hardware life.",
+        "Starting to evaluate hardware with longevity and upgradability in mind."
       ],
       "examples": [
-        "Initiated a server refurbishment program, replacing components instead of entire units",
-        "Deployed virtualization technology to maximize the use of older servers",
-        "Reported on the environmental benefits realized through extended server operation and reduced e-waste"
+        "Regular cleaning and maintenance schedules for IT equipment.",
+        "Selecting hardware that offers easier options for upgrades."
       ]
     }, {
-      "summary": "Pioneers innovative approaches to server maintenance and optimization, setting new industry benchmarks for extending server lifetimes.",
+      "summary": "Systematic approach to maximizing hardware efficiency and life.",
       "signals": [
-        "Researches and applies cutting-edge technologies for server efficiency and longevity",
-        "Shares knowledge and best practices with the IT community on sustainable server management",
-        "Evaluates the lifecycle impact of servers from procurement to decommissioning"
+        "Developing and executing detailed strategies for hardware lifecycle management.",
+        "Achieving measurable improvements in hardware utilization and lifespan extension."
       ],
       "examples": [
-        "Developed a predictive maintenance tool to preemptively address server issues, extending their useful life",
-        "Authored a case study on successful server lifecycle extension, influencing industry practices",
-        "Led a cross-industry workshop on sustainable practices for server management and optimization"
+        "Implementation of a server virtualization strategy to maximize usage.",
+        "Upgrading components of existing hardware to enhance performance and delay replacement."
       ]
     }, {
-      "summary": "Establishes comprehensive, sustainable server management frameworks that are widely adopted, drastically reducing the industry's environmental impact.",
+      "summary": "Leading innovation in practices for extending hardware life.",
       "signals": [
-        "Creates scalable policies and frameworks for server lifecycle extension adopted by peers",
-        "Mentors organizations in adopting sustainable server management practices",
-        "Leads cross-industry initiatives to standardize eco-friendly server lifecycle management"
+        "Pioneering the development of sustainable hardware management solutions.",
+        "Promoting and sharing successful strategies for hardware longevity within the industry."
       ],
       "examples": [
-        "Formulated a green computing standard for server management, leading to widespread industry adoption",
-        "Implemented a mentorship program for companies looking to adopt green server technologies",
-        "Collaborated with manufacturers to design servers optimized for longer lifespans and easier refurbishment"
+        "Creating a company-wide program for hardware refurbishment and reuse.",
+        "Publishing a case study on the impact of lifecycle management on reducing e-waste."
       ]
     }, {
-      "summary": "Achieves global recognition as a leader in sustainable server management, influencing policy, technology development, and operational practices towards significantly extended server lifetimes.",
+      "summary": "Global leadership in sustainable hardware lifecycle management.",
       "signals": [
-        "Champions global initiatives focused on reducing electronic waste through extended server use",
-        "Influences international standards and policies for sustainable server lifecycle management",
-        "Leads groundbreaking research into technologies and methodologies for server longevity"
+        "Setting industry benchmarks and influencing policy for sustainable hardware practices.",
+        "Leading global initiatives to promote the extension of hardware lifetimes and reduce e-waste."
       ],
       "examples": [
-        "Keynoted at a UN conference on technology and sustainability, presenting a model for server lifecycle extension",
-        "Directed a multinational research project on next-generation server design, focusing on durability and maintenance",
-        "Played a pivotal role in forming an international agreement on standards for eco-friendly server production and decommissioning",
+        "Contributing to the development of international standards for hardware sustainability.",
+        "Organizing a global conference on sustainable hardware lifecycle practices."
       ],
     }],
   },
@@ -892,64 +775,54 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the effectiveness of governance structures in embedding sustainability principles across all levels of an organization, ensuring accountability and driving continuous improvement.",
     "milestones": [{
-      "summary": "Assesses current governance frameworks to identify gaps and opportunities for integrating sustainability.",
+      "summary": "Initial recognition of the need for sustainability in governance.",
       "signals": [
-        "Reviews existing policies and procedures for sustainability inclusion",
-        "Identifies lack of sustainability goals within governance structures",
-        "Recommends initial steps for embedding sustainability into governance frameworks"
+        "Understanding the role of governance in promoting sustainability.",
+        "Beginning to identify gaps in current governance structures where sustainability could be integrated."
       ],
       "examples": [
-        "Conducted a gap analysis on current governance practices against sustainability benchmarks",
-        "Outlined a plan for including sustainability metrics in corporate governance reporting",
-        "Suggested the formation of a sustainability committee within the board of directors"
+        "Basic assessment of existing governance frameworks for sustainability inclusion.",
+        "Initial discussions on incorporating sustainability goals into governance policies."
       ]
     }, {
-      "summary": "Implements changes to governance structures, incorporating clear sustainability targets and responsibilities.",
+      "summary": "Incorporating sustainability into governance frameworks.",
       "signals": [
-        "Integrates sustainability objectives into corporate governance documents",
-        "Establishes roles and responsibilities for sustainability within the organization",
-        "Monitors and reports on sustainability performance to governance bodies"
+        "Starting to embed sustainability objectives within corporate governance documents.",
+        "Establishing roles and responsibilities for sustainability within the organization."
       ],
       "examples": [
-        "Revised company bylaws to include sustainability as a core component of business strategy",
-        "Implemented a sustainability reporting mechanism for the executive team",
-        "Defined KPIs for sustainability and integrated them into executive and departmental scorecards"
+        "Revision of corporate policies to include sustainability considerations.",
+        "Formation of a sustainability committee or appointment of sustainability officers."
       ]
     }, {
-      "summary": "Leads the development of advanced governance models that prioritize sustainability, setting industry standards for responsible business practices.",
+      "summary": "Enhancing governance structures to prioritize sustainability.",
       "signals": [
-        "Pioneers innovative governance structures that fully integrate sustainability",
-        "Shares insights and models with peers and industry bodies to promote wider adoption",
-        "Evaluates and iterates on governance models to continually enhance sustainability integration"
+        "Integrating sustainability goals into performance evaluations and reporting.",
+        "Promoting transparency and accountability in sustainability efforts."
       ],
       "examples": [
-        "Developed a model for dual governance structures focused on sustainability and business performance",
-        "Presented a case study at an industry conference on effective sustainability governance",
-        "Led a review and refinement cycle for the governance model, incorporating stakeholder feedback for continuous improvement"
+        "Implementing sustainability metrics in executive and departmental scorecards.",
+        "Regular sustainability performance reporting to stakeholders."
       ]
     }, {
-      "summary": "Establishes comprehensive, effective governance frameworks that serve as a benchmark for sustainability integration in the industry, driving systemic change.",
+      "summary": "Leading in sustainable governance practices.",
       "signals": [
-        "Creates governance frameworks that are recognized and adopted by other organizations",
-        "Engages in policy development and advocacy to promote sustainability governance standards",
-        "Mentors other companies in developing and implementing sustainability governance practices"
+        "Developing and sharing innovative governance models that fully integrate sustainability.",
+        "Evaluating and iterating on governance structures for improved sustainability outcomes."
       ],
       "examples": [
-        "Authored a guide on sustainability governance that became a reference in the industry",
-        "Played a leading role in a working group developing a new standard for sustainability in corporate governance",
-        "Consulted for multiple organizations, helping them establish their own sustainability governance frameworks"
+        "Creation of a model governance framework that prioritizes sustainability.",
+        "Hosting workshops or seminars on effective sustainability governance."
       ]
     }, {
-      "summary": "Achieves global leadership in sustainability governance, influencing policies, standards, and practices worldwide, and setting new norms for corporate responsibility.",
+      "summary": "Setting global benchmarks in sustainability governance.",
       "signals": [
-        "Is recognized as a thought leader in sustainability governance, with significant influence on global standards",
-        "Leads international initiatives to embed sustainability in corporate governance across industries",
-        "Contributes to groundbreaking research and policy development for sustainability governance"
+        "Influencing global standards and practices in corporate sustainability governance.",
+        "Mentoring other organizations in adopting effective sustainability governance frameworks."
       ],
       "examples": [
-        "Delivered a keynote address at a global summit on corporate sustainability, outlining a vision for governance integration",
-        "Contributed to the development of an international guideline for sustainability governance recognized by governments and corporations",
-        "Facilitated a series of roundtable discussions with global leaders on enhancing sustainability through governance",
+        "Contribution to international guidelines on sustainability governance.",
+        "Recognition as a leader in sustainability governance at global forums."
       ],
     }],
   },
@@ -959,64 +832,54 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the implementation and effectiveness of systems for tracking and reporting real-time emissions data, facilitating immediate actions and long-term strategy adjustments for sustainability.",
     "milestones": [{
-      "summary": "Initiates the integration of real-time emissions tracking systems to provide foundational data for sustainability efforts.",
+      "summary": "Initial awareness of the importance of real-time emissions tracking.",
       "signals": [
-        "Identifies suitable technologies and platforms for emissions monitoring",
-        "Sets up basic real-time emissions tracking for key operations",
-        "Begins to use emissions data to inform simple sustainability decisions"
+        "Recognizing the potential impact of real-time data on sustainability efforts.",
+        "Beginning to explore tools and technologies for emissions monitoring."
       ],
       "examples": [
-        "Implemented a pilot program using IoT devices to monitor energy consumption and emissions in real-time",
-        "Integrated emissions tracking into the company’s data dashboard for easy access",
-        "Analyzed real-time emissions data to identify peak usage times and adjust operations accordingly"
+        "Research on available technologies for real-time emissions tracking.",
+        "Initial discussions about the benefits of monitoring emissions in real-time for sustainability planning."
       ]
     }, {
-      "summary": "Enhances real-time emissions monitoring capabilities, using data to drive more significant sustainability initiatives and operational changes.",
+      "summary": "Basic implementation of real-time emissions tracking systems.",
       "signals": [
-        "Expands the scope of emissions monitoring to cover broader operational areas",
-        "Leverages advanced analytics to interpret emissions data and identify reduction opportunities",
-        "Incorporates emissions insights into strategic planning and performance reporting"
+        "Setting up initial systems for tracking emissions data in real-time for key operations.",
+        "Starting to use emissions data to inform basic sustainability decisions."
       ],
       "examples": [
-        "Upgraded the emissions tracking system to cover all data centers, significantly improving data accuracy",
-        "Developed a dashboard feature that correlates emissions data with operational metrics, highlighting efficiency gains",
-        "Used emissions data to justify the transition to renewable energy sources for several facilities"
+        "Introduction of IoT devices to monitor energy use and emissions in real-time.",
+        "Integration of emissions tracking into the company’s sustainability dashboard."
       ]
     }, {
-      "summary": "Leads the development and implementation of state-of-the-art real-time emissions tracking, setting benchmarks for sustainability in the industry.",
+      "summary": "Enhanced use of real-time emissions data for sustainability initiatives.",
       "signals": [
-        "Pioneers the adoption of next-generation technologies for granular emissions monitoring",
-        "Shares expertise and findings with the industry to promote wide-scale adoption of emissions tracking",
-        "Evaluates and optimizes the carbon footprint of products and services based on real-time data"
+        "Expanding emissions monitoring to cover more operational areas.",
+        "Using advanced analytics to derive actionable insights from emissions data."
       ],
       "examples": [
-        "Implemented a blockchain-based system for transparent and verifiable emissions tracking across the supply chain",
-        "Published a white paper on the impact of real-time emissions data on corporate sustainability strategies",
-        "Hosted a seminar on innovative emissions monitoring technologies, attended by industry leaders"
+        "Implementation of a comprehensive real-time monitoring system across all data centers.",
+        "Using real-time emissions data to optimize operational efficiency and reduce carbon footprint."
       ]
     }, {
-      "summary": "Establishes comprehensive systems for real-time emissions tracking and reporting that influence global standards and drive significant environmental improvements.",
+      "summary": "Leading development and innovation in real-time emissions tracking.",
       "signals": [
-        "Creates a scalable framework for emissions monitoring that is adopted by peers and across industries",
-        "Engages with regulatory bodies to influence policy-making based on real-time emissions data",
-        "Mentors organizations in developing and implementing effective emissions tracking systems"
+        "Pioneering the use of cutting-edge technologies for detailed emissions monitoring.",
+        "Influencing broader industry adoption of real-time emissions tracking through advocacy and knowledge sharing."
       ],
       "examples": [
-        "Developed an open-source platform for real-time emissions monitoring, widely adopted across sectors",
-        "Played a pivotal role in establishing a new global standard for emissions reporting in the tech industry",
-        "Launched a consultancy service to help other companies implement and benefit from real-time emissions tracking"
+        "Development of a blockchain-based system for transparent and verifiable emissions tracking.",
+        "Hosting seminars on the benefits and techniques of real-time emissions monitoring for sustainability."
       ]
     }, {
-      "summary": "Achieves global leadership in the field of real-time emissions monitoring, driving technological innovation and policy changes that significantly reduce the environmental impact of business operations.",
+      "summary": "Global leadership in promoting and implementing real-time emissions tracking.",
       "signals": [
-        "Leads international collaborations to innovate and implement cutting-edge emissions tracking technologies",
-        "Influences significant policy shifts and sustainability standards globally based on real-time emissions insights",
-        "Directs groundbreaking research into new methods for reducing emissions through immediate data-driven action"
+        "Establishing standards for emissions monitoring that drive industry-wide improvements.",
+        "Leading global initiatives that significantly enhance the use of real-time data for reducing environmental impact."
       ],
       "examples": [
-        "Spearheaded a global initiative to use AI and IoT for dynamic emissions tracking and reduction",
-        "Influenced the UN's adoption of real-time emissions monitoring in their sustainability reporting guidelines",
-        "Conducted a landmark study demonstrating the effectiveness of real-time data in achieving carbon neutrality",
+        "Playing a pivotal role in forming an international agreement on real-time emissions monitoring standards.",
+        "Organizing a global conference focused on innovative technologies for sustainability in emissions tracking."
       ],
     }],
   },
@@ -1026,64 +889,54 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the development and implementation of policy frameworks within an organization to support sustainable practices, ensuring they align with environmental goals and compliance requirements.",
     "milestones": [{
-      "summary": "Assesses the current state of policy frameworks in supporting sustainability goals and identifies areas for improvement.",
+      "summary": "Initial recognition of the need for sustainability-focused policies.",
       "signals": [
-        "Reviews existing policies for sustainability alignment",
-        "Identifies gaps in policies that could better support environmental objectives",
-        "Recommends foundational policies to start aligning operations with sustainability goals"
+        "Beginning to understand the impact of organizational policies on sustainability.",
+        "Identifying gaps where sustainability could be integrated into existing policies."
       ],
       "examples": [
-        "Conducted a review of the company’s procurement policies to identify lack of environmental considerations",
-        "Outlined a plan for integrating sustainability criteria into existing operational policies",
-        "Suggested the introduction of a remote work policy to reduce commuting-related carbon emissions"
+        "Review of current policies to identify lack of sustainability considerations.",
+        "Initial discussions on the integration of sustainability into company policies."
       ]
     }, {
-      "summary": "Develops and implements comprehensive policy frameworks that explicitly support and drive sustainability initiatives across the organization.",
+      "summary": "Development and implementation of basic sustainability policies.",
       "signals": [
-        "Drafts and integrates sustainability-focused policies into corporate governance",
-        "Establishes accountability structures for sustainability policy adherence",
-        "Monitors the impact of policy changes on sustainability outcomes"
+        "Crafting initial policies that incorporate sustainability principles.",
+        "Starting to embed sustainability considerations into business operations."
       ],
       "examples": [
-        "Implemented a green IT policy mandating the use of energy-efficient devices and practices",
-        "Established a sustainability committee responsible for overseeing policy compliance",
-        "Reported on the environmental and operational benefits realized from new sustainability policies"
+        "Introduction of a recycling policy in the workplace.",
+        "Adoption of a green procurement policy for office supplies."
       ]
     }, {
-      "summary": "Leads the advancement of innovative policy frameworks that set new standards for sustainability in the industry.",
+      "summary": "Enhancing and expanding sustainability policies organization-wide.",
       "signals": [
-        "Pioneers policy innovations that significantly reduce environmental impact",
-        "Shares successful policy frameworks with the wider industry to encourage adoption",
-        "Assesses the long-term impact of sustainability policies on business and environmental performance"
+        "Refining and implementing comprehensive sustainability policies across departments.",
+        "Establishing accountability and monitoring mechanisms for policy adherence."
       ],
       "examples": [
-        "Developed a zero-waste policy for all company operations, significantly reducing landfill contributions",
-        "Published a case study on the company’s successful sustainable procurement policy",
-        "Organized a conference panel to discuss policy-driven sustainability transformations in businesses"
+        "Company-wide sustainability training programs.",
+        "Implementation of a carbon footprint reduction target and reporting."
       ]
     }, {
-      "summary": "Establishes a strategic vision for policy-driven sustainability, influencing industry-wide adoption and promoting global environmental standards.",
+      "summary": "Leading in the creation of innovative and influential sustainability policies.",
       "signals": [
-        "Creates scalable and replicable policy frameworks that become industry benchmarks",
-        "Works with external bodies to advocate for and develop global sustainability standards",
-        "Mentors other organizations in developing and executing effective sustainability policies"
+        "Pioneering advanced sustainability policies that set new industry standards.",
+        "Promoting and sharing successful policy frameworks with the wider industry."
       ],
       "examples": [
-        "Played a key role in forming an industry coalition to standardize sustainability policies",
-        "Consulted for international organizations on incorporating sustainability into policy frameworks",
-        "Led a task force that published a widely adopted guide on sustainability policies for businesses"
+        "Development of a sustainability policy that becomes a benchmark for the industry.",
+        "Organizing a conference to share best practices in sustainability policy development."
       ]
     }, {
-      "summary": "Achieves global recognition as a leader in sustainability policy development, driving significant changes in corporate practices and regulatory standards.",
+      "summary": "Global leadership in sustainability policy development and advocacy.",
       "signals": [
-        "Champions global initiatives aimed at establishing sustainable policies in businesses",
-        "Influences significant policy and regulatory changes at the governmental level",
-        "Leads cutting-edge research into policy impacts on sustainability, setting new directions for global practices"
+        "Influencing global sustainability standards through policy development.",
+        "Mentoring other organizations in the adoption and implementation of sustainability policies."
       ],
       "examples": [
-        "Keynoted at a UN conference on the role of corporate policy in achieving sustainability targets",
-        "Contributed to the development of international guidelines for corporate sustainability practices",
-        "Directed a global research project on the effectiveness of policy measures in reducing corporate carbon footprints",
+        "Contributing to international guidelines on corporate sustainability practices.",
+        "Leading a global initiative to promote sustainability policy adoption across industries."
       ],
     }],
   },
@@ -1094,64 +947,54 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the adoption and effectiveness of green procurement practices, focusing on sourcing environmentally friendly products and services to reduce the organization's carbon footprint and promote sustainability.",
     "milestones": [{
-      "summary": "Initiates the integration of green procurement practices, identifying opportunities to adopt more sustainable purchasing decisions.",
+      "summary": "Initial awareness of the importance of green procurement.",
       "signals": [
-        "Assesses current procurement policies for environmental impact considerations",
-        "Identifies key suppliers and products for sustainability improvement",
-        "Recommends initial steps towards greener procurement practices"
+        "Understanding the environmental impact of procurement choices.",
+        "Beginning to explore options for more sustainable procurement practices."
       ],
       "examples": [
-        "Conducted an audit of existing suppliers to evaluate their sustainability credentials",
-        "Implemented a pilot program to prioritize eco-friendly office supplies",
-        "Developed criteria for assessing the environmental impact of purchased goods and services"
+        "Research on eco-friendly products and suppliers.",
+        "Initial discussions on incorporating sustainability into procurement policies."
       ]
     }, {
-      "summary": "Enhances procurement strategies to prioritize sustainability, demonstrating a commitment to reducing environmental impacts through purchasing decisions.",
+      "summary": "Starting to integrate green procurement practices.",
       "signals": [
-        "Adopts comprehensive green procurement policies across the organization",
-        "Engages with suppliers to encourage and facilitate more sustainable practices",
-        "Measures and reports on the environmental benefits achieved through green procurement"
+        "Adopting basic policies for environmentally friendly purchasing.",
+        "Engaging suppliers in discussions about sustainability practices."
       ],
       "examples": [
-        "Transitioned to a fully renewable energy supplier for company facilities",
-        "Organized a supplier sustainability workshop to share best practices and expectations",
-        "Reported annual reductions in carbon emissions achieved through sustainable procurement decisions"
+        "Prioritizing recycled materials for office supplies.",
+        "Assessing suppliers' environmental policies as part of the procurement process."
       ]
     }, {
-      "summary": "Leads innovative approaches in green procurement, setting new standards for environmental responsibility in supply chain management.",
+      "summary": "Enhancing and expanding green procurement policies organization-wide.",
       "signals": [
-        "Pioneers the development of industry-leading sustainable procurement frameworks",
-        "Influences broader market demand for sustainable products and services",
-        "Shares knowledge and resources to promote green procurement practices widely"
+        "Developing comprehensive green procurement guidelines.",
+        "Instituting regular reviews of procurement practices for sustainability compliance."
       ],
       "examples": [
-        "Developed a sustainability rating system for evaluating and selecting suppliers",
-        "Played a leading role in a consortium aimed at increasing demand for recycled materials",
-        "Published a white paper on the impact of green procurement on reducing supply chain emissions"
+        "Implementation of a sustainable electronics procurement program.",
+        "Training procurement staff on evaluating products' and suppliers' sustainability."
       ]
     }, {
-      "summary": "Establishes comprehensive green procurement programs that serve as benchmarks for the industry, driving significant reductions in environmental impact.",
+      "summary": "Leading innovation and advocacy in sustainable procurement.",
       "signals": [
-        "Creates scalable and replicable green procurement strategies adopted by peers",
-        "Engages with policy makers to advocate for regulatory support of green procurement",
-        "Mentors other organizations in implementing effective green procurement practices"
+        "Pioneering new standards for green procurement within the industry.",
+        "Sharing successful practices and collaborating with other organizations to promote sustainable procurement."
       ],
       "examples": [
-        "Launched an open-source platform for sharing information on sustainable suppliers",
-        "Contributed to the development of a national policy on green procurement for public sector organizations",
-        "Provided consultancy to several Fortune 500 companies on establishing green procurement processes"
+        "Developing a certification program for eco-friendly suppliers.",
+        "Hosting a symposium on sustainable procurement practices."
       ]
     }, {
-      "summary": "Achieves global leadership in green procurement, influencing supply chains and procurement practices worldwide towards greater sustainability.",
+      "summary": "Global leadership in promoting and implementing green procurement.",
       "signals": [
-        "Champions global initiatives focused on transforming procurement practices to prioritize environmental sustainability",
-        "Influences international standards and agreements on sustainable procurement",
-        "Leads groundbreaking research and development in sustainable procurement methodologies"
+        "Setting international benchmarks for sustainable procurement practices.",
+        "Leading global initiatives to drive the adoption of green procurement across industries."
       ],
       "examples": [
-        "Keynoted at a global summit on sustainable development, presenting a model for green procurement",
-        "Played a pivotal role in establishing an international agreement on green supply chain standards",
-        "Directed a multinational project on innovative procurement practices, significantly reducing the carbon footprint of participating companies",
+        "Influencing policy changes to support sustainable procurement.",
+        "Facilitating a global network of organizations committed to sustainable procurement."
       ],
     }],
   },
