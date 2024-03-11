@@ -318,64 +318,54 @@ export const tracks: Tracks = {
     "category": "B",
     "description": "Enhances software for maximum energy efficiency and minimal environmental impact, utilizing cutting-edge sustainable software engineering practices.",
     "milestones": [{
-      "summary": "Identifies and applies initial optimizations in software design and development for improved energy efficiency.",
+      "summary": "Awareness and initial exploration of software optimization for sustainability.",
       "signals": [
-        "Reviews and optimizes existing code for energy efficiency",
-        "Implements best practices for reducing the environmental impact of software",
-        "Leverages tools to analyze and reduce software carbon footprint"
+        "Understanding the basics of energy-efficient software development.",
+        "Beginning to explore tools and techniques for reducing software’s environmental impact."
       ],
       "examples": [
-        "Refactored a resource-intensive module to reduce its energy consumption",
-        "Adopted a more efficient algorithm that decreased server load times",
-        "Utilized a code analysis tool to identify and remedy energy-inefficient patterns"
+        "Researching best practices for energy-efficient coding.",
+        "Analyzing current software projects for optimization opportunities."
       ]
     }, {
-      "summary": "Drives significant software optimization projects, leading to substantial reductions in energy use and carbon emissions.",
+      "summary": "Applying basic optimizations to improve software energy efficiency.",
       "signals": [
-        "Designs and architects low-energy software solutions from the ground up",
-        "Innovates with new technologies and practices for sustainability",
-        "Advocates for and implements green coding standards across projects"
+        "Adopting straightforward practices for reducing power consumption.",
+        "Starting to use tools for analyzing and improving software’s carbon footprint."
       ],
       "examples": [
-        "Architected a new feature leveraging serverless technology to minimize energy use",
-        "Introduced a novel compression technique reducing data transfer energy costs",
-        "Led a team initiative to rewrite high-traffic services for greater efficiency"
+        "Refactoring code to improve efficiency and reduce energy use.",
+        "Integrating an energy efficiency analysis tool into the development process."
       ]
     }, {
-      "summary": "Pioneers breakthrough optimizations and technologies, setting new industry standards for software sustainability.",
+      "summary": "Significant software optimization projects demonstrating reductions in energy use.",
       "signals": [
-        "Develops or contributes to open-source projects focused on energy efficiency",
-        "Collaborates with academic and research institutions on sustainable software solutions",
-        "Speaks at conferences, sharing knowledge on advanced optimization strategies"
+        "Implementing advanced techniques and technologies for energy efficiency.",
+        "Advocating for and adopting green coding standards across projects."
       ],
       "examples": [
-        "Created an open-source library popularly used for developing energy-efficient applications",
-        "Partnered with a university to research into AI-driven optimizations for reducing software energy consumption",
-        "Presented a paper on sustainable software practices at a leading technology conference"
+        "Architecting software solutions that leverage energy-efficient design patterns.",
+        "Contributing to or initiating projects focused on reducing software energy consumption."
       ]
     }, {
-      "summary": "Establishes comprehensive optimization frameworks that are widely adopted, significantly advancing the field of sustainable software engineering.",
+      "summary": "Leading innovation in sustainable software practices.",
       "signals": [
-        "Leads the development of industry-wide guidelines for energy-efficient software",
-        "Mentors and trains other engineers in sustainable software development practices",
-        "Drives cross-industry collaborations to promote software optimization"
+        "Developing new methodologies or tools for software sustainability.",
+        "Influencing the broader software development community towards energy efficiency."
       ],
       "examples": [
-        "Formulated and disseminated a widely accepted set of practices for green software engineering",
-        "Organized a series of workshops for engineers on eco-friendly coding practices",
-        "Initiated a coalition of tech companies focused on reducing the software industry’s carbon footprint"
+        "Creating a widely used open-source tool for energy-efficient software development.",
+        "Publishing research or case studies on successful software optimization efforts."
       ]
     }, {
-      "summary": "Becomes a global leader in software optimization for sustainability, influencing policy, education, and industry practices.",
+      "summary": "Global authority on software optimization for sustainability.",
       "signals": [
-        "Sets visionary goals for software sustainability and leads global efforts to achieve them",
-        "Innovates with sustainable technologies that transform software development",
-        "Champions global initiatives that set new benchmarks for environmental stewardship in software"
+        "Setting global standards for energy-efficient software development.",
+        "Leading international efforts to promote sustainable software practices."
       ],
       "examples": [
-        "Led the formulation of international standards for software energy efficiency",
-        "Developed a groundbreaking sustainable computing platform adopted by governments and corporations",
-        "Keynote speaker at global summits, advocating for urgent action on software sustainability"
+        "Spearheading the development of international guidelines for software energy efficiency.",
+        "Organizing global summits on sustainable software engineering, drawing participants from across the industry."
       ],
     }],
   },
