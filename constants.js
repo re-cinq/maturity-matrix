@@ -375,64 +375,54 @@ export const tracks: Tracks = {
     "category": "B",
     "description": "Emphasizes the adoption and advocacy of sustainable design principles in software development to achieve eco-efficiency and innovation.",
     "milestones": [{
-      "summary": "Integrates basic sustainable design principles into projects, prioritizing eco-efficiency from the initial stages.",
+      "summary": "Initial awareness of sustainable design in software development.",
       "signals": [
-        "Adopts guidelines for energy-efficient software design",
-        "Considers environmental impact in the choice of technologies and platforms",
-        "Incorporates user feedback to enhance sustainable usability"
+        "Exploring the impact of design decisions on software sustainability.",
+        "Beginning to understand the importance of eco-friendly design principles."
       ],
       "examples": [
-        "Chose a lightweight framework to reduce energy consumption for a new web app",
-        "Designed a feature with user-configurable settings to minimize data usage and prolong device battery life",
-        "Conducted usability testing to ensure eco-friendly features met user needs effectively"
+        "Researching articles and resources on sustainable design.",
+        "Discussing the potential for incorporating green design in current projects."
       ]
     }, {
-      "summary": "Advances the application of sustainable design principles, leading projects that exemplify eco-innovation.",
+      "summary": "Integration of basic sustainable design principles into projects.",
       "signals": [
-        "Leads design efforts that significantly lower software's environmental footprint",
-        "Innovates in the application of green UX/UI principles",
-        "Promotes the adoption of sustainable design practices across teams"
+        "Applying eco-friendly design guidelines to new and existing projects.",
+        "Considering the environmental impact in the choice of technologies and platforms."
       ],
       "examples": [
-        "Developed a user interface that encourages energy-saving modes of operation",
-        "Implemented a novel approach to data presentation that reduces screen time and energy use",
-        "Organized a company-wide green design challenge to foster innovation in sustainable design"
+        "Choosing lightweight frameworks to reduce energy consumption.",
+        "Designing features that encourage users to select energy-saving options."
       ]
     }, {
-      "summary": "Pioneers new sustainable design methodologies, setting industry benchmarks for eco-friendly software development.",
+      "summary": "Advancing the application of sustainable design principles.",
       "signals": [
-        "Develops cutting-edge sustainable design frameworks and tools",
-        "Influences industry standards through advocacy and thought leadership in green design",
-        "Mentors designers and developers in sustainable practices"
+        "Leading projects that exemplify best practices in eco-friendly design.",
+        "Promoting sustainable design practices within the team or organization."
       ],
       "examples": [
-        "Created a widely used open-source tool for assessing design sustainability",
-        "Authored influential articles on the future of eco-friendly software design",
-        "Led a workshop series at major design conferences on sustainability in digital products"
+        "Implementing advanced features with minimal environmental impact.",
+        "Hosting workshops or writing articles on sustainable design techniques."
       ]
     }, {
-      "summary": "Establishes comprehensive sustainable design paradigms that are adopted globally, significantly impacting software development for environmental good.",
+      "summary": "Pioneering new sustainable design methodologies.",
       "signals": [
-        "Champions the development of global standards for sustainable software design",
-        "Collaborates with international organizations to promote eco-friendly design education",
-        "Drives significant advancements in software design that reduce global carbon emissions"
+        "Developing innovative tools and frameworks that promote eco-friendly design.",
+        "Influencing the broader software design community towards sustainability."
       ],
       "examples": [
-        "Played a key role in creating an international certification for sustainable software design",
-        "Partnered with educational institutions to incorporate sustainable design principles into their curricula",
-        "Launched a global initiative that resulted in the adoption of green design practices by leading software companies"
+        "Creating a widely adopted toolkit for assessing software design sustainability.",
+        "Leading discussions at industry conferences on green design principles."
       ]
     }, {
-      "summary": "Becomes a world-renowned expert in sustainable design, shaping the direction of eco-friendly software development and influencing policy and standards.",
+      "summary": "Establishing global leadership in sustainable software design.",
       "signals": [
-        "Sets visionary sustainability goals for software design and mobilizes the global community to achieve them",
-        "Innovates with eco-friendly design technologies that set new industry standards",
-        "Leads global policy discussions on incorporating sustainability into software design practices"
+        "Setting industry benchmarks for eco-friendly software development.",
+        "Championing global initiatives that promote sustainable design practices."
       ],
       "examples": [
-        "Keynote speaker at global sustainability and design summits, presenting pioneering work in sustainable design",
-        "Developed a revolutionary design philosophy that greatly minimizes software’s environmental impact",
-        "Influenced the adoption of sustainable design standards by technology firms and governmental bodies worldwide"
+        "Developing international standards for sustainable software design.",
+        "Organizing global forums that foster innovation in eco-efficient design."
       ],
     }],
   }, 
