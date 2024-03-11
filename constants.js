@@ -718,64 +718,54 @@ export const tracks: Tracks = {
     "category": "C",
     "description": "Evaluates strategies and practices to extend the operational lifetime of servers, focusing on reducing electronic waste and promoting sustainability in IT infrastructure.",
     "milestones": [{
-      "summary": "Identifies initial practices and upgrades that can extend the life of existing servers without compromising performance.",
+      "summary": "Initial recognition of the benefits of extending hardware life.",
       "signals": [
-        "Assesses current server utilization and operational efficiency",
-        "Identifies servers at risk of early retirement and evaluates potential for upgrades",
-        "Recommends basic hardware and software updates to prolong server lifespan"
+        "Understanding the environmental impact of electronic waste.",
+        "Beginning to consider the potential for extending the life of IT equipment."
       ],
       "examples": [
-        "Performed an audit to identify underperforming servers with potential for memory upgrades",
-        "Proposed a schedule for regular maintenance and firmware updates to extend server reliability",
-        "Analyzed workload distribution and recommended consolidation to reduce strain on older hardware"
+        "Research on the average lifespan of server hardware and factors affecting it.",
+        "Discussions about the feasibility of hardware upgrades versus replacements."
       ]
     }, {
-      "summary": "Implements comprehensive strategies for lifecycle management, ensuring servers operate efficiently and sustainably for longer periods.",
+      "summary": "Implementing basic measures to improve hardware longevity.",
       "signals": [
-        "Designs and enforces a robust server lifecycle management policy",
-        "Leads initiatives for hardware refurbishment and efficient workload management",
-        "Tracks and quantifies the impact of extended server lifetimes on carbon footprint reduction"
+        "Adopting simple practices for maintenance and updates to extend hardware life.",
+        "Starting to evaluate hardware with longevity and upgradability in mind."
       ],
       "examples": [
-        "Initiated a server refurbishment program, replacing components instead of entire units",
-        "Deployed virtualization technology to maximize the use of older servers",
-        "Reported on the environmental benefits realized through extended server operation and reduced e-waste"
+        "Regular cleaning and maintenance schedules for IT equipment.",
+        "Selecting hardware that offers easier options for upgrades."
       ]
     }, {
-      "summary": "Pioneers innovative approaches to server maintenance and optimization, setting new industry benchmarks for extending server lifetimes.",
+      "summary": "Systematic approach to maximizing hardware efficiency and life.",
       "signals": [
-        "Researches and applies cutting-edge technologies for server efficiency and longevity",
-        "Shares knowledge and best practices with the IT community on sustainable server management",
-        "Evaluates the lifecycle impact of servers from procurement to decommissioning"
+        "Developing and executing detailed strategies for hardware lifecycle management.",
+        "Achieving measurable improvements in hardware utilization and lifespan extension."
       ],
       "examples": [
-        "Developed a predictive maintenance tool to preemptively address server issues, extending their useful life",
-        "Authored a case study on successful server lifecycle extension, influencing industry practices",
-        "Led a cross-industry workshop on sustainable practices for server management and optimization"
+        "Implementation of a server virtualization strategy to maximize usage.",
+        "Upgrading components of existing hardware to enhance performance and delay replacement."
       ]
     }, {
-      "summary": "Establishes comprehensive, sustainable server management frameworks that are widely adopted, drastically reducing the industry's environmental impact.",
+      "summary": "Leading innovation in practices for extending hardware life.",
       "signals": [
-        "Creates scalable policies and frameworks for server lifecycle extension adopted by peers",
-        "Mentors organizations in adopting sustainable server management practices",
-        "Leads cross-industry initiatives to standardize eco-friendly server lifecycle management"
+        "Pioneering the development of sustainable hardware management solutions.",
+        "Promoting and sharing successful strategies for hardware longevity within the industry."
       ],
       "examples": [
-        "Formulated a green computing standard for server management, leading to widespread industry adoption",
-        "Implemented a mentorship program for companies looking to adopt green server technologies",
-        "Collaborated with manufacturers to design servers optimized for longer lifespans and easier refurbishment"
+        "Creating a company-wide program for hardware refurbishment and reuse.",
+        "Publishing a case study on the impact of lifecycle management on reducing e-waste."
       ]
     }, {
-      "summary": "Achieves global recognition as a leader in sustainable server management, influencing policy, technology development, and operational practices towards significantly extended server lifetimes.",
+      "summary": "Global leadership in sustainable hardware lifecycle management.",
       "signals": [
-        "Champions global initiatives focused on reducing electronic waste through extended server use",
-        "Influences international standards and policies for sustainable server lifecycle management",
-        "Leads groundbreaking research into technologies and methodologies for server longevity"
+        "Setting industry benchmarks and influencing policy for sustainable hardware practices.",
+        "Leading global initiatives to promote the extension of hardware lifetimes and reduce e-waste."
       ],
       "examples": [
-        "Keynoted at a UN conference on technology and sustainability, presenting a model for server lifecycle extension",
-        "Directed a multinational research project on next-generation server design, focusing on durability and maintenance",
-        "Played a pivotal role in forming an international agreement on standards for eco-friendly server production and decommissioning",
+        "Contributing to the development of international standards for hardware sustainability.",
+        "Organizing a global conference on sustainable hardware lifecycle practices."
       ],
     }],
   },
@@ -785,64 +775,54 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the effectiveness of governance structures in embedding sustainability principles across all levels of an organization, ensuring accountability and driving continuous improvement.",
     "milestones": [{
-      "summary": "Assesses current governance frameworks to identify gaps and opportunities for integrating sustainability.",
-      "signals": [
-        "Reviews existing policies and procedures for sustainability inclusion",
-        "Identifies lack of sustainability goals within governance structures",
-        "Recommends initial steps for embedding sustainability into governance frameworks"
+      summary: "Initial recognition of the need for sustainability in governance.",
+      signals: [
+        "Understanding the role of governance in promoting sustainability.",
+        "Beginning to identify gaps in current governance structures where sustainability could be integrated."
       ],
-      "examples": [
-        "Conducted a gap analysis on current governance practices against sustainability benchmarks",
-        "Outlined a plan for including sustainability metrics in corporate governance reporting",
-        "Suggested the formation of a sustainability committee within the board of directors"
+      examples: [
+        "Basic assessment of existing governance frameworks for sustainability inclusion.",
+        "Initial discussions on incorporating sustainability goals into governance policies."
       ]
     }, {
-      "summary": "Implements changes to governance structures, incorporating clear sustainability targets and responsibilities.",
-      "signals": [
-        "Integrates sustainability objectives into corporate governance documents",
-        "Establishes roles and responsibilities for sustainability within the organization",
-        "Monitors and reports on sustainability performance to governance bodies"
+      summary: "Incorporating sustainability into governance frameworks.",
+      signals: [
+        "Starting to embed sustainability objectives within corporate governance documents.",
+        "Establishing roles and responsibilities for sustainability within the organization."
       ],
-      "examples": [
-        "Revised company bylaws to include sustainability as a core component of business strategy",
-        "Implemented a sustainability reporting mechanism for the executive team",
-        "Defined KPIs for sustainability and integrated them into executive and departmental scorecards"
+      examples: [
+        "Revision of corporate policies to include sustainability considerations.",
+        "Formation of a sustainability committee or appointment of sustainability officers."
       ]
     }, {
-      "summary": "Leads the development of advanced governance models that prioritize sustainability, setting industry standards for responsible business practices.",
-      "signals": [
-        "Pioneers innovative governance structures that fully integrate sustainability",
-        "Shares insights and models with peers and industry bodies to promote wider adoption",
-        "Evaluates and iterates on governance models to continually enhance sustainability integration"
+      summary: "Enhancing governance structures to prioritize sustainability.",
+      signals: [
+        "Integrating sustainability goals into performance evaluations and reporting.",
+        "Promoting transparency and accountability in sustainability efforts."
       ],
-      "examples": [
-        "Developed a model for dual governance structures focused on sustainability and business performance",
-        "Presented a case study at an industry conference on effective sustainability governance",
-        "Led a review and refinement cycle for the governance model, incorporating stakeholder feedback for continuous improvement"
+      examples: [
+        "Implementing sustainability metrics in executive and departmental scorecards.",
+        "Regular sustainability performance reporting to stakeholders."
       ]
     }, {
-      "summary": "Establishes comprehensive, effective governance frameworks that serve as a benchmark for sustainability integration in the industry, driving systemic change.",
-      "signals": [
-        "Creates governance frameworks that are recognized and adopted by other organizations",
-        "Engages in policy development and advocacy to promote sustainability governance standards",
-        "Mentors other companies in developing and implementing sustainability governance practices"
+      summary: "Leading in sustainable governance practices.",
+      signals: [
+        "Developing and sharing innovative governance models that fully integrate sustainability.",
+        "Evaluating and iterating on governance structures for improved sustainability outcomes."
       ],
-      "examples": [
-        "Authored a guide on sustainability governance that became a reference in the industry",
-        "Played a leading role in a working group developing a new standard for sustainability in corporate governance",
-        "Consulted for multiple organizations, helping them establish their own sustainability governance frameworks"
+      examples: [
+        "Creation of a model governance framework that prioritizes sustainability.",
+        "Hosting workshops or seminars on effective sustainability governance."
       ]
     }, {
-      "summary": "Achieves global leadership in sustainability governance, influencing policies, standards, and practices worldwide, and setting new norms for corporate responsibility.",
-      "signals": [
-        "Is recognized as a thought leader in sustainability governance, with significant influence on global standards",
-        "Leads international initiatives to embed sustainability in corporate governance across industries",
-        "Contributes to groundbreaking research and policy development for sustainability governance"
+      summary: "Setting global benchmarks in sustainability governance.",
+      signals: [
+        "Influencing global standards and practices in corporate sustainability governance.",
+        "Mentoring other organizations in adopting effective sustainability governance frameworks."
       ],
-      "examples": [
-        "Delivered a keynote address at a global summit on corporate sustainability, outlining a vision for governance integration",
-        "Contributed to the development of an international guideline for sustainability governance recognized by governments and corporations",
-        "Facilitated a series of roundtable discussions with global leaders on enhancing sustainability through governance",
+      examples: [
+        "Contribution to international guidelines on sustainability governance.",
+        "Recognition as a leader in sustainability governance at global forums."
       ],
     }],
   },
