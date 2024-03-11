@@ -147,62 +147,54 @@ export const tracks: Tracks = {
     "category": "A",
     "description": "Develops and refines eco-friendly operational processes within software development lifecycle.",
     "milestones": [{
-      "summary": "Integrates basic green processes into the software development lifecycle, promoting initial sustainability efforts.",
+      "summary": "Initial understanding and integration of green processes.",
       "signals": [
-        "Incorporates eco-friendly requirements in project planning stages",
-        "Adopts green coding standards",
-        "Utilizes tools for tracking energy consumption in development and testing environments"
+        "Awareness of the need for sustainability in development processes.",
+        "Beginning to explore green coding standards and tools."
       ],
       "examples": [
-        "Implemented a linter for eco-friendly coding practices",
-        "Adopted a low-energy consumption testing protocol",
-        "Included sustainability checkpoints in the software release checklist"
+        "Introduction of basic eco-friendly guidelines for projects.",
+        "Initial discussions on incorporating sustainability into the development lifecycle."
       ]
     }, {
-      "summary": "Optimizes existing processes for enhanced sustainability, contributing to reduced carbon footprint and operational costs.",
+      "summary": "Integration of basic green processes into development.",
       "signals": [
-        "Revamps development pipelines to include automated sustainability checks",
-        "Leads green refactoring efforts for existing codebases",
-        "Institutes a policy for regular energy consumption audits"
+        "Adoption of tools for tracking energy consumption in development and testing.",
+        "Implementation of eco-friendly requirements in project planning."
       ],
       "examples": [
-        "Integrated automated carbon footprint analysis in CI/CD pipelines",
-        "Reduced server usage by optimizing continuous integration pipelines",
-        "Established a quarterly review process for assessing the environmental impact of projects"
+        "Use of a linter for sustainable coding practices.",
+        "Inclusion of sustainability checkpoints in release checklists."
       ]
     }, {
-      "summary": "Champions innovative, sustainable process frameworks, establishing new industry standards for eco-friendly development.",
+      "summary": "Optimization of processes for enhanced sustainability.",
       "signals": [
-        "Develops cutting-edge methodologies for sustainable software lifecycle management",
-        "Influences broader adoption of green processes across projects and teams",
-        "Balances high-performance demands with environmental sustainability requirements"
+        "Revamping development pipelines for sustainability checks.",
+        "Leading green refactoring efforts for efficiency."
       ],
       "examples": [
-        "Created a zero-waste deployment strategy adopted company-wide",
-        "Pioneered a new, energy-efficient testing framework",
-        "Hosted workshops on sustainable development practices for external developers"
+        "Integration of carbon footprint analysis into CI/CD pipelines.",
+        "Establishment of regular energy consumption audits."
       ]
     }, {
-      "summary": "Leads the digital transformation towards green practices, optimizing every phase of the software development lifecycle for sustainability.",
+      "summary": "Championing sustainable process innovations.",
       "signals": [
-        "Integrates sustainable development goals (SDGs) into project management frameworks",
-        "Automates sustainability reporting within development cycles",
-        "Innovates process improvements that significantly lower the environmental impact"
+        "Development of cutting-edge methodologies for green software lifecycle management.",
+        "Influencing adoption of green processes across projects."
       ],
       "examples": [
-        "Implemented a DevOps pipeline that automatically calculates and reports on the carbon footprint of each deployment",
-        "Developed a sustainability dashboard for real-time tracking of software projects' environmental impact",
+        "Creation of a zero-waste deployment strategy.",
+        "Pioneering new, energy-efficient testing frameworks."
       ]
     },{
-      "summary": "Pioneers revolutionary process methodologies that become industry benchmarks for sustainable software development.",
+      "summary": "Leadership in sustainable development practices.",
       "signals": [
-        "Establishes global collaborations to define sustainable process standards",
-        "Leads industry-wide initiatives to adopt green software development practices",
-        "Advocates for regulatory changes that promote sustainability in technology"
+        "Setting new industry standards for eco-friendly development processes.",
+        "Mentoring others in sustainable software lifecycle management."
       ],
       "examples": [
-        "Founded an international consortium for sustainable software practices.",
-        "Organized a global conference on green technology processes, setting the stage for widespread industry transformation",
+        "Formulating comprehensive guidelines for green software engineering.",
+        "Leading cross-industry collaborations to promote software optimization."
       ]
     }],
   },
