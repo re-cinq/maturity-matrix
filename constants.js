@@ -547,64 +547,54 @@ export const tracks: Tracks = {
     "category": "C",
     "description": "Evaluates a company's IT infrastructure to identify opportunities for energy efficiency and carbon footprint reduction, recommending strategies for optimization.",
     "milestones": [{
-      "summary": "Conducts initial assessment to identify quick wins and areas for improvement in IT infrastructure energy efficiency.",
+      "summary": "Initial awareness and assessment of IT infrastructure's energy use.",
       "signals": [
-        "Reviews current infrastructure setup and identifies inefficiencies",
-        "Measures baseline energy consumption and carbon emissions",
-        "Suggests immediate actions for reducing energy usage and emissions"
+        "Recognizing the importance of energy efficiency in IT infrastructure.",
+        "Starting to assess current infrastructure for inefficiencies."
       ],
       "examples": [
-        "Identified underutilized servers contributing to unnecessary energy consumption",
-        "Conducted an audit of data center cooling systems to find efficiency gaps",
-        "Recommended consolidation of services to fewer, more energy-efficient servers"
+        "Basic audit of server utilization and energy consumption.",
+        "Identification of underutilized resources that contribute to unnecessary energy use."
       ]
     }, {
-      "summary": "Develops and implements detailed plans for infrastructure optimization, leading to measurable improvements in energy efficiency and carbon reduction.",
+      "summary": "Implementing basic optimization strategies for energy efficiency.",
       "signals": [
-        "Designs a comprehensive strategy for infrastructure overhaul focused on sustainability",
-        "Leads the execution of optimization projects, ensuring targets are met",
-        "Tracks and reports on energy savings and emissions reduction post-implementation"
+        "Applying straightforward measures to reduce energy consumption.",
+        "Making initial improvements based on the assessments."
       ],
       "examples": [
-        "Implemented virtualization to maximize server utilization and reduce energy needs",
-        "Upgraded to energy-efficient cooling systems, significantly lowering data center temperatures and energy use",
-        "Retrofitted older equipment with more energy-efficient models, achieving substantial carbon savings"
+        "Consolidation of servers to reduce idle power usage.",
+        "Upgrading to more energy-efficient cooling solutions."
       ]
     }, {
-      "summary": "Pioneers innovative solutions and technologies in infrastructure optimization, setting new benchmarks for sustainability in the industry.",
+      "summary": "Systematic optimization of infrastructure for improved sustainability.",
       "signals": [
-        "Investigates and adopts cutting-edge technologies for sustainable infrastructure",
-        "Publishes case studies and reports on successful optimization projects",
-        "Advocates for industry-wide adoption of best practices in infrastructure sustainability"
+        "Developing and executing detailed plans for infrastructure overhaul.",
+        "Achieving measurable improvements in energy efficiency and carbon reduction."
       ],
       "examples": [
-        "Deployed an AI-driven system for dynamic energy management across data centers",
-        "Authored a white paper on the impact of renewable energy sources in IT infrastructure",
-        "Hosted a webinar series on sustainable infrastructure practices, drawing participants from across the industry"
+        "Implementation of virtualization to improve server utilization.",
+        "Introduction of renewable energy sources for powering data centers."
       ]
     }, {
-      "summary": "Establishes and leads a strategic vision for achieving a zero-carbon IT infrastructure, influencing policy and standards both within and outside the organization.",
+      "summary": "Leading innovation in sustainable IT infrastructure solutions.",
       "signals": [
-        "Formulates long-term goals and strategies for carbon-neutral IT operations",
-        "Collaborates with external bodies to set new standards for green IT infrastructure",
-        "Mentors other organizations in adopting sustainable infrastructure practices"
+        "Pioneering the adoption of cutting-edge technologies for sustainability.",
+        "Sharing successful strategies and advocating for sustainable infrastructure practices."
       ],
       "examples": [
-        "Led the transition to a fully renewable-powered data center, setting a model for the industry",
-        "Played a key role in developing industry certification for green data centers",
-        "Provided consultancy to other companies on achieving energy efficiency and carbon neutrality in their IT operations"
+        "Deployment of an AI-driven system for dynamic energy management.",
+        "Publishing case studies on successful optimization projects."
       ]
     }, {
-      "summary": "Achieves global leadership in IT infrastructure sustainability, driving transformative changes that significantly reduce the tech industry's environmental impact.",
+      "summary": "Global leadership in sustainable IT operations and infrastructure.",
       "signals": [
-        "Champions global initiatives aimed at reducing the carbon footprint of IT infrastructure",
-        "Influences international policy and corporate standards on sustainable IT operations",
-        "Leads groundbreaking research into sustainable infrastructure technologies and practices"
+        "Setting industry benchmarks and influencing policy for green IT operations.",
+        "Leading transformative changes that significantly reduce the tech industry's environmental impact."
       ],
       "examples": [
-        "Keynote speaker at a UN conference on sustainability in technology, showcasing successful infrastructure optimization",
-        "Collaborated with global tech leaders to launch a green data center alliance",
-        "Directed a multinational research project on next-generation cooling technologies, significantly advancing the field",
+        "Contributing to the development of global standards for energy-efficient data centers.",
+        "Spearheading initiatives for the adoption of sustainable practices in IT infrastructure worldwide."
       ],
     }],
   },
