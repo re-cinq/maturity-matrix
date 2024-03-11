@@ -775,52 +775,52 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the effectiveness of governance structures in embedding sustainability principles across all levels of an organization, ensuring accountability and driving continuous improvement.",
     "milestones": [{
-      summary: "Initial recognition of the need for sustainability in governance.",
-      signals: [
+      "summary": "Initial recognition of the need for sustainability in governance.",
+      "signals": [
         "Understanding the role of governance in promoting sustainability.",
         "Beginning to identify gaps in current governance structures where sustainability could be integrated."
       ],
-      examples: [
+      "examples": [
         "Basic assessment of existing governance frameworks for sustainability inclusion.",
         "Initial discussions on incorporating sustainability goals into governance policies."
       ]
     }, {
-      summary: "Incorporating sustainability into governance frameworks.",
-      signals: [
+      "summary": "Incorporating sustainability into governance frameworks.",
+      "signals": [
         "Starting to embed sustainability objectives within corporate governance documents.",
         "Establishing roles and responsibilities for sustainability within the organization."
       ],
-      examples: [
+      "examples": [
         "Revision of corporate policies to include sustainability considerations.",
         "Formation of a sustainability committee or appointment of sustainability officers."
       ]
     }, {
-      summary: "Enhancing governance structures to prioritize sustainability.",
-      signals: [
+      "summary": "Enhancing governance structures to prioritize sustainability.",
+      "signals": [
         "Integrating sustainability goals into performance evaluations and reporting.",
         "Promoting transparency and accountability in sustainability efforts."
       ],
-      examples: [
+      "examples": [
         "Implementing sustainability metrics in executive and departmental scorecards.",
         "Regular sustainability performance reporting to stakeholders."
       ]
     }, {
-      summary: "Leading in sustainable governance practices.",
-      signals: [
+      "summary": "Leading in sustainable governance practices.",
+      "signals": [
         "Developing and sharing innovative governance models that fully integrate sustainability.",
         "Evaluating and iterating on governance structures for improved sustainability outcomes."
       ],
-      examples: [
+      "examples": [
         "Creation of a model governance framework that prioritizes sustainability.",
         "Hosting workshops or seminars on effective sustainability governance."
       ]
     }, {
-      summary: "Setting global benchmarks in sustainability governance.",
-      signals: [
+      "summary": "Setting global benchmarks in sustainability governance.",
+      "signals": [
         "Influencing global standards and practices in corporate sustainability governance.",
         "Mentoring other organizations in adopting effective sustainability governance frameworks."
       ],
-      examples: [
+      "examples": [
         "Contribution to international guidelines on sustainability governance.",
         "Recognition as a leader in sustainability governance at global forums."
       ],
@@ -832,52 +832,52 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the implementation and effectiveness of systems for tracking and reporting real-time emissions data, facilitating immediate actions and long-term strategy adjustments for sustainability.",
     "milestones": [{
-      summary: "Initial awareness of the importance of real-time emissions tracking.",
-      signals: [
+      "summary": "Initial awareness of the importance of real-time emissions tracking.",
+      "signals": [
         "Recognizing the potential impact of real-time data on sustainability efforts.",
         "Beginning to explore tools and technologies for emissions monitoring."
       ],
-      examples: [
+      "examples": [
         "Research on available technologies for real-time emissions tracking.",
         "Initial discussions about the benefits of monitoring emissions in real-time for sustainability planning."
       ]
     }, {
-      summary: "Basic implementation of real-time emissions tracking systems.",
-      signals: [
+      "summary": "Basic implementation of real-time emissions tracking systems.",
+      "signals": [
         "Setting up initial systems for tracking emissions data in real-time for key operations.",
         "Starting to use emissions data to inform basic sustainability decisions."
       ],
-      examples: [
+      "examples": [
         "Introduction of IoT devices to monitor energy use and emissions in real-time.",
         "Integration of emissions tracking into the company’s sustainability dashboard."
       ]
     }, {
-      summary: "Enhanced use of real-time emissions data for sustainability initiatives.",
-      signals: [
+      "summary": "Enhanced use of real-time emissions data for sustainability initiatives.",
+      "signals": [
         "Expanding emissions monitoring to cover more operational areas.",
         "Using advanced analytics to derive actionable insights from emissions data."
       ],
-      examples: [
+      "examples": [
         "Implementation of a comprehensive real-time monitoring system across all data centers.",
         "Using real-time emissions data to optimize operational efficiency and reduce carbon footprint."
       ]
     }, {
-      summary: "Leading development and innovation in real-time emissions tracking.",
-      signals: [
+      "summary": "Leading development and innovation in real-time emissions tracking.",
+      "signals": [
         "Pioneering the use of cutting-edge technologies for detailed emissions monitoring.",
         "Influencing broader industry adoption of real-time emissions tracking through advocacy and knowledge sharing."
       ],
-      examples: [
+      "examples": [
         "Development of a blockchain-based system for transparent and verifiable emissions tracking.",
         "Hosting seminars on the benefits and techniques of real-time emissions monitoring for sustainability."
       ]
     }, {
-      summary: "Global leadership in promoting and implementing real-time emissions tracking.",
-      signals: [
+      "summary": "Global leadership in promoting and implementing real-time emissions tracking.",
+      "signals": [
         "Establishing standards for emissions monitoring that drive industry-wide improvements.",
         "Leading global initiatives that significantly enhance the use of real-time data for reducing environmental impact."
       ],
-      examples: [
+      "examples": [
         "Playing a pivotal role in forming an international agreement on real-time emissions monitoring standards.",
         "Organizing a global conference focused on innovative technologies for sustainability in emissions tracking."
       ],
@@ -889,52 +889,52 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the development and implementation of policy frameworks within an organization to support sustainable practices, ensuring they align with environmental goals and compliance requirements.",
     "milestones": [{
-      summary: "Initial recognition of the need for sustainability-focused policies.",
-      signals: [
+      "summary": "Initial recognition of the need for sustainability-focused policies.",
+      "signals": [
         "Beginning to understand the impact of organizational policies on sustainability.",
         "Identifying gaps where sustainability could be integrated into existing policies."
       ],
-      examples: [
+      "examples": [
         "Review of current policies to identify lack of sustainability considerations.",
         "Initial discussions on the integration of sustainability into company policies."
       ]
     }, {
-      summary: "Development and implementation of basic sustainability policies.",
-      signals: [
+      "summary": "Development and implementation of basic sustainability policies.",
+      "signals": [
         "Crafting initial policies that incorporate sustainability principles.",
         "Starting to embed sustainability considerations into business operations."
       ],
-      examples: [
+      "examples": [
         "Introduction of a recycling policy in the workplace.",
         "Adoption of a green procurement policy for office supplies."
       ]
     }, {
-      summary: "Enhancing and expanding sustainability policies organization-wide.",
-      signals: [
+      "summary": "Enhancing and expanding sustainability policies organization-wide.",
+      "signals": [
         "Refining and implementing comprehensive sustainability policies across departments.",
         "Establishing accountability and monitoring mechanisms for policy adherence."
       ],
-      examples: [
+      "examples": [
         "Company-wide sustainability training programs.",
         "Implementation of a carbon footprint reduction target and reporting."
       ]
     }, {
-      summary: "Leading in the creation of innovative and influential sustainability policies.",
-      signals: [
+      "summary": "Leading in the creation of innovative and influential sustainability policies.",
+      "signals": [
         "Pioneering advanced sustainability policies that set new industry standards.",
         "Promoting and sharing successful policy frameworks with the wider industry."
       ],
-      examples: [
+      "examples": [
         "Development of a sustainability policy that becomes a benchmark for the industry.",
         "Organizing a conference to share best practices in sustainability policy development."
       ]
     }, {
-      summary: "Global leadership in sustainability policy development and advocacy.",
-      signals: [
+      "summary": "Global leadership in sustainability policy development and advocacy.",
+      "signals": [
         "Influencing global sustainability standards through policy development.",
         "Mentoring other organizations in the adoption and implementation of sustainability policies."
       ],
-      examples: [
+      "examples": [
         "Contributing to international guidelines on corporate sustainability practices.",
         "Leading a global initiative to promote sustainability policy adoption across industries."
       ],
@@ -947,64 +947,54 @@ export const tracks: Tracks = {
     "category": "D",
     "description": "Evaluates the adoption and effectiveness of green procurement practices, focusing on sourcing environmentally friendly products and services to reduce the organization's carbon footprint and promote sustainability.",
     "milestones": [{
-      "summary": "Initiates the integration of green procurement practices, identifying opportunities to adopt more sustainable purchasing decisions.",
+      "summary": "Initial awareness of the importance of green procurement.",
       "signals": [
-        "Assesses current procurement policies for environmental impact considerations",
-        "Identifies key suppliers and products for sustainability improvement",
-        "Recommends initial steps towards greener procurement practices"
+        "Understanding the environmental impact of procurement choices.",
+        "Beginning to explore options for more sustainable procurement practices."
       ],
       "examples": [
-        "Conducted an audit of existing suppliers to evaluate their sustainability credentials",
-        "Implemented a pilot program to prioritize eco-friendly office supplies",
-        "Developed criteria for assessing the environmental impact of purchased goods and services"
+        "Research on eco-friendly products and suppliers.",
+        "Initial discussions on incorporating sustainability into procurement policies."
       ]
     }, {
-      "summary": "Enhances procurement strategies to prioritize sustainability, demonstrating a commitment to reducing environmental impacts through purchasing decisions.",
+      "summary": "Starting to integrate green procurement practices.",
       "signals": [
-        "Adopts comprehensive green procurement policies across the organization",
-        "Engages with suppliers to encourage and facilitate more sustainable practices",
-        "Measures and reports on the environmental benefits achieved through green procurement"
+        "Adopting basic policies for environmentally friendly purchasing.",
+        "Engaging suppliers in discussions about sustainability practices."
       ],
       "examples": [
-        "Transitioned to a fully renewable energy supplier for company facilities",
-        "Organized a supplier sustainability workshop to share best practices and expectations",
-        "Reported annual reductions in carbon emissions achieved through sustainable procurement decisions"
+        "Prioritizing recycled materials for office supplies.",
+        "Assessing suppliers' environmental policies as part of the procurement process."
       ]
     }, {
-      "summary": "Leads innovative approaches in green procurement, setting new standards for environmental responsibility in supply chain management.",
+      "summary": "Enhancing and expanding green procurement policies organization-wide.",
       "signals": [
-        "Pioneers the development of industry-leading sustainable procurement frameworks",
-        "Influences broader market demand for sustainable products and services",
-        "Shares knowledge and resources to promote green procurement practices widely"
+        "Developing comprehensive green procurement guidelines.",
+        "Instituting regular reviews of procurement practices for sustainability compliance."
       ],
       "examples": [
-        "Developed a sustainability rating system for evaluating and selecting suppliers",
-        "Played a leading role in a consortium aimed at increasing demand for recycled materials",
-        "Published a white paper on the impact of green procurement on reducing supply chain emissions"
+        "Implementation of a sustainable electronics procurement program.",
+        "Training procurement staff on evaluating products' and suppliers' sustainability."
       ]
     }, {
-      "summary": "Establishes comprehensive green procurement programs that serve as benchmarks for the industry, driving significant reductions in environmental impact.",
+      "summary": "Leading innovation and advocacy in sustainable procurement.",
       "signals": [
-        "Creates scalable and replicable green procurement strategies adopted by peers",
-        "Engages with policy makers to advocate for regulatory support of green procurement",
-        "Mentors other organizations in implementing effective green procurement practices"
+        "Pioneering new standards for green procurement within the industry.",
+        "Sharing successful practices and collaborating with other organizations to promote sustainable procurement."
       ],
       "examples": [
-        "Launched an open-source platform for sharing information on sustainable suppliers",
-        "Contributed to the development of a national policy on green procurement for public sector organizations",
-        "Provided consultancy to several Fortune 500 companies on establishing green procurement processes"
+        "Developing a certification program for eco-friendly suppliers.",
+        "Hosting a symposium on sustainable procurement practices."
       ]
     }, {
-      "summary": "Achieves global leadership in green procurement, influencing supply chains and procurement practices worldwide towards greater sustainability.",
+      "summary": "Global leadership in promoting and implementing green procurement.",
       "signals": [
-        "Champions global initiatives focused on transforming procurement practices to prioritize environmental sustainability",
-        "Influences international standards and agreements on sustainable procurement",
-        "Leads groundbreaking research and development in sustainable procurement methodologies"
+        "Setting international benchmarks for sustainable procurement practices.",
+        "Leading global initiatives to drive the adoption of green procurement across industries."
       ],
       "examples": [
-        "Keynoted at a global summit on sustainable development, presenting a model for green procurement",
-        "Played a pivotal role in establishing an international agreement on green supply chain standards",
-        "Directed a multinational project on innovative procurement practices, significantly reducing the carbon footprint of participating companies",
+        "Influencing policy changes to support sustainable procurement.",
+        "Facilitating a global network of organizations committed to sustainable procurement."
       ],
     }],
   },
