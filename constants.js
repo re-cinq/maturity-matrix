@@ -432,64 +432,54 @@ export const tracks: Tracks = {
     "category": "B",
     "description": "Focuses on developing and promoting software that actively reduces its carbon footprint, leveraging data and technology to make informed decisions about energy use.",
     "milestones": [{
-      "summary": "Begins incorporating carbon-aware principles into software design and development, understanding the impact of computing on carbon emissions.",
+      "summary": "Beginning awareness of carbon footprint in software development.",
       "signals": [
-        "Identifies key areas where software can be optimized for lower carbon emissions",
-        "Starts to use carbon footprint calculators for software projects",
-        "Implements initial changes to reduce the carbon footprint of software applications"
+        "Exploring the basics of carbon-aware computing.",
+        "Understanding the impact of software design and development on carbon emissions."
       ],
       "examples": [
-        "Optimized an application's data processing to reduce server time and energy use",
-        "Incorporated a carbon calculator tool into the software development lifecycle",
-        "Adjusted application's sleep and wake cycles to minimize energy consumption"
+        "Researching tools and practices for measuring software carbon emissions.",
+        "Initial discussions on how software choices affect energy consumption and carbon footprint."
       ]
     }, {
-      "summary": "Advances in creating carbon-aware software solutions, significantly reducing the carbon footprint of projects and promoting sustainability standards.",
+      "summary": "Integrating carbon-aware practices into development processes.",
       "signals": [
-        "Designs software with carbon efficiency as a core requirement",
-        "Evaluates new projects for their potential environmental impact",
-        "Shares knowledge on carbon-aware practices within the organization"
+        "Adopting tools for carbon footprint calculation in software projects.",
+        "Making initial changes to software design and development to reduce carbon emissions."
       ],
       "examples": [
-        "Developed a feature that dynamically adjusts resource use based on renewable energy availability",
-        "Led a project review focused on identifying opportunities to reduce its carbon footprint",
-        "Conducted a seminar on carbon-aware software development for the department"
+        "Optimizing application's data processing to lower energy use.",
+        "Incorporating carbon-aware considerations in software design documentation."
       ]
     }, {
-      "summary": "Leads innovative projects in carbon-aware software, setting new benchmarks for sustainability in the industry.",
+      "summary": "Enhancing software solutions with carbon efficiency as a core goal.",
       "signals": [
-        "Pioneers the use of advanced technologies to minimize software’s environmental impact",
-        "Influences the adoption of carbon-aware practices across multiple teams and projects",
-        "Engages with external stakeholders to promote carbon-aware software development"
+        "Implementing significant software features or changes aimed at reducing carbon emissions.",
+        "Promoting and sharing knowledge on carbon-efficient software development within the organization."
       ],
       "examples": [
-        "Implemented a cloud-based solution that optimizes energy consumption across data centers",
-        "Initiated a cross-functional task force to integrate carbon awareness into all software projects",
-        "Collaborated with industry partners to develop a standard for measuring software carbon emissions"
+        "Developing a feature that minimizes resource use based on real-time carbon intensity data.",
+        "Leading a team or project with carbon-aware goals and measuring the impact."
       ]
     }, {
-      "summary": "Establishes frameworks and policies that advocate for carbon-aware software development on a global scale, driving industry-wide adoption.",
+      "summary": "Pioneering advanced carbon-aware software projects and methodologies.",
       "signals": [
-        "Creates scalable, carbon-aware software frameworks adopted by the industry",
-        "Mentors others in the field, spreading awareness and knowledge of carbon-efficient software practices",
-        "Drives significant reductions in the tech industry’s carbon emissions through leadership and innovation"
+        "Creating innovative solutions that significantly lower software’s carbon footprint.",
+        "Influencing broader adoption of carbon-aware practices through leadership and advocacy."
       ],
       "examples": [
-        "Developed a widely used framework for carbon-aware computing, reducing emissions for numerous applications",
-        "Organized a global conference on sustainable software practices, featuring carbon-aware development",
-        "Led a campaign for the inclusion of carbon awareness in software engineering curricula"
+        "Developing a widely used open-source tool for carbon-aware software development.",
+        "Publishing a case study on a project that achieved substantial carbon emission reductions."
       ]
     }, {
-      "summary": "Becomes a world-leading authority in carbon-aware software development, influencing policy, shaping educational standards, and pioneering technological breakthroughs.",
+      "summary": "Global leadership in carbon-aware software development.",
       "signals": [
-        "Sets global standards for carbon-aware software development",
-        "Leads groundbreaking research in carbon-efficient computing",
-        "Influences international policy on technology and sustainability"
+        "Setting global standards and leading major initiatives for carbon-aware computing.",
+        "Driving the technology industry towards more sustainable practices through innovation and advocacy."
       ],
       "examples": [
-        "Keynote speaker at a UN conference on technology and sustainability",
-        "Published influential research on reducing software-induced carbon emissions",
-        "Played a pivotal role in forming an international agreement on carbon-aware technology standards",
+        "Spearheading the development of international guidelines for carbon-aware software.",
+        "Leading a global consortium focused on reducing the carbon footprint of digital infrastructure."
       ],
     }],
   },
