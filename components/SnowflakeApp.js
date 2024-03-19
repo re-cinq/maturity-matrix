@@ -154,7 +154,7 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
         pdf.rect(margin, margin, imgWidth - 2 * margin, imgHeight - 2 * margin, 'S');
 
         pdf.addImage(imgData, 'JPEG', margin, yPos, imgWidth - 2 * margin, imgHeight - 2 * margin);
-        pdf.save("download.pdf");
+        pdf.save("green-assessment-recinq.pdf");
       });
   } 
 
